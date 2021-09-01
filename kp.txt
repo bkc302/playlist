@@ -29,40 +29,6 @@ http://www.b98.tv/video/The-Weird-Winds-of-Winona.mp4
 http://www.b98.tv/video/The-Haunted-Candy-Factory.mp4
 #EXTINF:0, The New Scooby-Doo Movies - The Haunted Carnival
 http://www.b98.tv/video/The-Haunted-Carnival.mp4
-#EXTINF:0, Superman - Superman (a.k.a. The Mad Scientist)
-https://archive.org/download/The.Mechanical.Monsters.1941/Superman.1941.mp4
-#EXTINF:0, Superman - The Mechanical Monsters
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Mechanical.Monsters.1941.mp4
-#EXTINF:0, Superman - Billion Dollar Limited
-https://archive.org/download/The.Mechanical.Monsters.1941/Billion.Dollar.Limited.1942.mp4
-#EXTINF:0, Superman - The Arctic Giant
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Arctic.Giant.1942.mp4
-#EXTINF:0, Superman - The Bulleteers
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Bulleteers.1942.mp4
-#EXTINF:0, Superman - The Magnetic Telescope
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Magnetic.Telescope.1942.mp4
-#EXTINF:0, Superman - Electric Earthquake
-https://archive.org/download/The.Mechanical.Monsters.1941/Electric.Earthquake.1942.mp4
-#EXTINF:0, Superman - Volcano
-https://archive.org/download/The.Mechanical.Monsters.1941/Volcano.1942.mp4
-#EXTINF:0, Superman - Terror on the Midway
-https://archive.org/download/The.Mechanical.Monsters.1941/Terror.on.the.Midway.1942.mp4
-#EXTINF:0, Superman - The Japoteurs
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Japoteurs.1942.mp4
-#EXTINF:0, Superman - The Showdown
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Showdown.1942.mp4
-#EXTINF:0, Superman - Eleventh Hour
-https://archive.org/download/The.Mechanical.Monsters.1941/Eleventh.Hour.1942.mp4
-#EXTINF:0, Superman - Destruction, Inc.
-https://archive.org/download/The.Mechanical.Monsters.1941/Destruction.Inc.1943.mp4
-#EXTINF:0, Superman - The Mummy Strikes
-https://archive.org/download/The.Mechanical.Monsters.1941/The.Mummy.Strikes.1943.mp4
-#EXTINF:0, Superman - Jungle Drums
-https://archive.org/download/The.Mechanical.Monsters.1941/Jungle.Drums.1943.mp4
-#EXTINF:0, Superman - The Underground World
-https://archive.org/download/The.Mechanical.Monsters.1941/Underground.World.1943.mp4
-#EXTINF:0, Superman - Secret Agent
-https://archive.org/download/The.Mechanical.Monsters.1941/Secret.Agent.1943.mp4
 #EXTINF:0, The Scooby-Doo Show - High Rise Hair Raiser
 http://www.b98.tv/video/High-rise-Hair-Raiser.mp4
 #EXTINF:0, The Scooby-Doo Show - The Fiesta Host is an Aztec Ghost
@@ -421,26 +387,6 @@ http://www.b98.tv/video/Future-Tense.mp4
 http://www.b98.tv/video/Team-Spirit.mp4
 #EXTINF:0, The Jetsons - The Vacation
 http://www.b98.tv/video/The-Vacation.mp4
-#EXTINF:0, Fraidy Cat - Choo Choo
-https://archive.org/download/LollipopBurglar/Choo%20Choo.mp4
-#EXTINF:0, Fraidy Cat - Cupid Cat
-https://archive.org/download/LollipopBurglar/Cupid%20Cat.mp4
-#EXTINF:0, Fraidy Cat - Feline Fortune
-https://archive.org/download/LollipopBurglar/Feline%20Fortune.mp4
-#EXTINF:0, Fraidy Cat - Lollipop Burglar
-https://archive.org/download/LollipopBurglar/Lollipop%20Burglar.mp4
-#EXTINF:0, Fraidy Cat - Love is a Many Feathered Thing
-https://archive.org/download/LollipopBurglar/Love%20is%20a%20Many%20Feathered%20Thing.mp4
-#EXTINF:0, Fraidy Cat - Magic Numbers
-https://archive.org/download/LollipopBurglar/Magic%20Numbers.mp4
-#EXTINF:0, Fraidy Cat - Meaner than a Junkyard Cat
-https://archive.org/download/LollipopBurglar/Meaner%20than%20a%20Junkyard%20Cat.mp4
-#EXTINF:0, Fraidy Cat - Not So Nice Mice
-https://archive.org/download/LollipopBurglar/Not%20So%20Nice%20Mice.mp4
-#EXTINF:0, Fraidy Cat - Over The Wall
-https://archive.org/download/LollipopBurglar/Over%20The%20Wall.mp4
-#EXTINF:0, Fraidy Cat - This Cat For Hire
-https://archive.org/download/LollipopBurglar/This%20Cat%20For%20Hire.mp4
 #EXTINF:0, The Flintstones - Kleptomaniac Pebbles
 http://www.b98.tv/video/Kleptomaniac-Pebbles.mp4
 #EXTINF:0, The Flintstones - How to Pick a Fight with Your Wife Without Really Trying
@@ -597,40 +543,6 @@ http://www.b98.tv/video/All-That-Jazz.mp4
 http://www.b98.tv/video/The-Maharajah-of-Pookajee.mp4
 #EXTINF:0, Top Cat - Hawaii, Here We Come
 http://www.b98.tv/video/Hawaii-Here-We-Come.mp4
-#EXTINF:0, Colonel Bleep - Building an Island Base
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Building%20an%20Island%20Base.mp4
-#EXTINF:0, Colonel Bleep - Earth From Outer Space
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Earth%20From%20Outer%20Space.mp4
-#EXTINF:0, Colonel Bleep - Exposed
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Exposed.mp4
-#EXTINF:0, Colonel Bleep - Man Hunt On The Moon
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Man%20Hunt%20On%20The%20Moon.mp4
-#EXTINF:0, Colonel Bleep - Nightmare
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Nightmare.mp4
-#EXTINF:0, Colonel Bleep - Scatch and his Feathered Friend
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Scatch%20and%20his%20Feathered%20Friend.mp4
-#EXTINF:0, Colonel Bleep - Scratch and The Sea Serpent
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Scratch%20and%20The%20Sea%20Serpent.mp4
-#EXTINF:0, Colonel Bleep - Squeak and the Terrible Termite
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Squeak%20and%20the%20Terrible%20Termite.mp4
-#EXTINF:0, Colonel Bleep - The Greedy Gorilla
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20The%20Greedy%20Gorilla.mp4
-#EXTINF:0, Colonel Bleep - The Ingenious Invention
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20The%20Ingenious%20Invention.mp4
-#EXTINF:0, Colonel Bleep - The Invisible Gorilla
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20The%20Invisible%20Gorilla.mp4
-#EXTINF:0, Colonel Bleep - The Prehistoric Present
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20The%20Prehistoric%20Present.mp4
-#EXTINF:0, Colonel Bleep - The Runaway Rocket
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20The%20Runaway%20Rocket.mp4
-#EXTINF:0, Colonel Bleep - Uncharted Island
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20Uncharted%20Island.mp4
-#EXTINF:0, Colonel Bleep - War in Robot Land
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-%20War%20in%20Robot%20Land.mp4
-#EXTINF:0, Colonel Bleep - Shadows Of Suspicion
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleep%20-Shadows%20Of%20Suspicion.mp4
-#EXTINF:0, Colonel Bleep - Arrival on Earth
-https://archive.org/download/WoodyWoodpeckerPantryPanic/Colonel%20Bleeps%20-%20Arrival%20on%20Earth.mp4
 #EXTINF:0, Scooby Doo Where Are You? - What A Night For A Knight
 http://www.b98.tv/video/What-a-Night-for-a-Knight.mp4
 #EXTINF:0, Scooby Doo Where Are You? - A Clue For Scooby-Doo
@@ -927,6 +839,54 @@ http://www.b98.tv/video/Sorry-Safari.mp4
 http://www.b98.tv/video/Solid-Serenade.mp4
 #EXTINF:0, Tom & Jerry - Snowbody Loves Me
 http://www.b98.tv/video/Snowbody-Loves-Me.mp4
+#EXTINF:0, Tom & Jerry - Smitten Kitten
+https://www.b98.tv/video/Smitten-Kitten.mp4
+#EXTINF:0, Tom & Jerry - Smarty Cat
+https://www.b98.tv/video/Smarty-Cat.mp4
+#EXTINF:0, Tom & Jerry - Slicked-Up Pup
+https://www.b98.tv/video/Slicked-up-Pup.mp4
+#EXTINF:0, Tom & Jerry - Sleepy-Time Tom
+https://www.b98.tv/video/Sleepy-time-Tom.mp4
+#EXTINF:0, Tom & Jerry - Shutter Bugged Cat
+https://www.b98.tv/video/Shutter-bugged-Cat.mp4
+#EXTINF:0, Tom & Jerry - Saturday Evening Puss
+https://www.b98.tv/video/Saturday-Evening-Puss.mp4
+#EXTINF:0, Tom & Jerry - Salt Water Tabby
+https://www.b98.tv/video/Salt-Water-Tabby.mp4
+#EXTINF:0, Tom & Jerry - Safety Second
+https://www.b98.tv/video/Safety-Second.mp4
+#EXTINF:0, Tom & Jerry - Royal Cat Nap
+https://www.b98.tv/video/Royal-Cat-Nap.mp4
+#EXTINF:0, Tom & Jerry - Rock ‘N’ Rodent
+https://www.b98.tv/video/Rock-n-Rodent.mp4
+#EXTINF:0, Tom & Jerry - Robin Hoodwinked
+https://www.b98.tv/video/Robin-Hoodwinked.mp4
+#EXTINF:0, Tom & Jerry - Quiet Please!
+https://www.b98.tv/video/Quiet-Please.mp4
+#EXTINF:0, Tom & Jerry - Puttin’ On The Dog
+https://www.b98.tv/video/Puttin-On-The-Dog.mp4
+#EXTINF:0, Tom & Jerry - Puss N’ Toots
+https://www.b98.tv/video/Puss-N-Toots.mp4
+#EXTINF:0, Tom & Jerry - Puss ‘N’ Boats
+https://www.b98.tv/video/Puss-n-Boats.mp4
+#EXTINF:0, Tom & Jerry - Puss Gets The Boot
+https://www.b98.tv/video/Puss-Gets-The-Boot.mp4
+#EXTINF:0, Tom & Jerry - Push-Button Kitty
+https://www.b98.tv/video/Push-Button-Kitty.mp4
+#EXTINF:0, Tom & Jerry - Purr-Chance To Dream
+https://www.b98.tv/video/Purr-Chance-To-Dream.mp4
+#EXTINF:0, Tom & Jerry - Puppy Tale
+https://www.b98.tv/video/Puppy-Tale.mp4
+#EXTINF:0, Tom & Jerry - Pup On A Picnic
+https://www.b98.tv/video/Pup-On-A-Picnic.mp4
+#EXTINF:0, Tom & Jerry - Professor Tom
+https://www.b98.tv/video/Professor-Tom.mp4
+#EXTINF:0, Tom & Jerry - Posse Cat
+https://www.b98.tv/video/Posse-Cat.mp4
+#EXTINF:0, Tom & Jerry - Polka-Dot Puss
+https://www.b98.tv/video/Polka-dot-Puss.mp4
+#EXTINF:0, Tom & Jerry - Pet Peeve
+https://www.b98.tv/video/Pet-Peeve.mp4
 #EXTINF:0, Merrie Melodies - Rabbit Hood
 http://www.b98.tv/video/Rabbit-Hood.mp4
 #EXTINF:0, Merrie Melodies - Prest-O Change-O
@@ -1149,14 +1109,6 @@ http://www.b98.tv/video/The-Unnatural.mp4
 http://www.b98.tv/video/3-D-Struction.mp4
 #EXTINF:0, What's New, Scooby-Doo? - There’s No Creature Like Snow Creature
 http://www.b98.tv/video/Theres-No-Creature-Like-Snow-Creature.mp4
-#EXTINF:0, DuckTales - Liquid Assets
-http://www.b98.tv/video/Super-DuckTales-Liquid-Assets.mp4
-#EXTINF:0, DuckTales - A Drain on the Economy
-http://www.b98.tv/video/Catch-as-Cash-Can-A-Drain-on-the.mp4
-#EXTINF:0, DuckTales - A Whale of a Bad Time
-http://www.b98.tv/video/Catch-as-Cash-Can-A-Whale-of-a-Bad.mp4
-#EXTINF:0, DuckTales - All Ducks on Deck
-http://www.b98.tv/video/All-Ducks-on-Deck.mp4
 #EXTINF:0, Walt Disney - The Dognapper
 http://www.b98.tv/video/the-Dognapper.mp4
 #EXTINF:0, Walt Disney - Ye Olden Days
