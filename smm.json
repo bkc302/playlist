@@ -1,358 +1,94 @@
 {
-  "providerName": "Saturday Morning Matinee",
+  "providerName": "XTV",
   "language": "en-US",
-  "lastUpdated": "2021-09-7",
-  "Serials": [
+  "lastUpdated": "2023-01-29",
+  "Live TV": [
     {
-      "id": "The Lost City",
-      "title": "The Lost City",
-      "releaseDate": "1935-03-6",
-      "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-      "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
+      "longDescription": "",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
+      "releaseDate": "",
       "genres": [
-        "Entertainment"
+        ""
       ],
       "tags": [
-        "Entertainment"
+        ""
       ],
-      "seasons": [
-        {
-          "title": "Chapters",
-          "episodes": [
-            {
-              "id": "",
-              "title": "Living Dead-Men",
-              "episodeNumber": 1,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-01.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Tunnel of Flame",
-              "episodeNumber": 2,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-02.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Dagger Rock",
-              "episodeNumber": 3,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-03.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Doomed",
-              "episodeNumber": 4,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-04.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Tiger Prey",
-              "episodeNumber": 5,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-05.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Human Beasts",
-              "episodeNumber": 6,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-06.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Spider Men",
-              "episodeNumber": 7,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-07.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Human Targets",
-              "episodeNumber": 8,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-08.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Jungle Vengeance",
-              "episodeNumber": 9,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-09.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Lion Pit",
-              "episodeNumber": 10,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-10.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Death Ray",
-              "episodeNumber": 11,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-11.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Mad Scientist",
-              "episodeNumber": 12,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheLostCityall12ChaptersVideoQualityUpgrade/TLC-12.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://github.com/bkc302/playlist/raw/master/thelostcity.jpg",
-              "shortDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "releaseDate": "",
-              "longDescription": "An evil scientist plots to take over the world from his base in Africa, where he has invented a machine that can cause earthquakes.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            }
-          ]
-        }
-      ]
+      "id": "",
+      "shortDescription": "",
+      "title": "AMC",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
     },
     {
-      "id": "The Mystery of the River Boat",
-      "title": "The Mystery of the River Boat",
-      "releaseDate": "1944-10-24",
-      "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
+      "longDescription": "",
+      "thumbnail": "https://i.imgur.com/pTiiPz0.png",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "BBC America",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "",
+      "title": "Reelz",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    }
+  ],
+  "TV Shows": [
+    {
+      "id": "Newhart",
+      "title": "Newhart",
+      "releaseDate": "1982-10-25",
+      "shortDescription": "Dick Loudon and wife Joanna relocate from New York City to a small town in Vermont, where they run the historic Stafford Inn. They're surrounded by a town full of oddballs and colorful characters, whom Loudon deals with in various states of bemusement.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Newhart_%28title_card%29.png",
       "genres": [
         "Entertainment"
       ],
@@ -361,28 +97,28 @@
       ],
       "seasons": [
         {
-          "title": "Chapters",
+          "title": "Season 1",
           "episodes": [
             {
               "id": "",
-              "title": "The Tragic Crash",
+              "title": "In the Beginning",
               "episodeNumber": 1,
               "content": {
                 "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt01.mp4",
+                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20101%20-%20In%20the%20Beginning.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 187,
+                "duration": 1569,
                 "language": "en-us"
               },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Newhart_%28title_card%29.png",
+              "shortDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont.",
               "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
+              "longDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont.",
               "tags": [
                 "Entertainment"
               ],
@@ -392,321 +128,24 @@
             },
             {
               "id": "",
-              "title": "The Phantom Killer",
-              "episodeNumber": 2,
+              "title": "Mrs. Newton's Body Lies A-Mould'ring in the Grave",
+              "episodeNumber": 1,
               "content": {
                 "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt02.mp4",
+                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20102%20-%20Mrs.%20Newton%27s%20Body%20Lies%20A%27Mould%27ring%20in%20the%20Grave.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 187,
+                "duration": 1480,
                 "language": "en-us"
               },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/c4/Newhart_%28title_card%29.png",
+              "shortDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch.",
               "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Flaming Inferno",
-              "episodeNumber": 3,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt03.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Brink of Doom",
-              "episodeNumber": 4,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt04.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Highway of Peril",
-              "episodeNumber": 5,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt05.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Fatal Plunge",
-              "episodeNumber": 6,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt06.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Toll of the Storm",
-              "episodeNumber": 7,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt07.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Break in the Levee",
-              "episodeNumber": 8,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt08.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Trapped in the Quicksands",
-              "episodeNumber": 9,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt09.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Flaming Havoc",
-              "episodeNumber": 10,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt10.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Electrocuted",
-              "episodeNumber": 11,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt11.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Risking Death",
-              "episodeNumber": 12,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt12.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Boomerang",
-              "episodeNumber": 13,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/TheMysteryOfTheRiverboatall13Chapters/MysteryOfTheRiverboatChapt13.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 187,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/river_boat.jpg",
-              "shortDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
-              "releaseDate": "",
-              "longDescription": "The Mississippi River and the swamps of Louisiana comprise the setting for mystery, murder and plenty of serial-style heroics. An unusually atmospheric and intelligent chapter play.",
+              "longDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch.",
               "tags": [
                 "Entertainment"
               ],
@@ -719,18 +158,18 @@
       ]
     }
   ],
-  "Cartoons": [
+  "Animation/Cartoons": [
     {
-      "id": "Tex Avery",
-      "title": "Tex Avery",
-      "releaseDate": "",
-      "shortDescription": "Tex Avery Cartoons",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/tex_avery.jpg",
+      "id": "The Scooby-Doo Show",
+      "title": "The Scooby-Doo Show",
+      "releaseDate": 1976,
+      "shortDescription": "Scooby Doo, Shaggy and the rest of gang travel in the Mystery Machine and attempt to solve mysteries.",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/23/Scooby-doo-show.jpg",
       "genres": [
         "Entertainment"
       ],
       "tags": [
-        "Tex Avery"
+        "Entertainment"
       ],
       "seasons": [
         {
@@ -738,26 +177,26 @@
           "episodes": [
             {
               "id": "",
-              "title": "Blitz Wolf",
+              "title": "High Rise Hair Raiser",
               "episodeNumber": 1,
               "content": {
                 "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/tex-avery-mgm/Tex%20Avery/01.%20Blitz%20Wolf.mp4",
+                    "url": "https://archive.org/download/the-scooby-doo-show/The%20Scooby-Doo%20Show%20%281976%29/Season%2001/The%20Scooby-Doo%20Show%20-%20S01E01%20-%20High%20Rise%20Hair%20Raiser%20WEBDL-1080p.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 595,
+                "duration": 1456,
                 "language": "en-us"
               },
-              "thumbnail": "https://archive.org/download/tex-avery-mgm/tex-avery-mgm.thumbs/Tex%20Avery/01.%20Blitz%20Wolf_000282.jpg",
-              "shortDescription": "",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/23/Scooby-doo-show.jpg",
+              "shortDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
               "releaseDate": "",
-              "longDescription": "",
+              "longDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
               "tags": [
-                "tips"
+                ""
               ],
               "genres": [
                 "Entertainment"
@@ -765,124 +204,29 @@
             },
             {
               "id": "",
-              "title": "Best speaker placement",
-              "episodeNumber": 2,
-              "content": {
-                "dateAdded": "2020-02-04T19:08:55Z",
-                "videos": [
-                  {
-                    "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/62405a3b6d304bd180626636854f7acd/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 134,
-                "captions": [
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.srt"
-                  },
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/captions/Best_Speaker_Placement_cc_eng.vtt"
-                  }
-                ],
-                "language": "en-us"
-              },
-              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-dc61d89665cf8a5c363925e7fcb4e382fa90f1f9_3/images/Best_Speaker_Placement.jpg",
-              "shortDescription": "Find the best placement of your Roku audio devices",
-              "releaseDate": "2020-01-02",
-              "longDescription": "Find the best placement of your Roku audio devices",
-              "tags": [
-                "tips"
-              ],
-              "genres": [
-                "educational"
-              ]
-            }
-          ]
-        },
-        {
-          "title": "Season 2",
-          "episodes": [
-            {
-              "id": "shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5",
-              "title": "Guest Mode",
+              "title": "High Rise Hair Raiser",
               "episodeNumber": 1,
               "content": {
-                "dateAdded": "2020-01-29T02:32:18Z",
+                "dateAdded": "",
                 "videos": [
                   {
-                    "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/aed3cf8c357f4ef8b8e267a30ac8f25a/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
+                    "videoType": "mp4",
+                    "url": "https://archive.org/download/the-scooby-doo-show/The%20Scooby-Doo%20Show%20%281976%29/Season%2001/The%20Scooby-Doo%20Show%20-%20S01E01%20-%20High%20Rise%20Hair%20Raiser%20WEBDL-1080p.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 15,
-                "captions": [
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.srt"
-                  },
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/captions/GUEST_MODE_cc_eng.vtt"
-                  }
-                ],
+                "duration": 1456,
                 "language": "en-us"
               },
-              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-cb6dc73fb84bf7f0d35b99b83217f2dbc9bc08d5_1/images/GUEST_MODE.jpg",
-              "shortDescription": "Let your guests stream with their own accounts",
-              "releaseDate": "2019-12-03",
-              "longDescription": "Let your guests stream with their own accounts",
+              "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/23/Scooby-doo-show.jpg",
+              "shortDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
+              "releaseDate": "",
+              "longDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
               "tags": [
-                "tips"
+                ""
               ],
               "genres": [
-                "educational"
-              ]
-            },
-            {
-              "id": "shortform-6f2088297f82e02e74e07341fd404750b56e2fbb",
-              "title": "Private Listening",
-              "episodeNumber": 2,
-              "content": {
-                "dateAdded": "2020-03-06T20:43:17Z",
-                "videos": [
-                  {
-                    "videoType": "HLS",
-                    "url": "https://d1n7kckvd41xqg.cloudfront.net/f137dd3848ba4bf3b70bb00b90b0eaf7/ac885a2fea4d4cbeafb279b33e8ba342/21b582aed3134cd4ad03dc646e04282d/index.m3u8",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 30,
-                "captions": [
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.srt"
-                  },
-                  {
-                    "language": "en",
-                    "captionType": "CLOSED_CAPTION",
-                    "url": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/captions/ROKU_PRIVATE_LISTENING_012219_cc_eng.vtt"
-                  }
-                ],
-                "language": "en-us"
-              },
-              "thumbnail": "https://d6hm6c1vbpfva.cloudfront.net/shortform-6f2088297f82e02e74e07341fd404750b56e2fbb_2/images/ROKU_PRIVATE_LISTENING_012219.jpg",
-              "shortDescription": "See the benefits of the Private Listening",
-              "releaseDate": "2019-10-15",
-              "longDescription": "See the benefits of the Private Listening",
-              "tags": [
-                "tips"
-              ],
-              "genres": [
-                "educational"
+                "Entertainment"
               ]
             }
           ]
