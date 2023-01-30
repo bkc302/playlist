@@ -4,7 +4,7 @@
   "lastUpdated": "2023-01-29",
   "Live TV": [
     {
-      "longDescription": "",
+      "longDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/amc.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -14,7 +14,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "",
+      "shortDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
       "title": "AMC",
       "content": {
         "duration": 0,
@@ -30,7 +30,7 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/bbc_america.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -40,7 +40,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "",
+      "shortDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
       "title": "BBC America",
       "content": {
         "duration": 0,
@@ -56,7 +56,7 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/reelz.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -66,7 +66,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "",
+      "shortDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
       "title": "Reelz",
       "content": {
         "duration": 0,
