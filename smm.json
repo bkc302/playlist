@@ -260,6 +260,32 @@
         "language": "en-us",
         "dateAdded": ""
       }
+    },
+    {
+      "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
+      "releaseDate": "2001-04-11",
+      "genres": [
+        "Entertainment"
+      ],
+      "tags": [
+        "Entertainment"
+      ],
+      "id": "",
+      "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "title": "Ghostbusters",
+      "content": {
+        "duration": 6308,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Ghostbusters.1984.1080p.BluRay.x264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
     }
   ]
 }
