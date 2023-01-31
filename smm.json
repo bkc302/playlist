@@ -56,32 +56,6 @@
       }
     },
     {
-      "longDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/reelz.png?raw=true",
-      "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
-      "shortDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
-      "title": "Reelz",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
       "longDescription": "IFC is an American basic cable channel owned by AMC Networks. Launched in 1994 as the Independent Film Channel, IFC originally operated as a commercial-free service, devoted to showing independent films without interruption.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ifc.png?raw=true",
       "releaseDate": "",
@@ -100,6 +74,32 @@
           {
             "videoType": "HLS",
             "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/reelz.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
+      "title": "Reelz",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8",
             "quality": "HD"
           }
         ],
@@ -360,6 +360,162 @@
           {
             "videoType": "HLS",
             "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Anchored by a collection of television’s most-watched dramas, ION caters to its loyal binge-watching audience nationwide.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ion.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "Anchored by a collection of television’s most-watched dramas, ION caters to its loyal binge-watching audience nationwide.",
+      "title": "ION",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "ION Mystery is home to television's most binge-worthy, edge-of-your-seat thrillers, docuseries and originals. With top-rated shows including \"NCIS: New Orleans\" and the \"CSI\" franchise, plus real-life investigative series, ION Mystery invites viewers to put on their detectives hat and join the investigation.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionmystery.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "ION Mystery is home to television's most binge-worthy, edge-of-your-seat thrillers, docuseries and originals. With top-rated shows including \"NCIS: New Orleans\" and the \"CSI\" franchise, plus real-life investigative series, ION Mystery invites viewers to put on their detectives hat and join the investigation.",
+      "title": "ION Mystery",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/skills.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
+      "title": "Skills + Thrills",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Featuring a proven slate of hit series and top dramas, ION Plus streams fan favorite television for the whole family.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionplus.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "Featuring a proven slate of hit series and top dramas, ION Plus streams fan favorite television for the whole family.",
+      "title": "ION Plus",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "COMET is THE place for Science Fiction programming on television – with blockbuster movies, cult classics, and out-of-this-world TV series.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/comet.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "COMET is THE place for Science Fiction programming on television – with blockbuster movies, cult classics, and out-of-this-world TV series.",
+      "title": "Comet",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "CHARGE! is your television home for series and movies with action, crime drama, detectives and surprise plot twists…watch the best in the business solve cases and put away the bad guys every day for free on CHARGE!",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/charge.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "CHARGE! is your television home for series and movies with action, crime drama, detectives and surprise plot twists…watch the best in the business solve cases and put away the bad guys every day for free on CHARGE!",
+      "title": "Charge!",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
             "quality": "HD"
           }
         ],
