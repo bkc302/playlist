@@ -1,7 +1,7 @@
 {
   "providerName": "XTV",
   "language": "en-US",
-  "lastUpdated": "2023-01-29",
+  "lastUpdated": "2023-02-03",
   "Live TV": [
     {
       "longDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
@@ -17,21 +17,13 @@
             "url": "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us"
+        ]
       }
     },
     {
       "longDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/bbc_america.png?raw=true",
       "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
       "shortDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
       "title": "BBC America",
       "content": {
@@ -42,22 +34,13 @@
             "url": "https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
       "longDescription": "IFC is an American basic cable channel owned by AMC Networks. Launched in 1994 as the Independent Film Channel, IFC originally operated as a commercial-free service, devoted to showing independent films without interruption.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ifc.png?raw=true",
       "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
       "shortDescription": "IFC is an American basic cable channel owned by AMC Networks. Launched in 1994 as the Independent Film Channel, IFC originally operated as a commercial-free service, devoted to showing independent films without interruption.",
       "title": "IFC",
       "content": {
@@ -68,9 +51,7 @@
             "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
@@ -1880,7 +1861,7 @@
     {
       "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
-      "releaseDate": "1985-07-03",
+      "releaseDate": 1985,
       "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
       "title": "Back to the Future",
       "content": {
@@ -1891,21 +1872,13 @@
             "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
             "quality": "HD"
           }
-        ],
-        "language": "en-us"
+        ]
       }
     },
     {
       "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
-      "releaseDate": "1984-06-08",
-      "genres": [
-        "Entertainment"
-      ],
-      "tags": [
-        "Entertainment"
-      ],
-      "id": "",
+      "releaseDate": 1984,
       "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "title": "Ghostbusters",
       "content": {
@@ -1916,22 +1889,98 @@
             "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
+      }
+    },
+    {
+      "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
+      "releaseDate": 1989,
+      "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "title": "Ghostbusters II",
+      "content": {
+        "duration": 6500,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
+      "releaseDate": 1984,
+      "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "title": "The Karate Kid",
+      "content": {
+        "duration": 7615,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/5/il/o4vwb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
+      "releaseDate": 1986,
+      "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "title": "The Karate Kid Part II",
+      "content": {
+        "duration": 6795,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/y/yj/ev5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
+      "releaseDate": 1989,
+      "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "title": "The Karate Kid Part III",
+      "content": {
+        "duration": 6744,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/m/uj/np5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
+      "releaseDate": 1997,
+      "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "title": "The Fifth Element",
+      "content": {
+        "duration": 7551,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
       }
     },
     {
       "longDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/joe_dirt.png?raw=true",
-      "releaseDate": "2001-04-11",
-      "genres": [
-        "Entertainment"
-      ],
-      "tags": [
-        "Entertainment"
-      ],
-      "id": "",
+      "releaseDate": 2001,
       "shortDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
       "title": "Joe Dirt",
       "content": {
@@ -1942,9 +1991,7 @@
             "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Joe.Dirt.2001.720p.BluRay.x264.YIFY.mp4",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     }
   ]
