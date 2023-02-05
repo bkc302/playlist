@@ -2,7 +2,7 @@
   "providerName": "XTV",
   "language": "en-US",
   "lastUpdated": "2023-02-03",
-  "Live TV": [
+  "01: Live TV": [
     {
       "longDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/amc.png?raw=true",
@@ -470,7 +470,7 @@
       }
     }
   ],
-  "Movies": [
+  "02: Movies": [
     {
       "title": "Back to the Future",
       "releaseDate": "1985",
@@ -642,7 +642,7 @@
       }
     }
   ],
-  "TV Shows": [
+  "03: TV Shows": [
     {
       "title": "Newhart",
       "releaseDate": "1982",
@@ -1677,7 +1677,7 @@
       ]
     }
   ],
-  "Cartoons/Animation": [
+  "04: Cartoons/Animation": [
     {
       "title": "What's New, Scooby-Doo?",
       "releaseDate": "2002",
