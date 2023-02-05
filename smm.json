@@ -473,7 +473,7 @@
   "Movies": [
     {
       "title": "Back to the Future",
-      "releaseDate": 1985,
+      "releaseDate": "1985",
       "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
       "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
@@ -491,7 +491,7 @@
     {
       "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
-      "releaseDate": 1984,
+      "releaseDate": "1984",
       "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "title": "Ghostbusters",
       "content": {
@@ -508,7 +508,7 @@
     {
       "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
-      "releaseDate": 1989,
+      "releaseDate": "1989",
       "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
       "title": "Ghostbusters II",
       "content": {
@@ -525,7 +525,7 @@
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
-      "releaseDate": 1984,
+      "releaseDate": "1984",
       "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "title": "The Karate Kid",
       "content": {
@@ -542,7 +542,7 @@
     {
       "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
-      "releaseDate": 1986,
+      "releaseDate": "1986",
       "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
       "title": "The Karate Kid Part II",
       "content": {
@@ -559,7 +559,7 @@
     {
       "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
-      "releaseDate": 1989,
+      "releaseDate": "1989",
       "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
       "title": "The Karate Kid Part III",
       "content": {
@@ -576,7 +576,7 @@
     {
       "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
-      "releaseDate": 1997,
+      "releaseDate": "1997",
       "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
       "title": "The Fifth Element",
       "content": {
@@ -593,7 +593,7 @@
     {
       "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
-      "releaseDate": 1995,
+      "releaseDate": "1995",
       "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
       "title": "Jumanji",
       "content": {
@@ -610,7 +610,7 @@
     {
       "longDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mib.png?raw=true",
-      "releaseDate": 1997,
+      "releaseDate": "1997",
       "shortDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
       "title": "Men in Black",
       "content": {
@@ -627,7 +627,7 @@
     {
       "longDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/joe_dirt.png?raw=true",
-      "releaseDate": 2001,
+      "releaseDate": "2001",
       "shortDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
       "title": "Joe Dirt",
       "content": {
@@ -645,7 +645,7 @@
   "TV Shows": [
     {
       "title": "Newhart",
-      "releaseDate": "1982-10-25",
+      "releaseDate": "1982",
       "shortDescription": "Dick Loudon and wife Joanna relocate from New York City to a small town in Vermont, where they run the historic Stafford Inn. They're surrounded by a town full of oddballs and colorful characters, whom Loudon deals with in various states of bemusement.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
       "seasons": [
@@ -653,11 +653,9 @@
           "title": "Season 1",
           "episodes": [
             {
-              "id": "",
               "title": "In the Beginning",
               "episodeNumber": 1,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -665,26 +663,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": 1569,
-                "language": "en-us"
+                "duration": 1569
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
               "shortDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont.",
               "releaseDate": "",
-              "longDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont."
             },
             {
-              "id": "",
               "title": "Mrs. Newton's Body Lies A-Mould'ring in the Grave",
               "episodeNumber": 2,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -692,22 +681,14 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": 1480,
-                "language": "en-us"
+                "duration": 1480
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
               "shortDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch.",
               "releaseDate": "",
-              "longDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch."
             },
             {
-              "id": "",
               "title": "Hail to the Councilman",
               "episodeNumber": 3,
               "content": {
@@ -1252,7 +1233,7 @@
     },
     {
       "title": "Amazing Stories",
-      "releaseDate": 1985,
+      "releaseDate": "1985",
       "shortDescription": "Truly amazing, fantastical, funny, and odd, and sometimes scary, sad, and endearing stories are portrayed. Many famous actors, actresses, and directors made guest appearances.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
       "seasons": [
@@ -1260,227 +1241,153 @@
           "title": "Season 1",
           "episodes": [
             {
-              "id": "",
               "title": "Ghost Train",
               "episodeNumber": 1,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories101-GhostTrain.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E1-%20The%20Train.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1481,
-                "language": "en-us"
+                "duration": 1481
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "Opa Globe is convinced it is his destiny to board a train he inadvertently caused to crash 75 years ago, and tells his nine-year old grandson the old Highball Express will careen through their house.",
               "releaseDate": "",
-              "longDescription": "Opa Globe is convinced it is his destiny to board a train he inadvertently caused to crash 75 years ago, and tells his nine-year old grandson the old Highball Express will careen through their house.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "Opa Globe is convinced it is his destiny to board a train he inadvertently caused to crash 75 years ago, and tells his nine-year old grandson the old Highball Express will careen through their house."
             },
             {
-              "id": "",
               "title": "The Main Attraction",
               "episodeNumber": 2,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories102-TheMainAttraction.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E2-%20The%20Main%20Attraction.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1480,
-                "language": "en-us"
+                "duration": 1480
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "Athletic teenage hunk Brad Bender thinks he is too cool for nerdy classmate Shirley, who is crazy over him, until, to his horror, a meteor shower's power suddenly turns him into a human magnet.",
               "releaseDate": "",
-              "longDescription": "Athletic teenage hunk Brad Bender thinks he is too cool for nerdy classmate Shirley, who is crazy over him, until, to his horror, a meteor shower's power suddenly turns him into a human magnet.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "Athletic teenage hunk Brad Bender thinks he is too cool for nerdy classmate Shirley, who is crazy over him, until, to his horror, a meteor shower's power suddenly turns him into a human magnet."
             },
             {
-              "id": "",
               "title": "Alamo Jobe",
               "episodeNumber": 3,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories103-AlamoJobe.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E3%20-%20Alamo%20Joe.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1482,
-                "language": "en-us"
+                "duration": 1482
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "During the Battle of the Alamo on March 6, 1836, 15-year-old messenger Jobe H. Farnum is about to be killed. He is transported forward in time to San Antonio in 1985. The 1980s prove to be too much for Jobe to handle.",
               "releaseDate": "",
-              "longDescription": "During the Battle of the Alamo on March 6, 1836, 15-year-old messenger Jobe H. Farnum is about to be killed. He is transported forward in time to San Antonio in 1985. The 1980s prove to be too much for Jobe to handle.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "During the Battle of the Alamo on March 6, 1836, 15-year-old messenger Jobe H. Farnum is about to be killed. He is transported forward in time to San Antonio in 1985. The 1980s prove to be too much for Jobe to handle."
             },
             {
-              "id": "",
               "title": "Mummy Daddy",
               "episodeNumber": 4,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories104-MummyDaddy.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E4-%20Mummy,%20Daddy.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1481,
-                "language": "en-us"
+                "duration": 1481
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "A dedicated actor in a realistic mummy costume that he can't take off is shooting a movie in a swamp. When he hears his wife is in labor, he runs towards the town but the local rednecks think he's the real deal and form a posse.",
               "releaseDate": "",
-              "longDescription": "A dedicated actor in a realistic mummy costume that he can't take off is shooting a movie in a swamp. When he hears his wife is in labor, he runs towards the town but the local rednecks think he's the real deal and form a posse.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "A dedicated actor in a realistic mummy costume that he can't take off is shooting a movie in a swamp. When he hears his wife is in labor, he runs towards the town but the local rednecks think he's the real deal and form a posse."
             },
             {
-              "id": "",
               "title": "The Mission",
               "episodeNumber": 5,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories105-TheMission.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E5%20-%20The%20Mission.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 2773,
-                "language": "en-us"
+                "duration": 2773
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "A courageous young World War II gunner and aspiring cartoonist, trapped in the belly gun of a B-17 aircraft with the landing gear destroyed, has only his imagination as a force that might be able to save him.",
               "releaseDate": "",
-              "longDescription": "A courageous young World War II gunner and aspiring cartoonist, trapped in the belly gun of a B-17 aircraft with the landing gear destroyed, has only his imagination as a force that might be able to save him.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "A courageous young World War II gunner and aspiring cartoonist, trapped in the belly gun of a B-17 aircraft with the landing gear destroyed, has only his imagination as a force that might be able to save him."
             },
             {
-              "id": "",
               "title": "The Amazing Falsworth",
               "episodeNumber": 6,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories106-TheAmazingFalsworth.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E6%20-%20The%20Amazing%20Farlsworth.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1481,
-                "language": "en-us"
+                "duration": 1481
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "A nightclub audience gasps at The Amazing Falsworth's psychic powers, but the shock is his alone when the blindfolded performer picks up the vibes of a serial killer in the room.",
               "releaseDate": "",
-              "longDescription": "A nightclub audience gasps at The Amazing Falsworth's psychic powers, but the shock is his alone when the blindfolded performer picks up the vibes of a serial killer in the room.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "A nightclub audience gasps at The Amazing Falsworth's psychic powers, but the shock is his alone when the blindfolded performer picks up the vibes of a serial killer in the room."
             },
             {
-              "id": "",
               "title": "Fine Tuning",
               "episodeNumber": 7,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStories/AmazingStories107-FineTuning.mp4",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E7%20-%20Fine%20Tuning.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1485,
-                "language": "en-us"
+                "duration": 1485
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "Three high-school kids build an antenna that can catch signals from outer space. They learn that the aliens are big fans of 1950s American television and are coming to Hollywood to meet some of their favorite Earth stars.",
               "releaseDate": "",
-              "longDescription": "Three high-school kids build an antenna that can catch signals from outer space. They learn that the aliens are big fans of 1950s American television and are coming to Hollywood to meet some of their favorite Earth stars.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": "Three high-school kids build an antenna that can catch signals from outer space. They learn that the aliens are big fans of 1950s American television and are coming to Hollywood to meet some of their favorite Earth stars."
             },
             {
-              "id": "",
-              "title": "",
+              "title": "Mr. Magic",
               "episodeNumber": 8,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "",
+                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E8%20-Mr.%20Magic.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 9,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1488,26 +1395,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 10,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1515,26 +1413,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 11,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1542,26 +1431,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 12,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1569,26 +1449,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 13,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1596,26 +1467,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 14,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1623,26 +1485,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 15,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1650,26 +1503,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 16,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1677,26 +1521,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 17,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1704,26 +1539,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 18,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1731,26 +1557,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 19,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1758,26 +1575,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 20,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1785,26 +1593,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 21,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1812,26 +1611,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 22,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1839,26 +1629,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 23,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1866,26 +1647,17 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             },
             {
-              "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 24,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
@@ -1893,19 +1665,12 @@
                     "quality": "HD"
                   }
                 ],
-                "duration": "",
-                "language": "en-us"
+                "duration": ""
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
               "shortDescription": "",
               "releaseDate": "",
-              "longDescription": "",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "longDescription": ""
             }
           ]
         }
@@ -1915,7 +1680,7 @@
   "Cartoons/Animation": [
     {
       "title": "What's New, Scooby-Doo?",
-      "releaseDate": 2002,
+      "releaseDate": "2002",
       "shortDescription": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
       "seasons": [
@@ -1937,7 +1702,7 @@
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
               "shortDescription": "A snow creature terrorizes snowboard competitors.",
-              "releaseDate": 2002,
+              "releaseDate": "2002",
               "longDescription": "A snow creature terrorizes snowboard competitors."
             },
             {
@@ -1955,7 +1720,7 @@
               },
               "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
               "shortDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum.",
-              "releaseDate": 2002,
+              "releaseDate": "2002",
               "longDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum."
             }
           ]
