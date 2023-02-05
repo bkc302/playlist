@@ -58,13 +58,6 @@
       "longDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/reelz.png?raw=true",
       "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
       "shortDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
       "title": "Reelz",
       "content": {
@@ -75,22 +68,13 @@
             "url": "https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
       "longDescription": "TBS is an American television network owned by Warner Bros. It carries a variety of programming, with a focus on comedy, along with some sports events, including Major League Baseball, Stanley Cup playoffs, NCAA men's basketball tournament and professional wrestling show AEW Dynamite.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbs.png?raw=true",
       "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
       "shortDescription": "TBS is an American television network owned by Warner Bros. It carries a variety of programming, with a focus on comedy, along with some sports events, including Major League Baseball, Stanley Cup playoffs, NCAA men's basketball tournament and professional wrestling show AEW Dynamite.",
       "title": "TBS",
       "content": {
@@ -101,22 +85,13 @@
             "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
       "longDescription": "TNT is an American basic cable television channel owned by Warner Bros. that launched on October 3, 1988. TNT's original purpose was to air classic films and television series to which Turner Broadcasting maintained spillover rights through its sister station TBS. Since June 2001, the network has shifted its focus to dramatic television series and feature films, along with some sporting events (including NBA, NHL, the NCAA Division I men's basketball tournament and professional wrestling show AEW Rampage), as TBS shifted its focus to comedic programming.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tnt.png?raw=true",
       "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
       "shortDescription": "TNT is an American basic cable television channel owned by Warner Bros. that launched on October 3, 1988. TNT's original purpose was to air classic films and television series to which Turner Broadcasting maintained spillover rights through its sister station TBS. Since June 2001, the network has shifted its focus to dramatic television series and feature films, along with some sporting events (including NBA, NHL, the NCAA Division I men's basketball tournament and professional wrestling show AEW Rampage), as TBS shifted its focus to comedic programming.",
       "title": "TNT",
       "content": {
@@ -127,9 +102,7 @@
             "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
@@ -497,19 +470,184 @@
       }
     }
   ],
+  "Movies": [
+    {
+      "title": "Back to the Future",
+      "releaseDate": 1985,
+      "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
+      "content": {
+        "duration": 6949,
+        "videos": [
+          {
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
+      "releaseDate": 1984,
+      "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "title": "Ghostbusters",
+      "content": {
+        "duration": 6308,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
+      "releaseDate": 1989,
+      "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "title": "Ghostbusters II",
+      "content": {
+        "duration": 6500,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
+      "releaseDate": 1984,
+      "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "title": "The Karate Kid",
+      "content": {
+        "duration": 7615,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/5/il/o4vwb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
+      "releaseDate": 1986,
+      "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "title": "The Karate Kid Part II",
+      "content": {
+        "duration": 6795,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/y/yj/ev5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
+      "releaseDate": 1989,
+      "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "title": "The Karate Kid Part III",
+      "content": {
+        "duration": 6744,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/m/uj/np5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
+      "releaseDate": 1997,
+      "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "title": "The Fifth Element",
+      "content": {
+        "duration": 7551,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
+      "releaseDate": 1995,
+      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "title": "Jumanji",
+      "content": {
+        "duration": 6245,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/f/ik/3olub_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mib.png?raw=true",
+      "releaseDate": 1997,
+      "shortDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+      "title": "Men in Black",
+      "content": {
+        "duration": 5878,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/4j/nqftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/joe_dirt.png?raw=true",
+      "releaseDate": 2001,
+      "shortDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
+      "title": "Joe Dirt",
+      "content": {
+        "duration": 5473,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Joe.Dirt.2001.720p.BluRay.x264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
   "TV Shows": [
     {
-      "id": "Newhart",
       "title": "Newhart",
       "releaseDate": "1982-10-25",
       "shortDescription": "Dick Loudon and wife Joanna relocate from New York City to a small town in Vermont, where they run the historic Stafford Inn. They're surrounded by a town full of oddballs and colorful characters, whom Loudon deals with in various states of bemusement.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "tags": [
-        "Entertainment"
-      ],
       "seasons": [
         {
           "title": "Season 1",
@@ -1113,17 +1251,10 @@
       ]
     },
     {
-      "id": "Amazing Stories",
       "title": "Amazing Stories",
       "releaseDate": 1985,
       "shortDescription": "Truly amazing, fantastical, funny, and odd, and sometimes scary, sad, and endearing stories are portrayed. Many famous actors, actresses, and directors made guest appearances.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "tags": [
-        "Entertainment"
-      ],
       "seasons": [
         {
           "title": "Season 1",
@@ -1320,7 +1451,7 @@
             {
               "id": "",
               "title": "",
-              "episodeNumber": 1,
+              "episodeNumber": 8,
               "content": {
                 "dateAdded": "",
                 "videos": [
@@ -1783,250 +1914,53 @@
   ],
   "Cartoons/Animation": [
     {
-      "id": "The Scooby-Doo Show",
-      "title": "The Scooby-Doo Show",
-      "releaseDate": 1976,
-      "shortDescription": "Scooby Doo, Shaggy and the rest of gang travel in the Mystery Machine and attempt to solve mysteries.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/tsds.png",
-      "genres": [
-        "Entertainment"
-      ],
-      "tags": [
-        "Entertainment"
-      ],
+      "title": "What's New, Scooby-Doo?",
+      "releaseDate": 2002,
+      "shortDescription": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
       "seasons": [
         {
           "title": "Season 1",
           "episodes": [
             {
-              "id": "",
-              "title": "High Rise Hair Raiser",
+              "title": "There's No Creature Like Snow Creature",
               "episodeNumber": 1,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/the-scooby-doo-show/The%20Scooby-Doo%20Show%20%281976%29/Season%2001/The%20Scooby-Doo%20Show%20-%20S01E01%20-%20High%20Rise%20Hair%20Raiser%20WEBDL-1080p.ia.mp4",
+                    "url": "https://archive.org/download/whats-new-scooby-doo/What%27s%20New%20Scooby-Doo%20%282002%29/Season%2001/What%27s%20New%20Scooby-Doo%21%20-%20S01E01%20-%20There%27s%20No%20Creature%20Like%20Snow%20Creature%20WEBDL-1080p.ia.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1456,
-                "language": "en-us"
+                "duration": 1276
               },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/tsds.png",
-              "shortDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
-              "releaseDate": "",
-              "longDescription": "Fred, Shaggy and Scooby-Doo get a job from the Acme\nConstruction Company to work the nightshift while Daphne and Velma find more about the Specter of Ebenezer Crabbe at the Daily Times.",
-              "tags": [
-                ""
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
+              "shortDescription": "A snow creature terrorizes snowboard competitors.",
+              "releaseDate": 2002,
+              "longDescription": "A snow creature terrorizes snowboard competitors."
             },
             {
-              "id": "",
-              "title": "The Fiesta Host is an Aztec Ghost",
+              "title": "3-D Struction",
               "episodeNumber": 2,
               "content": {
-                "dateAdded": "",
                 "videos": [
                   {
                     "videoType": "mp4",
-                    "url": "https://archive.org/download/the-scooby-doo-show/The%20Scooby-Doo%20Show%20%281976%29/Season%2001/The%20Scooby-Doo%20Show%20-%20S01E02%20-%20The%20Fiesta%20Host%20is%20an%20Aztec%20Ghost%20WEBDL-1080p.ia.mp4",
+                    "url": "https://archive.org/download/whats-new-scooby-doo/What%27s%20New%20Scooby-Doo%20%282002%29/Season%2001/What%27s%20New%20Scooby-Doo%21%20-%20S01E02%20-%203-D%20Struction%20WEBDL-1080p.ia.mp4",
                     "quality": "HD"
                   }
                 ],
-                "duration": 1447,
-                "language": "en-us"
+                "duration": 1275
               },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/tsds.png",
-              "shortDescription": "The gang is in Mexico to attend a fiesta, which gets canceled because of the ghost Katazuma, an ancient Aztec king.",
-              "releaseDate": "",
-              "longDescription": "The gang is in Mexico to attend a fiesta, which gets canceled because of the ghost Katazuma, an ancient Aztec king.",
-              "tags": [
-                ""
-              ],
-              "genres": [
-                "Entertainment"
-              ]
+              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
+              "shortDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum.",
+              "releaseDate": 2002,
+              "longDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum."
             }
           ]
         }
       ]
-    }
-  ],
-  "Movies": [
-    {
-      "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
-      "releaseDate": 1985,
-      "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
-      "title": "Back to the Future",
-      "content": {
-        "duration": 6949,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
-      "releaseDate": 1984,
-      "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
-      "title": "Ghostbusters",
-      "content": {
-        "duration": 6308,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
-      "releaseDate": 1989,
-      "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
-      "title": "Ghostbusters II",
-      "content": {
-        "duration": 6500,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
-      "releaseDate": 1984,
-      "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
-      "title": "The Karate Kid",
-      "content": {
-        "duration": 7615,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/5/il/o4vwb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
-      "releaseDate": 1986,
-      "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
-      "title": "The Karate Kid Part II",
-      "content": {
-        "duration": 6795,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/y/yj/ev5tb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
-      "releaseDate": 1989,
-      "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
-      "title": "The Karate Kid Part III",
-      "content": {
-        "duration": 6744,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/m/uj/np5tb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
-      "releaseDate": 1997,
-      "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
-      "title": "The Fifth Element",
-      "content": {
-        "duration": 7551,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
-      "releaseDate": 1995,
-      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "title": "Jumanji",
-      "content": {
-        "duration": 6245,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/f/ik/3olub_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mib.png?raw=true",
-      "releaseDate": 1997,
-      "shortDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
-      "title": "Men in Black",
-      "content": {
-        "duration": 5878,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/4j/nqftb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/joe_dirt.png?raw=true",
-      "releaseDate": 2001,
-      "shortDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
-      "title": "Joe Dirt",
-      "content": {
-        "duration": 5473,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Joe.Dirt.2001.720p.BluRay.x264.YIFY.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
     }
   ]
 }
