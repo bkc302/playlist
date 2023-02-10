@@ -472,6 +472,23 @@
   ],
   "02: Action": [
     {
+      "longDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/gladiator.png?raw=true",
+      "releaseDate": "2000",
+      "shortDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "title": "Gladiator",
+      "content": {
+        "duration": 10259,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
       "releaseDate": "1984",
@@ -595,6 +612,23 @@
       }
     },
     {
+      "longDescription": "Pitka, an American raised outside of his country by gurus, returns to the States in order to break into the self-help business. His first challenge is to settle the romantic troubles and subsequent professional skid of a star hockey player whose wife left him for a rival athlete.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/love_guru.png",
+      "releaseDate": "2008",
+      "shortDescription": "Pitka, an American raised outside of his country by gurus, returns to the States in order to break into the self-help business. His first challenge is to settle the romantic troubles and subsequent professional skid of a star hockey player whose wife left him for a rival athlete.",
+      "title": "The Love Guru",
+      "content": {
+        "duration": 5199,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/c/cm/6glyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
       "releaseDate": "1984",
@@ -697,6 +731,23 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/big_fish.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "A frustrated son tries to determine the fact from fiction in his dying father's life.",
+      "title": "Big Fish",
+      "content": {
+        "duration": 7510,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/y/il/wbpwb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "06: Sci-Fi": [
@@ -771,7 +822,60 @@
       }
     }
   ],
-  "08: Harry Potter Film Collection": [
+  "08: The Lord of the Rings Film Series": [
+    {
+      "title": "The Fellowship of the Ring",
+      "releaseDate": "2001",
+      "shortDescription": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "longDescription": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/lotr1.png",
+      "content": {
+        "duration": 13698,
+        "videos": [
+          {
+            "url": "https://archive.org/download/018880284/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.EXTENDED.REMASTERED.1080p.BluRay.x264.DTS-FGT.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Two Towers",
+      "releaseDate": "2002",
+      "shortDescription": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "longDescription": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/lotr2.png",
+      "content": {
+        "duration": 14132,
+        "videos": [
+          {
+            "url": "https://archive.org/download/018880284/The.Lord.of.the.Rings.The.Two.Towers.2002.EXTENDED.REMASTERED.1080p.BluRay.x264.DTS-FGT.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Return of the King",
+      "releaseDate": "2003",
+      "shortDescription": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "longDescription": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/lotr3.png",
+      "content": {
+        "duration": 15798,
+        "videos": [
+          {
+            "url": "https://archive.org/download/018880284/The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.REMASTERED.1080p.BluRay.x264.DTS-FGT.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "09: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
@@ -824,7 +928,7 @@
       }
     }
   ],
-  "09: TV Shows": [
+  "10: TV Shows": [
     {
       "title": "Newhart",
       "releaseDate": "1982",
@@ -1859,7 +1963,7 @@
       ]
     }
   ],
-  "10: Cartoons/Animation": [
+  "11: Cartoons/Animation": [
     {
       "title": "What's New, Scooby-Doo?",
       "releaseDate": "2002",
