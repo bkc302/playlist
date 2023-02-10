@@ -748,6 +748,40 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "A young girl on the threshold of her teen years finds her life turning upside down when she is accompanied by an unlikely friend.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/my_girl.png?raw=true",
+      "releaseDate": "1991",
+      "shortDescription": "A young girl on the threshold of her teen years finds her life turning upside down when she is accompanied by an unlikely friend.",
+      "title": "My Girl",
+      "content": {
+        "duration": 6141,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/em/rgdyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Vada Sultenfuss must go to LA to stay with her Uncle Phil to do some research on her mother's life, but finds much more.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/my_girl2.png?raw=true",
+      "releaseDate": "1994",
+      "shortDescription": "Vada Sultenfuss must go to LA to stay with her Uncle Phil to do some research on her mother's life, but finds much more.",
+      "title": "My Girl 2",
+      "content": {
+        "duration": 5925,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/j/om/ucfyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "06: Sci-Fi": [
