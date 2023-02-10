@@ -470,58 +470,7 @@
       }
     }
   ],
-  "02: Movies": [
-    {
-      "title": "Back to the Future",
-      "releaseDate": "1985",
-      "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
-      "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
-      "content": {
-        "duration": 6949,
-        "videos": [
-          {
-            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
-            "videoType": "MP4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
-      "releaseDate": "1984",
-      "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
-      "title": "Ghostbusters",
-      "content": {
-        "duration": 6308,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
-      "releaseDate": "1989",
-      "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
-      "title": "Ghostbusters II",
-      "content": {
-        "duration": 6500,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
+  "02: Action": [
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
@@ -574,22 +523,24 @@
       }
     },
     {
-      "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
-      "releaseDate": "1997",
-      "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
-      "title": "The Fifth Element",
+      "longDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/cliffhanger.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+      "title": "Cliffhanger",
       "content": {
-        "duration": 7551,
+        "duration": 6762,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
+            "url": "http://media-us-am.crackle.com/1/n/ul/ci2vb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
       }
-    },
+    }
+  ],
+  "03: Adventure": [
     {
       "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
@@ -608,17 +559,87 @@
       }
     },
     {
-      "longDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mib.png?raw=true",
-      "releaseDate": "1997",
-      "shortDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
-      "title": "Men in Black",
+      "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
+      "releaseDate": "1991",
+      "shortDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "title": "Hook",
       "content": {
-        "duration": 5878,
+        "duration": 8503,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/4j/nqftb_480p_1mbps.mp4",
+            "url": "http://media-us-am.crackle.com/1/d/em/cgdyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "04: Comedy": [
+    {
+      "longDescription": "After being banished from their tribe, two hunter-gatherers encounter Biblical characters and eventually wind up in the city of Sodom.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/year_one.png",
+      "releaseDate": "2009",
+      "shortDescription": "After being banished from their tribe, two hunter-gatherers encounter Biblical characters and eventually wind up in the city of Sodom.",
+      "title": "Year One",
+      "content": {
+        "duration": 5811,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/p/4l/ol9wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
+      "releaseDate": "1984",
+      "shortDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
+      "title": "Ghostbusters",
+      "content": {
+        "duration": 6308,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters2.png",
+      "releaseDate": "1989",
+      "shortDescription": "The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.",
+      "title": "Ghostbusters II",
+      "content": {
+        "duration": 6500,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stepbrothers.png?raw=true",
+      "releaseDate": "2008",
+      "shortDescription": "Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.",
+      "title": "Step Brothers",
+      "content": {
+        "duration": 6330,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/b/wl/j28wb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
@@ -642,7 +663,168 @@
       }
     }
   ],
-  "03: TV Shows": [
+  "05: Drama": [
+    {
+      "longDescription": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legends_of_the_fall.png?raw=true",
+      "releaseDate": "1994",
+      "shortDescription": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
+      "title": "Legends of the Fall",
+      "content": {
+        "duration": 7967,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/f/yl/2j4wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Two sons of a stern minister - one reserved, one rebellious - grow up in rural 1920s Montana while devoted to fly fishing.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/a_river_runs_through_it.png?raw=true",
+      "releaseDate": "1992",
+      "shortDescription": "Two sons of a stern minister - one reserved, one rebellious - grow up in rural 1920s Montana while devoted to fly fishing.",
+      "title": "A River Runs Through It",
+      "content": {
+        "duration": 7415,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/x/kk/mbivb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "06: Sci-Fi": [
+    {
+      "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
+      "releaseDate": "1997",
+      "shortDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+      "title": "The Fifth Element",
+      "content": {
+        "duration": 7551,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Back to the Future",
+      "releaseDate": "1985",
+      "shortDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "longDescription": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/future.png",
+      "content": {
+        "duration": 6949,
+        "videos": [
+          {
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Back.to.the.Future.1985.1080p.Brrip.x264.Deceit.YIFY.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mib.png?raw=true",
+      "releaseDate": "1997",
+      "shortDescription": "A police officer joins a secret organization that polices and monitors extraterrestrial interactions on Earth.",
+      "title": "Men in Black",
+      "content": {
+        "duration": 5878,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/4j/nqftb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "07: Horror": [
+    {
+      "longDescription": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/pet_sematary.png?raw=true",
+      "releaseDate": "1989",
+      "shortDescription": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
+      "title": "Pet Sematary",
+      "content": {
+        "duration": 6161,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/n/um/zdzyb_480p.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "08: Harry Potter Film Collection": [
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "releaseDate": "2001",
+      "shortDescription": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "longDescription": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hp1.png",
+      "content": {
+        "duration": 9141,
+        "videos": [
+          {
+            "url": "https://archive.org/download/harry.-potter.-the.-complere.-8-film.-collection.-2001-2011-blu-ray-1080p.x-264-drago-tv/Harry.Potter.And.The.Sorcerers.Stone.2001.1080p.Bluray.x264.anoXmous/1.%20Harry.Potter.And.The.Sorcerers.Stone.2001.1080p.Bluray.x264.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "releaseDate": "2002",
+      "shortDescription": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+      "longDescription": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hp2.png",
+      "content": {
+        "duration": 9656,
+        "videos": [
+          {
+            "url": "https://archive.org/download/harry.-potter.-the.-complere.-8-film.-collection.-2001-2011-blu-ray-1080p.x-264-drago-tv/Harry.Potter.And.The.Chamber.Of.Secrets.2002.1080p.Bluray.x264.anoXmous/2.%20Harry.Potter.And.The.Chamber.Of.Secrets.2002.1080p.Bluray.x264.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "releaseDate": "2004",
+      "shortDescription": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+      "longDescription": "Harry Potter, Ron and Hermione return to Hogwarts School of Witchcraft and Wizardry for their third year of study, where they delve into the mystery surrounding an escaped prisoner who poses a dangerous threat to the young wizard.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hp3.png",
+      "content": {
+        "duration": 8502,
+        "videos": [
+          {
+            "url": "https://archive.org/download/harry.-potter.-the.-complere.-8-film.-collection.-2001-2011-blu-ray-1080p.x-264-drago-tv/Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.1080p.Bluray.x264.anoXmous/3.%20Harry.Potter.And.The.Prisoner.Of.Azkaban.2004.1080p.Bluray.x264.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "09: TV Shows": [
     {
       "title": "Newhart",
       "releaseDate": "1982",
@@ -1677,7 +1859,7 @@
       ]
     }
   ],
-  "04: Cartoons/Animation": [
+  "10: Cartoons/Animation": [
     {
       "title": "What's New, Scooby-Doo?",
       "releaseDate": "2002",
