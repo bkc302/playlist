@@ -559,6 +559,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jurassic_park.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "title": "Jurassic Park",
+      "content": {
+        "duration": 7596,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Jurassic.Park.1993.720p.BrRip.264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
       "releaseDate": "1995",
@@ -587,6 +604,23 @@
           {
             "videoType": "MP4",
             "url": "http://media-us-am.crackle.com/1/d/em/cgdyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_mummy.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+      "title": "The Mummy",
+      "content": {
+        "duration": 7493,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the.-mummy.-returns.-2001.1080p.-blu-ray.x-265.-hevc.-dts-god/The.Mummy.1999.1080p.BluRay.x265.HEVC.DTS-GOD.mp4",
             "quality": "HD"
           }
         ]
@@ -691,6 +725,23 @@
           {
             "videoType": "MP4",
             "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Joe.Dirt.2001.720p.BluRay.x264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/zombieland.png?raw=true",
+      "releaseDate": "2009",
+      "shortDescription": "A shy student trying to reach his family in Ohio, a gun-toting bruiser in search of the last Twinkie and a pair of sisters striving to get to an amusement park join forces in a trek across a zombie-filled America.",
+      "title": "Zombieland",
+      "content": {
+        "duration": 5262,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/c/wm/otfyb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
@@ -835,6 +886,91 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/chappie.png?raw=true",
+      "releaseDate": "2015",
+      "shortDescription": "In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.",
+      "title": "Chappie",
+      "content": {
+        "duration": 7220,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/6/em/pnnyb_480p.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/district_9.png?raw=true",
+      "releaseDate": "2009",
+      "shortDescription": "Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.",
+      "title": "District 9",
+      "content": {
+        "duration": 6734,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/cl/pdbyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/short_circuit.png?raw=true",
+      "releaseDate": "1986",
+      "shortDescription": "Number 5 of a group of experimental robots in a lab is electrocuted, suddenly becomes intelligent, and escapes.",
+      "title": "Short Circuit",
+      "content": {
+        "duration": 5912,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/il/126wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Robot Johnny Five comes to the city and gets manipulated by criminals who want him for their own purposes.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/short_circuit2.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "Robot Johnny Five comes to the city and gets manipulated by criminals who want him for their own purposes.",
+      "title": "Short Circuit 2",
+      "content": {
+        "duration": 6627,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/il/026wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/gattaca.png?raw=true",
+      "releaseDate": "1997",
+      "shortDescription": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+      "title": "Gattaca",
+      "content": {
+        "duration": 6391,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/z/yk/s3avb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "07: Horror": [
@@ -960,1092 +1096,6 @@
           }
         ]
       }
-    }
-  ],
-  "10: TV Shows": [
-    {
-      "title": "Newhart",
-      "releaseDate": "1982",
-      "shortDescription": "Dick Loudon and wife Joanna relocate from New York City to a small town in Vermont, where they run the historic Stafford Inn. They're surrounded by a town full of oddballs and colorful characters, whom Loudon deals with in various states of bemusement.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-      "seasons": [
-        {
-          "title": "Season 1",
-          "episodes": [
-            {
-              "title": "In the Beginning",
-              "episodeNumber": 1,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20101%20-%20In%20the%20Beginning.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1569
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont.",
-              "releaseDate": "",
-              "longDescription": "New York couple Dick and Joanna Loudon purchase the Stratford Inn in rural Vermont."
-            },
-            {
-              "title": "Mrs. Newton's Body Lies A-Mould'ring in the Grave",
-              "episodeNumber": 2,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20102%20-%20Mrs.%20Newton%27s%20Body%20Lies%20A%27Mould%27ring%20in%20the%20Grave.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1480
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch.",
-              "releaseDate": "",
-              "longDescription": "Dick and Joanna are horrified to discover a 300 year-old grave in their basement belonging to a woman who was hanged as a witch."
-            },
-            {
-              "title": "Hail to the Councilman",
-              "episodeNumber": 3,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20103%20-%20Hail%20to%20the%20Councilman.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1499,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick is persuaded to run for the town council.",
-              "releaseDate": "",
-              "longDescription": "Dick is persuaded to run for the town council.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Shall We Gather at the River?",
-              "episodeNumber": 4,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20104%20-%20Shall%20We%20Gather%20at%20the%20River.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1496,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick is in the doghouse when he persuades Joanna to attend the town's annual River Party and chaos ensues.",
-              "releaseDate": "",
-              "longDescription": "Dick is in the doghouse when he persuades Joanna to attend the town's annual River Party and chaos ensues.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "This Probably Is Condemned",
-              "episodeNumber": 5,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20105%20-%20This%20Probably%20is%20Condemned.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1494,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "The staff of the Stratford Inn pitch together to help Kirk get his café up to code after a surprise visit from the health inspector.",
-              "releaseDate": "",
-              "longDescription": "The staff of the Stratford Inn pitch together to help Kirk get his café up to code after a surprise visit from the health inspector.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "No Tigers at the Circus",
-              "episodeNumber": 6,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20106%20-%20No%20Tigers%20at%20the%20Circus.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1499,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick becomes disenchanted with the Stratford when its application to be made a historical landmark is denied.",
-              "releaseDate": "",
-              "longDescription": "Dick becomes disenchanted with the Stratford when its application to be made a historical landmark is denied.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Perfect Match",
-              "episodeNumber": 7,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20107%20-%20The%20Perfect%20Match.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1494,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Kirk is jealous when an old flame of Leslie's appears with a proposal.",
-              "releaseDate": "",
-              "longDescription": "Kirk is jealous when an old flame of Leslie's appears with a proposal.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Some Are Born Writers... Others Have Writers Thrust Upon Them",
-              "episodeNumber": 8,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20108%20-%20Some%20are%20Born%20Writers...Others%20Have%20Writers%20Thrust%20Upon%20Them.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1498,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick reluctantly helps an aspiring author make it in the business.",
-              "releaseDate": "",
-              "longDescription": "Dick reluctantly helps an aspiring author make it in the business.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "No Room at the Inn",
-              "episodeNumber": 9,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20109%20-%20No%20Room%20at%20the%20Inn.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1468,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick and Joanna's much-awaited first Christmas in Vermont ends up being not so traditional after all when a massive snowstorm strands them and everyone else at the Stratford.",
-              "releaseDate": "",
-              "longDescription": "Dick and Joanna's much-awaited first Christmas in Vermont ends up being not so traditional after all when a massive snowstorm strands them and everyone else at the Stratford.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Senator's Wife Was Indiscreet",
-              "episodeNumber": 10,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20110%20-%20The%20Senator%27s%20Wife%20Was%20Indiscreet.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1487,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick and Joanna play marriage counselors when the flaky wife of a senator leaves her husband and comes to the Stratford.",
-              "releaseDate": "",
-              "longDescription": "Dick and Joanna play marriage counselors when the flaky wife of a senator leaves her husband and comes to the Stratford.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Sprained Dreams",
-              "episodeNumber": 11,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20111%20-%20Sprained%20Dreams.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1498,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Kirk has a date with Leslie. Dick decides he wants to go skiing but since he doesn't know how to ski he gets Leslie to go since she's an Olympic skiing hopeful. One thing leads to another and she winds up with a knee injury that will probably end her dreams. Kirk and all of Leslie's school friends wind up angry with Dick.",
-              "releaseDate": "",
-              "longDescription": "Kirk has a date with Leslie. Dick decides he wants to go skiing but since he doesn't know how to ski he gets Leslie to go since she's an Olympic skiing hopeful. One thing leads to another and she winds up with a knee injury that will probably end her dreams. Kirk and all of Leslie's school friends wind up angry with Dick.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Way We Thought We Were",
-              "episodeNumber": 12,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20112%20-%20The%20Way%20We%20Thought%20We%20Were.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1495,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "George is dismayed when an old flame returns after thirty-one years and has changed completely.",
-              "releaseDate": "",
-              "longDescription": "George is dismayed when an old flame returns after thirty-one years and has changed completely.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Visitors",
-              "episodeNumber": 13,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20113%20-%20The%20Visitors.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1476,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick and Joanna feel left out when some old friends visit the Inn but spend no time with them.",
-              "releaseDate": "",
-              "longDescription": "Dick and Joanna feel left out when some old friends visit the Inn but spend no time with them.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "What Is This Thing Called Lust?",
-              "episodeNumber": 14,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20114%20-%20What%20is%20This%20Thing%20Called%20Lust.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1496,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Leslie's cousin is about to be wed and has set her lustful sights on next-door Kirk for some passion in her life.",
-              "releaseDate": "",
-              "longDescription": "Leslie's cousin is about to be wed and has set her lustful sights on next-door Kirk for some passion in her life.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Breakfast Theatre",
-              "episodeNumber": 15,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20115%20-%20Breakfast%20Theater.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1428,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "An aging, unfunny comic who is an old friend of Dick's uses the Stratford to jump start his career, despite Joanna's objections.",
-              "releaseDate": "",
-              "longDescription": "An aging, unfunny comic who is an old friend of Dick's uses the Stratford to jump start his career, despite Joanna's objections.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Ricky Nelson, Up Your Nose",
-              "episodeNumber": 16,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20116%20-%20Ricky%20Nelson%2C%20Up%20Your%20Nose.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1497,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "While Kirk goes in for surgery, Larry, Darryl and Darryl mind the Minuteman Café.",
-              "releaseDate": "",
-              "longDescription": "While Kirk goes in for surgery, Larry, Darryl and Darryl mind the Minuteman Café.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "A View from the Bench",
-              "episodeNumber": 17,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20117%20-%20A%20View%20from%20the%20Bench.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1498,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Dick, George and Kirk embark on a trip to Boston to attend a Celtics game, meanwhile Joanna and Leslie prepare for the arrival of a celebrity at the Inn.",
-              "releaseDate": "",
-              "longDescription": "Dick, George and Kirk embark on a trip to Boston to attend a Celtics game, meanwhile Joanna and Leslie prepare for the arrival of a celebrity at the Inn.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "The Boy Who Cried Goat",
-              "episodeNumber": 18,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20118%20-%20The%20Boy%20Who%20Cried%20Goat.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1496,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Kirk must take a lie detector test to prove his claims that the Minuteman Café was robbed.",
-              "releaseDate": "",
-              "longDescription": "Kirk must take a lie detector test to prove his claims that the Minuteman Café was robbed.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Heaven Knows Mr. Utley",
-              "episodeNumber": 19,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20119%20-%20Heaven%20Knows%20Mr.%20Utley.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1497,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "George becomes the joke of the town after he spies a UFO and nobody believes him.",
-              "releaseDate": "",
-              "longDescription": "George becomes the joke of the town after he spies a UFO and nobody believes him.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "You're Homebody 'til Somebody Loves You",
-              "episodeNumber": 20,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20120%20-%20You%27re%20Homebody%20%27til%20Somebody%20Loves%20You.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1496,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "When Dick labels her a homebody, Joanna decides to return to the workforce.",
-              "releaseDate": "",
-              "longDescription": "When Dick labels her a homebody, Joanna decides to return to the workforce.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "Grandma, What a Big Mouth You Have",
-              "episodeNumber": 21,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20121%20-%20Grandma%2C%20What%20a%20Big%20Mouth%20You%20Have.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1499,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "Kirk finally manages to get a date with Leslie when his grandmother arrives for a visit.",
-              "releaseDate": "",
-              "longDescription": "Kirk finally manages to get a date with Leslie when his grandmother arrives for a visit.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            },
-            {
-              "id": "",
-              "title": "I Enjoy Being a Guy",
-              "episodeNumber": 22,
-              "content": {
-                "dateAdded": "",
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/NewhartSeries/Newhart%20-%20122%20-%20I%20Enjoy%20Being%20a%20Guy.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1464,
-                "language": "en-us"
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/newhart.png",
-              "shortDescription": "After winning big at golf and poker, Dick tries desperately to lose his new winnings, meanwhile George convinces Kirk to take him clothes shopping.",
-              "releaseDate": "",
-              "longDescription": "After winning big at golf and poker, Dick tries desperately to lose his new winnings, meanwhile George convinces Kirk to take him clothes shopping.",
-              "tags": [
-                "Entertainment"
-              ],
-              "genres": [
-                "Entertainment"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Amazing Stories",
-      "releaseDate": "1985",
-      "shortDescription": "Truly amazing, fantastical, funny, and odd, and sometimes scary, sad, and endearing stories are portrayed. Many famous actors, actresses, and directors made guest appearances.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-      "seasons": [
-        {
-          "title": "Season 1",
-          "episodes": [
-            {
-              "title": "Ghost Train",
-              "episodeNumber": 1,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E1-%20The%20Train.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1481
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "Opa Globe is convinced it is his destiny to board a train he inadvertently caused to crash 75 years ago, and tells his nine-year old grandson the old Highball Express will careen through their house.",
-              "releaseDate": "",
-              "longDescription": "Opa Globe is convinced it is his destiny to board a train he inadvertently caused to crash 75 years ago, and tells his nine-year old grandson the old Highball Express will careen through their house."
-            },
-            {
-              "title": "The Main Attraction",
-              "episodeNumber": 2,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E2-%20The%20Main%20Attraction.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1480
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "Athletic teenage hunk Brad Bender thinks he is too cool for nerdy classmate Shirley, who is crazy over him, until, to his horror, a meteor shower's power suddenly turns him into a human magnet.",
-              "releaseDate": "",
-              "longDescription": "Athletic teenage hunk Brad Bender thinks he is too cool for nerdy classmate Shirley, who is crazy over him, until, to his horror, a meteor shower's power suddenly turns him into a human magnet."
-            },
-            {
-              "title": "Alamo Jobe",
-              "episodeNumber": 3,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E3%20-%20Alamo%20Joe.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1482
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "During the Battle of the Alamo on March 6, 1836, 15-year-old messenger Jobe H. Farnum is about to be killed. He is transported forward in time to San Antonio in 1985. The 1980s prove to be too much for Jobe to handle.",
-              "releaseDate": "",
-              "longDescription": "During the Battle of the Alamo on March 6, 1836, 15-year-old messenger Jobe H. Farnum is about to be killed. He is transported forward in time to San Antonio in 1985. The 1980s prove to be too much for Jobe to handle."
-            },
-            {
-              "title": "Mummy Daddy",
-              "episodeNumber": 4,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E4-%20Mummy,%20Daddy.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1481
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "A dedicated actor in a realistic mummy costume that he can't take off is shooting a movie in a swamp. When he hears his wife is in labor, he runs towards the town but the local rednecks think he's the real deal and form a posse.",
-              "releaseDate": "",
-              "longDescription": "A dedicated actor in a realistic mummy costume that he can't take off is shooting a movie in a swamp. When he hears his wife is in labor, he runs towards the town but the local rednecks think he's the real deal and form a posse."
-            },
-            {
-              "title": "The Mission",
-              "episodeNumber": 5,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E5%20-%20The%20Mission.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 2773
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "A courageous young World War II gunner and aspiring cartoonist, trapped in the belly gun of a B-17 aircraft with the landing gear destroyed, has only his imagination as a force that might be able to save him.",
-              "releaseDate": "",
-              "longDescription": "A courageous young World War II gunner and aspiring cartoonist, trapped in the belly gun of a B-17 aircraft with the landing gear destroyed, has only his imagination as a force that might be able to save him."
-            },
-            {
-              "title": "The Amazing Falsworth",
-              "episodeNumber": 6,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E6%20-%20The%20Amazing%20Farlsworth.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1481
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "A nightclub audience gasps at The Amazing Falsworth's psychic powers, but the shock is his alone when the blindfolded performer picks up the vibes of a serial killer in the room.",
-              "releaseDate": "",
-              "longDescription": "A nightclub audience gasps at The Amazing Falsworth's psychic powers, but the shock is his alone when the blindfolded performer picks up the vibes of a serial killer in the room."
-            },
-            {
-              "title": "Fine Tuning",
-              "episodeNumber": 7,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E7%20-%20Fine%20Tuning.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1485
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "Three high-school kids build an antenna that can catch signals from outer space. They learn that the aliens are big fans of 1950s American television and are coming to Hollywood to meet some of their favorite Earth stars.",
-              "releaseDate": "",
-              "longDescription": "Three high-school kids build an antenna that can catch signals from outer space. They learn that the aliens are big fans of 1950s American television and are coming to Hollywood to meet some of their favorite Earth stars."
-            },
-            {
-              "title": "Mr. Magic",
-              "episodeNumber": 8,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/AmazingStoriesS2E16TheFamilyDog/Amazing.Stories/Amazing.Stories.S1.[1985-86].x264.DVDrip.wBONUS/Amazing%20Stories%20-%20S1E8%20-Mr.%20Magic.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 9,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 10,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 11,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 12,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 13,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 14,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 15,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 16,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 17,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 18,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 19,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 20,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 21,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 22,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 23,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            },
-            {
-              "title": "",
-              "episodeNumber": 24,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": ""
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/series_posters/amazing.png",
-              "shortDescription": "",
-              "releaseDate": "",
-              "longDescription": ""
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "11: Cartoons/Animation": [
-    {
-      "title": "What's New, Scooby-Doo?",
-      "releaseDate": "2002",
-      "shortDescription": "Scooby-Doo and the Mystery, Inc. gang are launched into the 21st century, with new mysteries to solve.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
-      "seasons": [
-        {
-          "title": "Season 1",
-          "episodes": [
-            {
-              "title": "There's No Creature Like Snow Creature",
-              "episodeNumber": 1,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/whats-new-scooby-doo/What%27s%20New%20Scooby-Doo%20%282002%29/Season%2001/What%27s%20New%20Scooby-Doo%21%20-%20S01E01%20-%20There%27s%20No%20Creature%20Like%20Snow%20Creature%20WEBDL-1080p.ia.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1276
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
-              "shortDescription": "A snow creature terrorizes snowboard competitors.",
-              "releaseDate": "2002",
-              "longDescription": "A snow creature terrorizes snowboard competitors."
-            },
-            {
-              "title": "3-D Struction",
-              "episodeNumber": 2,
-              "content": {
-                "videos": [
-                  {
-                    "videoType": "mp4",
-                    "url": "https://archive.org/download/whats-new-scooby-doo/What%27s%20New%20Scooby-Doo%20%282002%29/Season%2001/What%27s%20New%20Scooby-Doo%21%20-%20S01E02%20-%203-D%20Struction%20WEBDL-1080p.ia.mp4",
-                    "quality": "HD"
-                  }
-                ],
-                "duration": 1275
-              },
-              "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/animation_posters/whats_new.png",
-              "shortDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum.",
-              "releaseDate": "2002",
-              "longDescription": "A dinosaur literally leaps off of the movie screen in a Costa Rican museum."
-            }
-          ]
-        }
-      ]
     }
   ]
 }
