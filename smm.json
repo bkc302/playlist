@@ -366,32 +366,6 @@
       }
     },
     {
-      "longDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/skills.png?raw=true",
-      "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
-      "shortDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
-      "title": "Skills + Thrills",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
       "longDescription": "Featuring a proven slate of hit series and top dramas, ION Plus streams fan favorite television for the whole family.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionplus.png?raw=true",
       "releaseDate": "",
@@ -410,6 +384,32 @@
           {
             "videoType": "HLS",
             "url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/skills.png?raw=true",
+      "releaseDate": "",
+      "genres": [
+        ""
+      ],
+      "tags": [
+        ""
+      ],
+      "id": "",
+      "shortDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
+      "title": "Skills + Thrills",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
             "quality": "HD"
           }
         ],
@@ -1002,7 +1002,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://archive.org/download/fergully-16-x-9-1/FERGULLY_16X9_1.mp4",
+            "url": "https://archive.org/download/fox-animation-renaissance-triple-feature/FernGully.The.Last.Rainforest.1992.1080p.BluRay.x265-RARBG.mp4",
             "quality": "HD"
           }
         ]
@@ -1092,6 +1092,40 @@
           {
             "videoType": "MP4",
             "url": "http://media-us-am.crackle.com/1/z/km/f7eyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bram_dracula.png?raw=true",
+      "releaseDate": "1992",
+      "shortDescription": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
+      "title": "Dracula",
+      "content": {
+        "duration": 7645,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/e/yl/zj4wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/christine.png?raw=true",
+      "releaseDate": "1983",
+      "shortDescription": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+      "title": "Christine",
+      "content": {
+        "duration": 6600,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/s/kk/v8wub_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
