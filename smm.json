@@ -663,6 +663,23 @@
       }
     },
     {
+      "longDescription": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ricky_bobby.png",
+      "releaseDate": "2006",
+      "shortDescription": "Number one NASCAR driver Ricky Bobby stays atop the heap thanks to a pact with his best friend and teammate, Cal Naughton, Jr. But when a French Formula One driver, makes his way up the ladder, Ricky Bobby's talent and devotion are put to the test.",
+      "title": "Talladega Nights: The Ballad of Ricky Bobby",
+      "content": {
+        "duration": 6479,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/p/4l/ql9wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After the members of a team of scientists (Harold Ramis, Dan Aykroyd, Bill Murray) lose their cushy positions at a university in New York City, they decide to become \"ghostbusters\" to wage a high-tech battle with the supernatural for money. They stumble upon a gateway to another dimension, a doorway that will release evil upon the city. The Ghostbusters must now save New York from complete destruction.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ghostbusters.png",
       "releaseDate": "1984",
@@ -973,7 +990,79 @@
       }
     }
   ],
-  "07: Horror": [
+  "07: Animation/Family": [
+    {
+      "longDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ferngully.png?raw=true",
+      "releaseDate": "1992",
+      "shortDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
+      "title": "FernGully: The Last Rainforest",
+      "content": {
+        "duration": 4550,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/fergully-16-x-9-1/FERGULLY_16X9_1.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/finding_nemo.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "title": "Finding Nemo",
+      "content": {
+        "duration": 6054,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/FINDING%20NEMO%20%282003%29.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "08: Mystery": [
+    {
+      "longDescription": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/da_vinci_code.png?raw=true",
+      "releaseDate": "2006",
+      "shortDescription": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
+      "title": "The Da Vinci Code",
+      "content": {
+        "duration": 10485,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/w/il/r46wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "09: Horror/Thriller": [
+    {
+      "longDescription": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/resident_evil.png?raw=true",
+      "releaseDate": "2002",
+      "shortDescription": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
+      "title": "Resident Evil",
+      "content": {
+        "duration": 6028,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/9/cl/s77wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "After tragedy strikes, a grieving father discovers an ancient burial ground behind his home with the power to raise the dead.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/pet_sematary.png?raw=true",
@@ -990,9 +1079,26 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stigmata.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
+      "title": "Stigmata",
+      "content": {
+        "duration": 6131,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/z/km/f7eyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
-  "08: The Lord of the Rings Film Series": [
+  "10: The Lord of the Rings Film Series": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -1045,7 +1151,7 @@
       }
     }
   ],
-  "09: Harry Potter Film Series": [
+  "11: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
