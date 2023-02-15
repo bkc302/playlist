@@ -472,6 +472,40 @@
   ],
   "02: Action": [
     {
+      "longDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mask_of_zorro.png?raw=true",
+      "releaseDate": "1998",
+      "shortDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+      "title": "The Mask of Zorro",
+      "content": {
+        "duration": 8254,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/4/0l/6rcyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legend_of_zorro.png?raw=true",
+      "releaseDate": "2005",
+      "shortDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
+      "title": "The Legend of Zorro",
+      "content": {
+        "duration": 7825,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/r/sl/0bcyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/gladiator.png?raw=true",
       "releaseDate": "2000",
@@ -593,6 +627,23 @@
       }
     },
     {
+      "longDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/wilderpeople.png?raw=true",
+      "releaseDate": "2016",
+      "shortDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+      "title": "Hunt for the Wilderpeople",
+      "content": {
+        "duration": 6079,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/v/8m/367yb_480p.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
       "releaseDate": "1991",
@@ -628,6 +679,40 @@
     }
   ],
   "04: Comedy": [
+    {
+      "longDescription": "Family guy, Jack Sadelstein, prepares for the annual event he always dreads--the Thanksgiving visit of his fraternal twin sister, the needy, and passive-aggressive Jill, who then refuses to leave.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/jack_jill.png",
+      "releaseDate": "2011",
+      "shortDescription": "Family guy, Jack Sadelstein, prepares for the annual event he always dreads--the Thanksgiving visit of his fraternal twin sister, the needy, and passive-aggressive Jill, who then refuses to leave.",
+      "title": "Jack and Jill",
+      "content": {
+        "duration": 5450,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/d/cm/ahlyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_other_guys.png",
+      "releaseDate": "2010",
+      "shortDescription": "Two mismatched New York City detectives seize an opportunity to step up like the city's top cops, whom they idolize, only things don't quite go as planned.",
+      "title": "The Other Guys",
+      "content": {
+        "duration": 6448,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/h/ym/hmoyb_480p.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "After being banished from their tribe, two hunter-gatherers encounter Biblical characters and eventually wind up in the city of Sodom.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/year_one.png",
@@ -818,6 +903,57 @@
       }
     },
     {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 1",
+      "content": {
+        "duration": 6155,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/7/am/kgnyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 2",
+      "content": {
+        "duration": 5924,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/8/am/lgnyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 3",
+      "content": {
+        "duration": 5338,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/8/am/mgnyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A young girl on the threshold of her teen years finds her life turning upside down when she is accompanied by an unlikely friend.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/my_girl.png?raw=true",
       "releaseDate": "1991",
@@ -1002,7 +1138,7 @@
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://archive.org/download/fox-animation-renaissance-triple-feature/FernGully.The.Last.Rainforest.1992.1080p.BluRay.x265-RARBG.mp4",
+            "url": "https://archive.org/download/fern-gully-the-last-rainforest-232343/FernGully%20The%20Last%20Rainforest232343.ia.mp4",
             "quality": "HD"
           }
         ]
@@ -1039,6 +1175,57 @@
           {
             "videoType": "MP4",
             "url": "http://media-us-am.crackle.com/1/w/il/r46wb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/roger_rabbit.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.",
+      "title": "Who Framed Roger Rabbit",
+      "content": {
+        "duration": 6225,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Who%20Framed%20Roger%20Rabbit.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_third_man.png?raw=true",
+      "releaseDate": "1949",
+      "shortDescription": "Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.",
+      "title": "The Third Man",
+      "content": {
+        "duration": 6295,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the-third-man-1949/The%20Third%20Man%20%281949%29%20Orson%20Welles%2C%20Joseph%20Cotten%2C%20Alida%20Valli%2C%20Trevor%20Howard.ia.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/rear_window.png?raw=true",
+      "releaseDate": "1954",
+      "shortDescription": "A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.",
+      "title": "Rear Window",
+      "content": {
+        "duration": 6819,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/rear.-window.-1954.by-hitchcock.-720p.x-264.-aac.-multisub.mkv-zen-bud/Rear.Window.1954.by_Hitchcock.720p.x264.AAC.MULTISUB.mkv-Zen_Bud.mp4",
             "quality": "HD"
           }
         ]
