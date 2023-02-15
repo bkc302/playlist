@@ -1128,6 +1128,23 @@
   ],
   "07: Animation/Family": [
     {
+      "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_tail.png?raw=true",
+      "releaseDate": "1986",
+      "shortDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "title": "An American Tail",
+      "content": {
+        "duration": 4815,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/AN%20AMERICAN%20TAIL%20%281986%29.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ferngully.png?raw=true",
       "releaseDate": "1992",
