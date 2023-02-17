@@ -882,6 +882,23 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "Nice guy redneck Jed Clampett strikes it rich when he finds black oil. He and his kin move to posh Beverly Hills.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/beverly_hillbillies.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "Nice guy redneck Jed Clampett strikes it rich when he finds black oil. He and his kin move to posh Beverly Hills.",
+      "title": "The Beverly Hillbillies",
+      "content": {
+        "duration": 5610,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the-beverly-hillbillies-1993/The%20Beverly%20Hillbillies%201993.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "05: Drama": [
