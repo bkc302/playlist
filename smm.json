@@ -680,6 +680,40 @@
   ],
   "04: Comedy": [
     {
+      "longDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/pet_detective.png",
+      "releaseDate": "1995",
+      "shortDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "title": "Ace Ventura: Pet Detective",
+      "content": {
+        "duration": 5160,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Ace.Ventura_.Pet.Detective.1994.720p.BluRay.x264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/tommy_boy.png",
+      "releaseDate": "1995",
+      "shortDescription": "After his auto-parts tycoon father dies, the overweight, underachieving son teams up with a snide accountant to try and save the family business.",
+      "title": "Tommy Boy",
+      "content": {
+        "duration": 5823,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/tommy-boy/Tommy_Boy.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Family guy, Jack Sadelstein, prepares for the annual event he always dreads--the Thanksgiving visit of his fraternal twin sister, the needy, and passive-aggressive Jill, who then refuses to leave.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/jack_jill.png",
       "releaseDate": "2011",
@@ -1179,7 +1213,24 @@
       }
     }
   ],
-  "08: Mystery": [
+  "08: Crime/Mystery": [
+    {
+      "longDescription": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/se7en.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+      "title": "Se7en",
+      "content": {
+        "duration": 7609,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/fgo-1996_202104/Seven%201995.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A murder inside the Louvre, and clues in Da Vinci paintings, lead to the discovery of a religious mystery protected by a secret society for two thousand years, which could shake the foundations of Christianity.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/da_vinci_code.png?raw=true",
