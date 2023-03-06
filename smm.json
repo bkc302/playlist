@@ -593,6 +593,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lost_ark.png?raw=true",
+      "releaseDate": "1981",
+      "shortDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+      "title": "Raiders of the Lost Ark",
+      "content": {
+        "duration": 6918,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the-adventures-of-buckaroo-banzai-across-the-8th-dimension-1984_202102/Raiders%20of%20the%20Lost%20Ark%201981.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jurassic_park.png?raw=true",
       "releaseDate": "1993",
@@ -680,17 +697,51 @@
   ],
   "04: Comedy": [
     {
-      "longDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/pet_detective.png",
-      "releaseDate": "1995",
-      "shortDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
-      "title": "Ace Ventura: Pet Detective",
+      "longDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/walk_hard.png",
+      "releaseDate": "2007",
+      "shortDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "title": "Walk Hard: The Dewey Cox Story",
       "content": {
-        "duration": 5160,
+        "duration": 5760,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Ace.Ventura_.Pet.Detective.1994.720p.BluRay.x264.YIFY.mp4",
+            "url": "http://media-us-am.crackle.com/1/v/il/pdayb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/pet_detective.png",
+      "releaseDate": "1994",
+      "shortDescription": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+      "title": "Ace Ventura: Pet Detective",
+      "content": {
+        "duration": 5144,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/3/wl/okcyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/nature_calls.png",
+      "releaseDate": "1995",
+      "shortDescription": "Ace Ventura, Pet Detective, returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+      "title": "Ace Ventura: When Nature Calls",
+      "content": {
+        "duration": 5625,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/l/ol/10byb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
@@ -856,11 +907,11 @@
       "shortDescription": "He's the wrong person, at the wrong place, at the wrong time. Joe Dirt (David Spade) is a janitor with a mullet hairdo, acid-washed jeans and a dream -- to find the parents that he lost at the Grand Canyon when he was eight. As his wandering, misguided search takes him from one misadventure to another, he finds his way to Los Angeles, where a shock-jock (Dennis Miller) brings Joe on the radio to insult him. But as Joe's story unfolds, jeers turn to cheers, and an entire city is captivated.",
       "title": "Joe Dirt",
       "content": {
-        "duration": 5473,
+        "duration": 5471,
         "videos": [
           {
             "videoType": "MP4",
-            "url": "https://archive.org/download/kabhi-khushi-kabhie-gham-720-p-bdrip-x-rg_202108/Joe.Dirt.2001.720p.BluRay.x264.YIFY.mp4",
+            "url": "http://media-us-am.crackle.com/1/m/4l/c65wb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
@@ -1205,8 +1256,8 @@
         "duration": 4550,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/fern-gully-the-last-rainforest-232343/FernGully%20The%20Last%20Rainforest232343.ia.mp4",
+            "videoType": "HLS",
+            "url": "https://player.zype.com/manifest/6320b26dbed8370001d771e3.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
             "quality": "HD"
           }
         ]
