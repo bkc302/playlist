@@ -697,6 +697,108 @@
   ],
   "04: Comedy": [
     {
+      "longDescription": "After receiving organ transplants from various animal donors, a man finds himself taking on the traits of those animals.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_animal.png",
+      "releaseDate": "2001",
+      "shortDescription": "After receiving organ transplants from various animal donors, a man finds himself taking on the traits of those animals.",
+      "title": "The Animal",
+      "content": {
+        "duration": 4992,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/u/il/mdayb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/airheads.png",
+      "releaseDate": "1994",
+      "shortDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+      "title": "Airheads",
+      "content": {
+        "duration": 5535,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/t/4m/bnjyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/life.png",
+      "releaseDate": "1999",
+      "shortDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+      "title": "Life",
+      "content": {
+        "duration": 6511,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/s/um/bceyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/life.png",
+      "releaseDate": "1999",
+      "shortDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+      "title": "Life",
+      "content": {
+        "duration": 6511,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/s/um/bceyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "An Italian waiter fights off a criminal mastermind with his inherited powers of disguise.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/master_of_disguise.png",
+      "releaseDate": "2002",
+      "shortDescription": "An Italian waiter fights off a criminal mastermind with his inherited powers of disguise.",
+      "title": "The Master of Disguise",
+      "content": {
+        "duration": 4819,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/master-of-disguise-2002/The.Master.Of.Disguise.2002.1080p.WEBRip.x264-RARBG.ia.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Bob Munro and his dysfunctional family rent an RV for a road trip to the Colorado Rockies, where they ultimately have to contend with a bizarre community of campers.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/rv.png",
+      "releaseDate": "2006",
+      "shortDescription": "Bob Munro and his dysfunctional family rent an RV for a road trip to the Colorado Rockies, where they ultimately have to contend with a bizarre community of campers.",
+      "title": "RV",
+      "content": {
+        "duration": 5927,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/f/gl/qnbyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/walk_hard.png",
       "releaseDate": "2007",
@@ -952,7 +1054,26 @@
       }
     }
   ],
-  "05: Drama": [
+  "05: Romantic Comedy": [
+    {
+      "longDescription": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hitch.png",
+      "releaseDate": "2005",
+      "shortDescription": "A smooth-talking man falls for a hardened columnist while helping a shy accountant woo a beautiful heiress.",
+      "title": "Hitch",
+      "content": {
+        "duration": 7096,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/e/um/paeyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "06: Drama": [
     {
       "longDescription": "In the early 1900s, three brothers and their father living in the remote wilderness of Montana are affected by betrayal, history, love, nature, and war.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legends_of_the_fall.png?raw=true",
@@ -1090,7 +1211,7 @@
       }
     }
   ],
-  "06: Sci-Fi": [
+  "07: Sci-Fi": [
     {
       "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
@@ -1228,7 +1349,7 @@
       }
     }
   ],
-  "07: Animation/Family": [
+  "08: Animation/Family": [
     {
       "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_tail.png?raw=true",
@@ -1281,7 +1402,7 @@
       }
     }
   ],
-  "08: Crime/Mystery": [
+  "09: Crime/Mystery": [
     {
       "longDescription": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/se7en.png?raw=true",
@@ -1368,7 +1489,7 @@
       }
     }
   ],
-  "09: Horror/Thriller": [
+  "10: Horror/Thriller": [
     {
       "longDescription": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/resident_evil.png?raw=true",
@@ -1455,7 +1576,7 @@
       }
     }
   ],
-  "10: The Lord of the Rings Film Series": [
+  "11: The Lord of the Rings Film Series": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -1508,7 +1629,7 @@
       }
     }
   ],
-  "11: Harry Potter Film Series": [
+  "12: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
