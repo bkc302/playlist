@@ -697,6 +697,23 @@
   ],
   "04: Comedy": [
     {
+      "longDescription": "In 1804, a habitually drunk tracker and his foppish blowhard pal lead a crew of misfits on a race to beat Lewis and Clark to the Pacific Ocean.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/almost_heroes.png",
+      "releaseDate": "1998",
+      "shortDescription": "In 1804, a habitually drunk tracker and his foppish blowhard pal lead a crew of misfits on a race to beat Lewis and Clark to the Pacific Ocean.",
+      "title": "Almost Heroes",
+      "content": {
+        "duration": 5414,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://manifest.production-public.tubi.io/51c6c9df-5594-4e77-904c-816bdb796fe3/rqscgzqu7l.m3u8?token=",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After receiving organ transplants from various animal donors, a man finds himself taking on the traits of those animals.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_animal.png",
       "releaseDate": "2001",
