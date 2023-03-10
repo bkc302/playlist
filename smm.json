@@ -765,23 +765,6 @@
       }
     },
     {
-      "longDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/life.png",
-      "releaseDate": "1999",
-      "shortDescription": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
-      "title": "Life",
-      "content": {
-        "duration": 6511,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/s/um/bceyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
       "longDescription": "An Italian waiter fights off a criminal mastermind with his inherited powers of disguise.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/master_of_disguise.png",
       "releaseDate": "2002",
@@ -1088,6 +1071,23 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/mystic_pizza.png",
+      "releaseDate": "1988",
+      "shortDescription": "Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.",
+      "title": "Mystic Pizza",
+      "content": {
+        "duration": 6263,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/9/0l/oscyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "06: Drama": [
@@ -1366,7 +1366,26 @@
       }
     }
   ],
-  "08: Animation/Family": [
+  "08: Westerns": [
+    {
+      "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_missing.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "title": "The Missing",
+      "content": {
+        "duration": 8222,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/c/cl/4cbyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "09: Animation/Family": [
     {
       "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_tail.png?raw=true",
@@ -1419,7 +1438,7 @@
       }
     }
   ],
-  "09: Crime/Mystery": [
+  "10: Crime/Mystery": [
     {
       "longDescription": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/se7en.png?raw=true",
@@ -1506,7 +1525,7 @@
       }
     }
   ],
-  "10: Horror/Thriller": [
+  "11: Horror/Thriller": [
     {
       "longDescription": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/resident_evil.png?raw=true",
@@ -1593,7 +1612,7 @@
       }
     }
   ],
-  "11: The Lord of the Rings Film Series": [
+  "12: The Lord of the Rings Film Series": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -1646,7 +1665,7 @@
       }
     }
   ],
-  "12: Harry Potter Film Series": [
+  "13: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
