@@ -1383,6 +1383,40 @@
           }
         ]
       }
+    },
+    {
+      "longDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/seraphim_falls.png?raw=true",
+      "releaseDate": "2006",
+      "shortDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
+      "title": "Seraphim Falls",
+      "content": {
+        "duration": 6700,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/q/ml/fkayb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/forsaken.png?raw=true",
+      "releaseDate": "2016",
+      "shortDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
+      "title": "Forsaken",
+      "content": {
+        "duration": 5393,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://manifest.production-public.tubi.io/d7870a49-0e54-436e-b7d8-a705f3981143/ir8zhmmuv4.m3u8?token=",
+            "quality": "HD"
+          }
+        ]
+      }
     }
   ],
   "09: Animation/Family": [
