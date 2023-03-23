@@ -481,8 +481,8 @@
         "duration": 8254,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/4/0l/6rcyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489826.m3u8",
             "quality": "HD"
           }
         ]
@@ -498,8 +498,8 @@
         "duration": 7825,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/r/sl/0bcyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489260.m3u8",
             "quality": "HD"
           }
         ]
@@ -532,8 +532,8 @@
         "duration": 7615,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/5/il/o4vwb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2470629.m3u8",
             "quality": "HD"
           }
         ]
@@ -549,8 +549,8 @@
         "duration": 6795,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/y/yj/ev5tb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352739.m3u8",
             "quality": "HD"
           }
         ]
@@ -566,8 +566,8 @@
         "duration": 6744,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/m/uj/np5tb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352538.m3u8",
             "quality": "HD"
           }
         ]
@@ -583,8 +583,8 @@
         "duration": 6762,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/n/ul/ci2vb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2434357.m3u8",
             "quality": "HD"
           }
         ]
@@ -636,8 +636,8 @@
         "duration": 6245,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/f/ik/3olub_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2372118.m3u8",
             "quality": "HD"
           }
         ]
@@ -653,8 +653,8 @@
         "duration": 6079,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/v/8m/367yb_480p.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2527063.m3u8",
             "quality": "HD"
           }
         ]
@@ -670,8 +670,8 @@
         "duration": 8503,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/d/em/cgdyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490637.m3u8",
             "quality": "HD"
           }
         ]
@@ -740,8 +740,8 @@
         "duration": 5535,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/t/4m/bnjyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498231.m3u8",
             "quality": "HD"
           }
         ]
@@ -757,8 +757,8 @@
         "duration": 6511,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/s/um/bceyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2491721.m3u8",
             "quality": "HD"
           }
         ]
@@ -791,8 +791,8 @@
         "duration": 5927,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/f/gl/qnbyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2488446.m3u8",
             "quality": "HD"
           }
         ]
@@ -808,8 +808,8 @@
         "duration": 5760,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/v/il/pdayb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2486870.m3u8",
             "quality": "HD"
           }
         ]
@@ -825,8 +825,8 @@
         "duration": 5144,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/3/wl/okcyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489564.m3u8",
             "quality": "HD"
           }
         ]
@@ -842,8 +842,8 @@
         "duration": 5625,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/l/ol/10byb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2488876.m3u8",
             "quality": "HD"
           }
         ]
@@ -876,8 +876,8 @@
         "duration": 5450,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/d/cm/ahlyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2500470.m3u8",
             "quality": "HD"
           }
         ]
@@ -893,8 +893,8 @@
         "duration": 6448,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/ym/hmoyb_480p.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504327.m3u8",
             "quality": "HD"
           }
         ]
@@ -910,8 +910,8 @@
         "duration": 5811,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/p/4l/ol9wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2485924.m3u8",
             "quality": "HD"
           }
         ]
@@ -927,8 +927,8 @@
         "duration": 5199,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/c/cm/6glyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2500466.m3u8",
             "quality": "HD"
           }
         ]
@@ -944,8 +944,8 @@
         "duration": 6479,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/p/4l/ql9wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2485926.m3u8",
             "quality": "HD"
           }
         ]
@@ -961,8 +961,8 @@
         "duration": 6308,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/d/4j/6sftb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2322036.m3u8",
             "quality": "HD"
           }
         ]
@@ -978,8 +978,8 @@
         "duration": 6500,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/v/uj/pn5tb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352470.m3u8",
             "quality": "HD"
           }
         ]
@@ -995,8 +995,8 @@
         "duration": 6330,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/b/wl/j28wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2485254.m3u8",
             "quality": "HD"
           }
         ]
@@ -1012,8 +1012,8 @@
         "duration": 5471,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/m/4l/c65wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2481712.m3u8",
             "quality": "HD"
           }
         ]
@@ -1029,8 +1029,8 @@
         "duration": 5262,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/c/wm/otfyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2493554.m3u8",
             "quality": "HD"
           }
         ]
@@ -1065,8 +1065,8 @@
         "duration": 7096,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/e/um/paeyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2491665.m3u8",
             "quality": "HD"
           }
         ]
@@ -1101,8 +1101,8 @@
         "duration": 7967,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/f/yl/2j4wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2479742.m3u8",
             "quality": "HD"
           }
         ]
@@ -1118,8 +1118,8 @@
         "duration": 7415,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/x/kk/mbivb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2410847.m3u8",
             "quality": "HD"
           }
         ]
@@ -1135,8 +1135,8 @@
         "duration": 7510,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/y/il/wbpwb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2462307.m3u8",
             "quality": "HD"
           }
         ]
@@ -1239,8 +1239,8 @@
         "duration": 7551,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/p/0j/bkftb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2321726.m3u8",
             "quality": "HD"
           }
         ]
@@ -1273,8 +1273,8 @@
         "duration": 5878,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/4j/nqftb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2321948.m3u8",
             "quality": "HD"
           }
         ]
@@ -1290,8 +1290,8 @@
         "duration": 7220,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/6/em/pnnyb_480p.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503145.m3u8",
             "quality": "HD"
           }
         ]
@@ -1307,8 +1307,8 @@
         "duration": 6734,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/cl/pdbyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2488095.m3u8",
             "quality": "HD"
           }
         ]
@@ -1324,8 +1324,8 @@
         "duration": 5912,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/il/126wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2482821.m3u8",
             "quality": "HD"
           }
         ]
@@ -1341,8 +1341,8 @@
         "duration": 6627,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/il/026wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2482820.m3u8",
             "quality": "HD"
           }
         ]
@@ -1358,8 +1358,8 @@
         "duration": 6391,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/z/yk/s3avb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2401998.m3u8",
             "quality": "HD"
           }
         ]
@@ -1368,10 +1368,10 @@
   ],
   "08: Westerns": [
     {
-      "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "longDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_missing.png?raw=true",
       "releaseDate": "2003",
-      "shortDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "shortDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
       "title": "The Missing",
       "content": {
         "duration": 8222,
@@ -1394,8 +1394,8 @@
         "duration": 6700,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/q/ml/fkayb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2487105.m3u8",
             "quality": "HD"
           }
         ]
@@ -1500,8 +1500,8 @@
         "duration": 10485,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/w/il/r46wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2482882.m3u8",
             "quality": "HD"
           }
         ]
@@ -1570,8 +1570,8 @@
         "duration": 6028,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/9/cl/s77wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2484213.m3u8",
             "quality": "HD"
           }
         ]
@@ -1587,8 +1587,8 @@
         "duration": 6161,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/n/um/zdzyb_480p.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2516279.m3u8",
             "quality": "HD"
           }
         ]
@@ -1621,8 +1621,8 @@
         "duration": 7645,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/e/yl/zj4wb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2479739.m3u8",
             "quality": "HD"
           }
         ]
@@ -1638,8 +1638,8 @@
         "duration": 6600,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/s/kk/v8wub_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2386251.m3u8",
             "quality": "HD"
           }
         ]
