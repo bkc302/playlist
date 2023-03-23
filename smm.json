@@ -697,6 +697,23 @@
   ],
   "04: Comedy": [
     {
+      "longDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blues-brothers.png",
+      "releaseDate": "1980",
+      "shortDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+      "title": "The Blues Brothers",
+      "content": {
+        "duration": 7973,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2492925.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "In 1804, a habitually drunk tracker and his foppish blowhard pal lead a crew of misfits on a race to beat Lewis and Clark to the Pacific Ocean.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/almost_heroes.png",
       "releaseDate": "1998",
@@ -1561,6 +1578,23 @@
   ],
   "11: Horror/Thriller": [
     {
+      "longDescription": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last hope.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legion.png?raw=true",
+      "releaseDate": "2010",
+      "shortDescription": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last hope.",
+      "title": "Legion",
+      "content": {
+        "duration": 6001,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2493085.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A special military unit fights a powerful, out-of-control supercomputer and hundreds of scientists who have mutated into flesh-eating creatures after a laboratory accident.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/resident_evil.png?raw=true",
       "releaseDate": "2002",
@@ -1595,23 +1629,6 @@
       }
     },
     {
-      "longDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stigmata.png?raw=true",
-      "releaseDate": "1999",
-      "shortDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
-      "title": "Stigmata",
-      "content": {
-        "duration": 6131,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/z/km/f7eyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
       "longDescription": "The centuries old vampire Count Dracula comes to England to seduce his barrister Jonathan Harker's fiancée Mina Murray and inflict havoc in the foreign land.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bram_dracula.png?raw=true",
       "releaseDate": "1992",
@@ -1640,6 +1657,23 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2386251.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stigmata.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "When a young woman becomes afflicted by stigmata, a priest is sent to investigate her case, which may have severe ramifications for his faith and for the Catholic Church itself.",
+      "title": "Stigmata",
+      "content": {
+        "duration": 6131,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/z/km/f7eyb_480p_1mbps.mp4",
             "quality": "HD"
           }
         ]
