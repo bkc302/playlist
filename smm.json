@@ -470,319 +470,7 @@
       }
     }
   ],
-  "02: Action": [
-    {
-      "longDescription": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/die-hard.png?raw=true",
-      "releaseDate": "1988",
-      "shortDescription": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
-      "title": "Die Hard",
-      "content": {
-        "duration": 7927,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2507249.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hancock.png?raw=true",
-      "releaseDate": "2008",
-      "shortDescription": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
-      "title": "Hancock",
-      "content": {
-        "duration": 5532,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2493418.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mask_of_zorro.png?raw=true",
-      "releaseDate": "1998",
-      "shortDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
-      "title": "The Mask of Zorro",
-      "content": {
-        "duration": 8254,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489826.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legend_of_zorro.png?raw=true",
-      "releaseDate": "2005",
-      "shortDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
-      "title": "The Legend of Zorro",
-      "content": {
-        "duration": 7825,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489260.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/gladiator.png?raw=true",
-      "releaseDate": "2000",
-      "shortDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
-      "title": "Gladiator",
-      "content": {
-        "duration": 10259,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
-      "releaseDate": "1984",
-      "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
-      "title": "The Karate Kid",
-      "content": {
-        "duration": 7615,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2470629.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
-      "releaseDate": "1986",
-      "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
-      "title": "The Karate Kid Part II",
-      "content": {
-        "duration": 6795,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352739.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
-      "releaseDate": "1989",
-      "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
-      "title": "The Karate Kid Part III",
-      "content": {
-        "duration": 6744,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352538.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/cliffhanger.png?raw=true",
-      "releaseDate": "1993",
-      "shortDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
-      "title": "Cliffhanger",
-      "content": {
-        "duration": 6762,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2434357.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "03: History/War": [
-    {
-      "longDescription": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the-patriot.png?raw=true",
-      "releaseDate": "2000",
-      "shortDescription": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
-      "title": "The Patriot",
-      "content": {
-        "duration": 9884,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2483864.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/cold-mountain.png?raw=true",
-      "releaseDate": "2003",
-      "shortDescription": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
-      "title": "Cold Mountain",
-      "content": {
-        "duration": 9266,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519000.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "04: Adventure": [
-    {
-      "longDescription": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/king-kong.png?raw=true",
-      "releaseDate": "2005",
-      "shortDescription": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
-      "title": "King Kong",
-      "content": {
-        "duration": 11237,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2496033.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lost_ark.png?raw=true",
-      "releaseDate": "1981",
-      "shortDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
-      "title": "Raiders of the Lost Ark",
-      "content": {
-        "duration": 6918,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/the-adventures-of-buckaroo-banzai-across-the-8th-dimension-1984_202102/Raiders%20of%20the%20Lost%20Ark%201981.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jurassic_park.png?raw=true",
-      "releaseDate": "1993",
-      "shortDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
-      "title": "Jurassic Park",
-      "content": {
-        "duration": 7596,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Jurassic.Park.1993.720p.BrRip.264.YIFY.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
-      "releaseDate": "1995",
-      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "title": "Jumanji",
-      "content": {
-        "duration": 6245,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2372118.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/wilderpeople.png?raw=true",
-      "releaseDate": "2016",
-      "shortDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
-      "title": "Hunt for the Wilderpeople",
-      "content": {
-        "duration": 6079,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2527063.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
-      "releaseDate": "1991",
-      "shortDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
-      "title": "Hook",
-      "content": {
-        "duration": 8503,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490637.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_mummy.png?raw=true",
-      "releaseDate": "1999",
-      "shortDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
-      "title": "The Mummy",
-      "content": {
-        "duration": 7493,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/the.-mummy.-returns.-2001.1080p.-blu-ray.x-265.-hevc.-dts-god/The.Mummy.1999.1080p.BluRay.x265.HEVC.DTS-GOD.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "05: Comedy": [
+  "02: Comedy": [
     {
       "longDescription": "When a shopping mall is taken over by a gang of organized crooks, it's up to a mild-mannered security guard to save the day.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/mallcop.png",
@@ -795,23 +483,6 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2491594.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blues-brothers.png",
-      "releaseDate": "1980",
-      "shortDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
-      "title": "The Blues Brothers",
-      "content": {
-        "duration": 7973,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2492925.m3u8",
             "quality": "HD"
           }
         ]
@@ -846,23 +517,6 @@
           {
             "videoType": "MP4",
             "url": "http://media-us-am.crackle.com/1/u/il/mdayb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/airheads.png",
-      "releaseDate": "1994",
-      "shortDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
-      "title": "Airheads",
-      "content": {
-        "duration": 5535,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498231.m3u8",
             "quality": "HD"
           }
         ]
@@ -914,23 +568,6 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2488446.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/walk_hard.png",
-      "releaseDate": "2007",
-      "shortDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
-      "title": "Walk Hard: The Dewey Cox Story",
-      "content": {
-        "duration": 5760,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2486870.m3u8",
             "quality": "HD"
           }
         ]
@@ -1169,6 +806,267 @@
           {
             "videoType": "MP4",
             "url": "https://archive.org/download/the-beverly-hillbillies-1993/The%20Beverly%20Hillbillies%201993.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "03: Adventure": [
+    {
+      "longDescription": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/king-kong.png?raw=true",
+      "releaseDate": "2005",
+      "shortDescription": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
+      "title": "King Kong",
+      "content": {
+        "duration": 11237,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2496033.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lost_ark.png?raw=true",
+      "releaseDate": "1981",
+      "shortDescription": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers.",
+      "title": "Raiders of the Lost Ark",
+      "content": {
+        "duration": 6918,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the-adventures-of-buckaroo-banzai-across-the-8th-dimension-1984_202102/Raiders%20of%20the%20Lost%20Ark%201981.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jurassic_park.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+      "title": "Jurassic Park",
+      "content": {
+        "duration": 7596,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/httpsarchive.orgdetailsscience_corporation/Jurassic.Park.1993.720p.BrRip.264.YIFY.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "title": "Jumanji",
+      "content": {
+        "duration": 6245,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2372118.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/wilderpeople.png?raw=true",
+      "releaseDate": "2016",
+      "shortDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+      "title": "Hunt for the Wilderpeople",
+      "content": {
+        "duration": 6079,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2527063.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
+      "releaseDate": "1991",
+      "shortDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "title": "Hook",
+      "content": {
+        "duration": 8503,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490637.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_mummy.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+      "title": "The Mummy",
+      "content": {
+        "duration": 7493,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/the.-mummy.-returns.-2001.1080p.-blu-ray.x-265.-hevc.-dts-god/The.Mummy.1999.1080p.BluRay.x265.HEVC.DTS-GOD.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "04: Action": [
+    {
+      "longDescription": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/die-hard.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
+      "title": "Die Hard",
+      "content": {
+        "duration": 7927,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2507249.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hancock.png?raw=true",
+      "releaseDate": "2008",
+      "shortDescription": "Hancock is a superhero whose ill-considered behavior regularly causes damage in the millions. He changes when the person he saves helps him improve his public image.",
+      "title": "Hancock",
+      "content": {
+        "duration": 5532,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2493418.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mask_of_zorro.png?raw=true",
+      "releaseDate": "1998",
+      "shortDescription": "A young thief seeking revenge for his brother's death is trained by the once-great, aging Zorro, who is pursuing his own vengeance.",
+      "title": "The Mask of Zorro",
+      "content": {
+        "duration": 8254,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489826.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legend_of_zorro.png?raw=true",
+      "releaseDate": "2005",
+      "shortDescription": "Despite trying to keep his swashbuckling to a minimum, a threat to California's pending statehood causes the adventure-loving Don Alejandro de la Vega and his wife, Elena, to take action.",
+      "title": "The Legend of Zorro",
+      "content": {
+        "duration": 7825,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489260.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/gladiator.png?raw=true",
+      "releaseDate": "2000",
+      "shortDescription": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "title": "Gladiator",
+      "content": {
+        "duration": 10259,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/01627393993/Gladiator.2000.EXTENDED.1080p.BluRay.x265-RARBG.ia.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/cliffhanger.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "A botched mid-air heist results in suitcases full of cash being searched for by various groups throughout the Rocky Mountains.",
+      "title": "Cliffhanger",
+      "content": {
+        "duration": 6762,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2434357.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "05: History/War": [
+    {
+      "longDescription": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the-patriot.png?raw=true",
+      "releaseDate": "2000",
+      "shortDescription": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
+      "title": "The Patriot",
+      "content": {
+        "duration": 9884,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2483864.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/cold-mountain.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "In the waning days of the American Civil War, a wounded soldier embarks on a perilous journey back home to Cold Mountain, North Carolina to reunite with his sweetheart.",
+      "title": "Cold Mountain",
+      "content": {
+        "duration": 9266,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519000.m3u8",
             "quality": "HD"
           }
         ]
@@ -1903,7 +1801,94 @@
       }
     }
   ],
-  "13: Spider-Man Trilogy": [
+  "13: Musical": [
+    {
+      "longDescription": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hairspray.png",
+      "releaseDate": "2007",
+      "shortDescription": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+      "title": "Hairspray",
+      "content": {
+        "duration": 6981,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502306.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/ray.png",
+      "releaseDate": "2004",
+      "shortDescription": "The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s.",
+      "title": "Ray",
+      "content": {
+        "duration": 9139,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2501064.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blues-brothers.png",
+      "releaseDate": "1980",
+      "shortDescription": "Jake Blues rejoins with his brother Elwood after being released from prison, but the duo has just days to reunite their old R&B band and save the Catholic home where the two were raised, outrunning the police as they tear through Chicago.",
+      "title": "The Blues Brothers",
+      "content": {
+        "duration": 7973,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2492925.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/airheads.png",
+      "releaseDate": "1994",
+      "shortDescription": "Three band members hoping for a big break head to a radio station to play their demo tape and wind up holding everyone hostage with plastic guns when the head D.J. refuses to play them.",
+      "title": "Airheads",
+      "content": {
+        "duration": 5535,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498231.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/walk_hard.png",
+      "releaseDate": "2007",
+      "shortDescription": "Singer Dewey Cox overcomes adversity to become a musical legend.",
+      "title": "Walk Hard: The Dewey Cox Story",
+      "content": {
+        "duration": 5760,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2486870.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "14: Spider-Man Trilogy": [
     {
       "title": "Spider-Man",
       "releaseDate": "2002",
@@ -1956,7 +1941,60 @@
       }
     }
   ],
-  "14: The Lord of the Rings Film Series (copy)": [
+  "15: The Karate Kid Film Series": [
+    {
+      "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
+      "releaseDate": "1984",
+      "shortDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
+      "title": "The Karate Kid",
+      "content": {
+        "duration": 7615,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2470629.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid2.png?raw=true",
+      "releaseDate": "1986",
+      "shortDescription": "Daniel accompanies his mentor, Mr. Miyagi, to Miyagi's childhood home in Okinawa. Miyagi visits his dying father and confronts his old rival, while Daniel falls in love and inadvertently makes a new rival of his own.",
+      "title": "The Karate Kid Part II",
+      "content": {
+        "duration": 6795,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352739.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid3.png?raw=true",
+      "releaseDate": "1989",
+      "shortDescription": "Ostracised villain John Kreese attempts to gain revenge on Daniel and Miyagi, with the help of a Vietnam War comrade, the wealthy owner of a toxic waste disposal business.",
+      "title": "The Karate Kid Part III",
+      "content": {
+        "duration": 6744,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2352538.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "16: The Lord of the Rings Film Series (copy)": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -2009,7 +2047,7 @@
       }
     }
   ],
-  "15: Harry Potter Film Series": [
+  "17: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
