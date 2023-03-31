@@ -1438,6 +1438,23 @@
   ],
   "09: Westerns": [
     {
+      "longDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/django_unchained.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "title": "Django Unchained",
+      "content": {
+        "duration": 9923,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502733.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_missing.png?raw=true",
       "releaseDate": "2003",
@@ -1882,6 +1899,25 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2486870.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "13: Stand-Up": [
+    {
+      "longDescription": "The comedic stylings of four sort-of famous funnymen are brought to the big screen courtesy of this 2002 documentary.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blue_collar_movie.png",
+      "releaseDate": "2003",
+      "shortDescription": "The comedic stylings of four sort-of famous funnymen are brought to the big screen courtesy of this 2002 documentary.",
+      "title": "Blue Collar Comedy Tour: The Movie",
+      "content": {
+        "duration": 6348,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.zype.com/manifest/61fae95a13da040001b9d523.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
             "quality": "HD"
           }
         ]
