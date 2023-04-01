@@ -1196,57 +1196,6 @@
       }
     },
     {
-      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
-      "releaseDate": "2012",
-      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "title": "Hatfields & McCoys: Part 1",
-      "content": {
-        "duration": 6155,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/7/am/kgnyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
-      "releaseDate": "2012",
-      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "title": "Hatfields & McCoys: Part 2",
-      "content": {
-        "duration": 5924,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/8/am/lgnyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
-      "releaseDate": "2012",
-      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
-      "title": "Hatfields & McCoys: Part 3",
-      "content": {
-        "duration": 5338,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/8/am/mgnyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
       "longDescription": "A young girl on the threshold of her teen years finds her life turning upside down when she is accompanied by an unlikely friend.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/my_girl.png?raw=true",
       "releaseDate": "1991",
@@ -1577,6 +1526,23 @@
     }
   ],
   "11: Crime/Mystery": [
+    {
+      "longDescription": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/shutter_island.png?raw=true",
+      "releaseDate": "2010",
+      "shortDescription": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
+      "title": "Shutter Island",
+      "content": {
+        "duration": 8281,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503334.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/no-country.png?raw=true",
@@ -1977,7 +1943,60 @@
       }
     }
   ],
-  "15: The Karate Kid Film Series": [
+  "15: Hatfields & McCoys (TV Mini Series)": [
+    {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 1",
+      "content": {
+        "duration": 6155,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502895.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 2",
+      "content": {
+        "duration": 5924,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502896.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
+      "title": "Hatfields & McCoys: Part 3",
+      "content": {
+        "duration": 5338,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502897.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "16: The Karate Kid Film Series": [
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
@@ -2030,7 +2049,7 @@
       }
     }
   ],
-  "16: The Lord of the Rings Film Series (copy)": [
+  "17: The Lord of the Rings Film Series (copy)": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -2083,7 +2102,7 @@
       }
     }
   ],
-  "17: Harry Potter Film Series": [
+  "18: Harry Potter Film Series": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
