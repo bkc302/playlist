@@ -814,6 +814,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/galaxy_quest.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
+      "title": "Galaxy Quest",
+      "content": {
+        "duration": 6126,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2517367.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A greedy film producer assembles a team of moviemakers and sets out for the infamous Skull Island, where they find more than just cannibalistic natives.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/king-kong.png?raw=true",
       "releaseDate": "2005",
@@ -934,6 +951,23 @@
     }
   ],
   "04: Action": [
+    {
+      "longDescription": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/speed.png?raw=true",
+      "releaseDate": "1994",
+      "shortDescription": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
+      "title": "Speed",
+      "content": {
+        "duration": 6952,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2507152.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/die-hard.png?raw=true",
@@ -1457,6 +1491,23 @@
   ],
   "10: Animation/Family": [
     {
+      "longDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stuart_little.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
+      "title": "Stuart Little",
+      "content": {
+        "duration": 5081,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506840.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/unfortunate-events.png?raw=true",
       "releaseDate": "2004",
@@ -1681,6 +1732,40 @@
     }
   ],
   "12: Horror": [
+    {
+      "longDescription": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_shining.png?raw=true",
+      "releaseDate": "1980",
+      "shortDescription": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+      "title": "The Shining",
+      "content": {
+        "duration": 8624,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504175.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people, with the culprit being the legendary apparition, The Headless Horseman.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/sleepy_hollow.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "Ichabod Crane is sent to Sleepy Hollow to investigate the decapitations of three people, with the culprit being the legendary apparition, The Headless Horseman.",
+      "title": "Sleepy Hollow",
+      "content": {
+        "duration": 6328,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2507138.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last hope.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/legion.png?raw=true",
