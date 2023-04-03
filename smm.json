@@ -472,6 +472,159 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "Aliens with conical crania crash-land on Earth.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/coneheads.png",
+      "releaseDate": "1993",
+      "shortDescription": "Aliens with conical crania crash-land on Earth.",
+      "title": "Coneheads",
+      "content": {
+        "duration": 5280,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503130.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_big_lebowski.png",
+      "releaseDate": "1998",
+      "shortDescription": "Ultimate L.A. slacker Jeff \"The Dude\" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire's missing wife.",
+      "title": "The Big Lebowski",
+      "content": {
+        "duration": 7020,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506072.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/nacho_libre.png",
+      "releaseDate": "2006",
+      "shortDescription": "Berated all his life by those around him, a monk follows his dream and dons a mask to moonlight as a Luchador (Mexican wrestler).",
+      "title": "Nacho Libre",
+      "content": {
+        "duration": 5520,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503333.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_mask.png",
+      "releaseDate": "1994",
+      "shortDescription": "Bank clerk Stanley Ipkiss is transformed into a manic superhero when he wears a mysterious mask.",
+      "title": "The Mask",
+      "content": {
+        "duration": 6060,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502337.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A Wall Street investment banker who has been set up as the linchpin of his company's mob-backed Ponzi scheme is relocated with his family to Aunt Madea's southern home.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/witness_protection.png",
+      "releaseDate": "2012",
+      "shortDescription": "A Wall Street investment banker who has been set up as the linchpin of his company's mob-backed Ponzi scheme is relocated with his family to Aunt Madea's southern home.",
+      "title": "Madea's Witness Protection",
+      "content": {
+        "duration": 6840,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502788.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life. Complications arise when the remote starts to overrule his choices.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/click.png",
+      "releaseDate": "2006",
+      "shortDescription": "A workaholic architect finds a universal remote that allows him to fast-forward and rewind to different parts of his life. Complications arise when the remote starts to overrule his choices.",
+      "title": "Click",
+      "content": {
+        "duration": 6420,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2488441.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A comedy centered on an idealist who barges into the lives of his three sisters.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/our_idiot_brother.png",
+      "releaseDate": "2011",
+      "shortDescription": "A comedy centered on an idealist who barges into the lives of his three sisters.",
+      "title": "Our Idiot Brother",
+      "content": {
+        "duration": 5400,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502729.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/teen_wolf.png",
+      "releaseDate": "1985",
+      "shortDescription": "An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf.",
+      "title": "Teen Wolf",
+      "content": {
+        "duration": 5460,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490146.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A soon to be divorced Beverly Hills socialite is determined to prove to her husband and herself that she can finish what she starts out to do, by becoming a den mother to a troop of Beverly Hills Girl Scouts.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/troop_beverly_hills.png",
+      "releaseDate": "1989",
+      "shortDescription": "A soon to be divorced Beverly Hills socialite is determined to prove to her husband and herself that she can finish what she starts out to do, by becoming a den mother to a troop of Beverly Hills Girl Scouts.",
+      "title": "Troop Beverly Hills",
+      "content": {
+        "duration": 6300,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502842.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "When a shopping mall is taken over by a gang of organized crooks, it's up to a mild-mannered security guard to save the day.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/mallcop.png",
       "releaseDate": "2009",
@@ -814,6 +967,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/unexpected_journey.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
+      "title": "The Hobbit: An Unexpected Journey",
+      "content": {
+        "duration": 10187,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504368.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/galaxy_quest.png?raw=true",
       "releaseDate": "1999",
@@ -951,6 +1121,57 @@
     }
   ],
   "04: Action": [
+    {
+      "longDescription": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/tmnt.png?raw=true",
+      "releaseDate": "2014",
+      "shortDescription": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
+      "title": "Teenage Mutant Ninja Turtles",
+      "content": {
+        "duration": 6060,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2511312.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The famed monster hunter is sent to Transylvania to stop Count Dracula, who is using Dr. Frankenstein's research and a werewolf for nefarious purposes.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/van_helsing.png?raw=true",
+      "releaseDate": "2004",
+      "shortDescription": "The famed monster hunter is sent to Transylvania to stop Count Dracula, who is using Dr. Frankenstein's research and a werewolf for nefarious purposes.",
+      "title": "Van Helsing",
+      "content": {
+        "duration": 7860,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502736.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/rundown.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "A tough aspiring chef is hired to bring home a mobster's son from the Amazon but becomes involved in the fight against an oppressive town operator and the search for a legendary treasure.",
+      "title": "The Rundown",
+      "content": {
+        "duration": 6240,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503019.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A young police officer must prevent a bomb exploding aboard a city bus by keeping its speed above 50 mph.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/speed.png?raw=true",
@@ -1108,6 +1329,40 @@
     }
   ],
   "06: Romantic Comedy": [
+    {
+      "longDescription": "During a hometown memorial for his Kentucky-born father, a young man begins an unexpected romance with a too-good-to-be-true stewardess.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/elizabethtown.png",
+      "releaseDate": "2005",
+      "shortDescription": "During a hometown memorial for his Kentucky-born father, a young man begins an unexpected romance with a too-good-to-be-true stewardess.",
+      "title": "Elizabethtown",
+      "content": {
+        "duration": 7380,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2510944.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A nerdy Catholic schoolgirl, Mary Katherine Gallagher, dreams of superstardom.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/superstar.png",
+      "releaseDate": "1999",
+      "shortDescription": "A nerdy Catholic schoolgirl, Mary Katherine Gallagher, dreams of superstardom.",
+      "title": "Superstar",
+      "content": {
+        "duration": 4860,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505702.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/steel-magnolias.png",
@@ -1733,6 +1988,57 @@
   ],
   "12: Horror": [
     {
+      "longDescription": "An ominous darkness invades a seemingly serene sunflower farm in North Dakota, and the Solomon family is torn apart by suspicion, mayhem and murder.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_messengers.png?raw=true",
+      "releaseDate": "2007",
+      "shortDescription": "An ominous darkness invades a seemingly serene sunflower farm in North Dakota, and the Solomon family is torn apart by suspicion, mayhem and murder.",
+      "title": "The Messengers",
+      "content": {
+        "duration": 5400,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2485919.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/vacancy.png?raw=true",
+      "releaseDate": "2007",
+      "shortDescription": "A married couple becomes stranded at an isolated motel and finds hidden video cameras in their room. They soon realize that unless they escape, they'll be the next victims of a snuff film.",
+      "title": "Vacancy",
+      "content": {
+        "duration": 5100,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2483866.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/silent_hill.png?raw=true",
+      "releaseDate": "2006",
+      "shortDescription": "A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.",
+      "title": "Silent Hill",
+      "content": {
+        "duration": 7500,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2462683.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_shining.png?raw=true",
       "releaseDate": "1980",
@@ -2134,7 +2440,60 @@
       }
     }
   ],
-  "17: The Lord of the Rings Film Series (copy)": [
+  "16: Look Who's Talking Film Series": [
+    {
+      "longDescription": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt.png?raw=true",
+      "releaseDate": "1989",
+      "shortDescription": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
+      "title": "Look Who's Talking",
+      "content": {
+        "duration": 5751,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2419504.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "This time, a new baby is on the way, and it's a girl. Wrapped together with the standard conflict between mother and father, Mikey engages in a bit of sibling rivalry with his new sister.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt2.png?raw=true",
+      "releaseDate": "1990",
+      "shortDescription": "This time, a new baby is on the way, and it's a girl. Wrapped together with the standard conflict between mother and father, Mikey engages in a bit of sibling rivalry with his new sister.",
+      "title": "Look Who's Talking Too",
+      "content": {
+        "duration": 4860,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2481570.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The dogs can talk at a family of 4, where mom loses her job the same day dad gets a job as pilot for a cute, single boss.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt3.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "The dogs can talk at a family of 4, where mom loses her job the same day dad gets a job as pilot for a cute, single boss.",
+      "title": "Look Who's Talking Now",
+      "content": {
+        "duration": 5760,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2481684.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "17: The Lord of the Rings Film Series": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
