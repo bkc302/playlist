@@ -472,6 +472,40 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/roxbury.png?raw=true",
+      "releaseDate": "1998",
+      "shortDescription": "Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.",
+      "title": "A Night at the Roxbury",
+      "content": {
+        "duration": 4920,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2512628.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/zookeeper.png?raw=true",
+      "releaseDate": "2011",
+      "shortDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
+      "title": "Zookeeper",
+      "content": {
+        "duration": 6120,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505106.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Aliens with conical crania crash-land on Earth.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/coneheads.png",
       "releaseDate": "1993",
@@ -967,6 +1001,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "After spending two decades in England, Bill Bryson (Robert Redford) returns to the U.S., where he decides the best way to connect with his homeland is to hike the Appalachian Trail with one of his oldest friends, Stephen Katz (Nick Nolte).",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/a_walk_in_the_woods.png?raw=true",
+      "releaseDate": "2015",
+      "shortDescription": "After spending two decades in England, Bill Bryson (Robert Redford) returns to the U.S., where he decides the best way to connect with his homeland is to hike the Appalachian Trail with one of his oldest friends, Stephen Katz (Nick Nolte).",
+      "title": "A Walk in the Woods",
+      "content": {
+        "duration": 6240,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2514125.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A reluctant Hobbit, Bilbo Baggins, sets out to the Lonely Mountain with a spirited group of dwarves to reclaim their mountain home, and the gold within it from the dragon Smaug.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/unexpected_journey.png?raw=true",
       "releaseDate": "2012",
@@ -1294,6 +1345,40 @@
   ],
   "05: History/War": [
     {
+      "longDescription": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fury.png?raw=true",
+      "releaseDate": "2014",
+      "shortDescription": "A grizzled tank commander makes tough decisions as he and his crew fight their way across Germany in April, 1945.",
+      "title": "Fury",
+      "content": {
+        "duration": 8040,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505109.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A dramatization of the July 20, 1944 assassination and political coup plot by desperate renegade German Army officers against Adolf Hitler during World War II.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/valkyrie.png?raw=true",
+      "releaseDate": "2008",
+      "shortDescription": "A dramatization of the July 20, 1944 assassination and political coup plot by desperate renegade German Army officers against Adolf Hitler during World War II.",
+      "title": "Valkyrie",
+      "content": {
+        "duration": 7260,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505309.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the-patriot.png?raw=true",
       "releaseDate": "2000",
@@ -1329,6 +1414,23 @@
     }
   ],
   "06: Romantic Comedy": [
+    {
+      "longDescription": "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_holiday.png",
+      "releaseDate": "2006",
+      "shortDescription": "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
+      "title": "The Holiday",
+      "content": {
+        "duration": 8160,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2500991.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "During a hometown memorial for his Kentucky-born father, a young man begins an unexpected romance with a too-good-to-be-true stewardess.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/elizabethtown.png",
@@ -1520,6 +1622,23 @@
     }
   ],
   "08: Sci-Fi": [
+    {
+      "longDescription": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mars_attacks.png?raw=true",
+      "releaseDate": "1996",
+      "shortDescription": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+      "title": "Mars Attacks!",
+      "content": {
+        "duration": 6360,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2501089.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/fifth_element.png?raw=true",
@@ -1832,6 +1951,23 @@
     }
   ],
   "11: Crime/Mystery": [
+    {
+      "longDescription": "A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/double_jeopardy.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.",
+      "title": "Double Jeopardy",
+      "content": {
+        "duration": 6300,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505140.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/shutter_island.png?raw=true",
@@ -2176,6 +2312,23 @@
     }
   ],
   "13: Musical": [
+    {
+      "longDescription": "A wannabe blues-guitar virtuoso seeks a long-lost song by legendary musician Robert Johnson.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/crossroads.png",
+      "releaseDate": "1986",
+      "shortDescription": "A wannabe blues-guitar virtuoso seeks a long-lost song by legendary musician Robert Johnson.",
+      "title": "Crossroads",
+      "content": {
+        "duration": 5940,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2462227.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/hairspray.png",
