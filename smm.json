@@ -472,6 +472,57 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "A Chicago man and his family go camping with his obnoxious brother-in-law.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_great_outdoors.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "A Chicago man and his family go camping with his obnoxious brother-in-law.",
+      "title": "The Great Outdoors",
+      "content": {
+        "duration": 5460,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504227.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/addams_family.png?raw=true",
+      "releaseDate": "1991",
+      "shortDescription": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "title": "The Addams Family",
+      "content": {
+        "duration": 5940,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504338.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/beetlejuice.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "The spirits of a deceased couple are harassed by an unbearable family that has moved into their home, and hire a malicious spirit to drive them out.",
+      "title": "Beetlejuice",
+      "content": {
+        "duration": 5520,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504170.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/roxbury.png?raw=true",
       "releaseDate": "1998",
@@ -1001,6 +1052,40 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/journey_to_the_center.png?raw=true",
+      "releaseDate": "2008",
+      "shortDescription": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
+      "title": "Journey to the Center of the Earth",
+      "content": {
+        "duration": 5580,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503855.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Will and Jake Grimm are traveling con-artists who encounter a genuine fairy-tale curse which requires true courage instead of their usual bogus exorcisms.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/brothers_grimm.png?raw=true",
+      "releaseDate": "2005",
+      "shortDescription": "Will and Jake Grimm are traveling con-artists who encounter a genuine fairy-tale curse which requires true courage instead of their usual bogus exorcisms.",
+      "title": "The Brothers Grimm",
+      "content": {
+        "duration": 7080,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503857.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After spending two decades in England, Bill Bryson (Robert Redford) returns to the U.S., where he decides the best way to connect with his homeland is to hike the Appalachian Trail with one of his oldest friends, Stephen Katz (Nick Nolte).",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/a_walk_in_the_woods.png?raw=true",
       "releaseDate": "2015",
@@ -1415,6 +1500,23 @@
   ],
   "06: Romantic Comedy": [
     {
+      "longDescription": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/just_go_with_it.png",
+      "releaseDate": "2011",
+      "shortDescription": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
+      "title": "Just Go with It",
+      "content": {
+        "duration": 7020,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504129.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Two women troubled with guy-problems swap homes in each other's countries, where they each meet a local guy and fall in love.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_holiday.png",
       "releaseDate": "2006",
@@ -1795,6 +1897,23 @@
   ],
   "09: Westerns": [
     {
+      "longDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_outlaws.png?raw=true",
+      "releaseDate": "2001",
+      "shortDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
+      "title": "American Outlaws",
+      "content": {
+        "duration": 5640,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503689.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/django_unchained.png?raw=true",
       "releaseDate": "2012",
@@ -1951,6 +2070,23 @@
     }
   ],
   "11: Crime/Mystery": [
+    {
+      "longDescription": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/phone_booth.png?raw=true",
+      "releaseDate": "2002",
+      "shortDescription": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
+      "title": "Phone Booth",
+      "content": {
+        "duration": 4860,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504109.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A woman framed for her husband's murder suspects he is still alive; as she has already been tried for the crime, she can't be re-prosecuted if she finds and kills him.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/double_jeopardy.png?raw=true",
@@ -2123,6 +2259,23 @@
     }
   ],
   "12: Horror": [
+    {
+      "longDescription": "A salvage crew discovers a long-lost 1962 passenger ship floating lifeless in a remote region of the Bering Sea, and soon notices that its long-dead inhabitants may still be on board.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ghost_ship.png?raw=true",
+      "releaseDate": "2002",
+      "shortDescription": "A salvage crew discovers a long-lost 1962 passenger ship floating lifeless in a remote region of the Bering Sea, and soon notices that its long-dead inhabitants may still be on board.",
+      "title": "Ghost Ship",
+      "content": {
+        "duration": 5460,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504646.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "An ominous darkness invades a seemingly serene sunflower farm in North Dakota, and the Solomon family is torn apart by suspicion, mayhem and murder.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_messengers.png?raw=true",
