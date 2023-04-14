@@ -1052,6 +1052,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/waterworld.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
+      "title": "Waterworld",
+      "content": {
+        "duration": 10620,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506047.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "On a quest to find out what happened to his missing brother, a scientist, his nephew and their mountain guide discover a fantastic and dangerous lost world in the center of the earth.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/journey_to_the_center.png?raw=true",
       "releaseDate": "2008",
@@ -1895,181 +1912,7 @@
       }
     }
   ],
-  "09: Westerns": [
-    {
-      "longDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_outlaws.png?raw=true",
-      "releaseDate": "2001",
-      "shortDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
-      "title": "American Outlaws",
-      "content": {
-        "duration": 5640,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503689.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/django_unchained.png?raw=true",
-      "releaseDate": "2012",
-      "shortDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
-      "title": "Django Unchained",
-      "content": {
-        "duration": 9923,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502733.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_missing.png?raw=true",
-      "releaseDate": "2003",
-      "shortDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
-      "title": "The Missing",
-      "content": {
-        "duration": 8222,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/c/cl/4cbyb_480p_1mbps.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/seraphim_falls.png?raw=true",
-      "releaseDate": "2006",
-      "shortDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
-      "title": "Seraphim Falls",
-      "content": {
-        "duration": 6700,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2487105.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/forsaken.png?raw=true",
-      "releaseDate": "2016",
-      "shortDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
-      "title": "Forsaken",
-      "content": {
-        "duration": 5393,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://manifest.production-public.tubi.io/d7870a49-0e54-436e-b7d8-a705f3981143/ir8zhmmuv4.m3u8?token=",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "10: Animation/Family": [
-    {
-      "longDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stuart_little.png?raw=true",
-      "releaseDate": "1999",
-      "shortDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
-      "title": "Stuart Little",
-      "content": {
-        "duration": 5081,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506840.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/unfortunate-events.png?raw=true",
-      "releaseDate": "2004",
-      "shortDescription": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
-      "title": "A Series of Unfortunate Events",
-      "content": {
-        "duration": 6476,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2517372.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ferngully.png?raw=true",
-      "releaseDate": "1992",
-      "shortDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
-      "title": "FernGully: The Last Rainforest",
-      "content": {
-        "duration": 4550,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://player.zype.com/manifest/6320b26dbed8370001d771e3.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/finding_nemo.png?raw=true",
-      "releaseDate": "2003",
-      "shortDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
-      "title": "Finding Nemo",
-      "content": {
-        "duration": 6054,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/FINDING%20NEMO%20%282003%29.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_tail.png?raw=true",
-      "releaseDate": "1986",
-      "shortDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
-      "title": "An American Tail",
-      "content": {
-        "duration": 4815,
-        "videos": [
-          {
-            "videoType": "MP4",
-            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/AN%20AMERICAN%20TAIL%20%281986%29.mp4",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "11: Crime/Mystery": [
+  "09: Crime/Mystery": [
     {
       "longDescription": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/phone_booth.png?raw=true",
@@ -2252,6 +2095,248 @@
           {
             "videoType": "MP4",
             "url": "https://archive.org/download/rear.-window.-1954.by-hitchcock.-720p.x-264.-aac.-multisub.mkv-zen-bud/Rear.Window.1954.by_Hitchcock.720p.x264.AAC.MULTISUB.mkv-Zen_Bud.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "10: Westerns": [
+    {
+      "longDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_outlaws.png?raw=true",
+      "releaseDate": "2001",
+      "shortDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
+      "title": "American Outlaws",
+      "content": {
+        "duration": 5640,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503689.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/django_unchained.png?raw=true",
+      "releaseDate": "2012",
+      "shortDescription": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi.",
+      "title": "Django Unchained",
+      "content": {
+        "duration": 9923,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502733.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_missing.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "In 1885 New Mexico, a frontier medicine woman forms an uneasy alliance with her estranged father when her daughter is kidnapped by an Apache brujo.",
+      "title": "The Missing",
+      "content": {
+        "duration": 8222,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/c/cl/4cbyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/seraphim_falls.png?raw=true",
+      "releaseDate": "2006",
+      "shortDescription": "After the end of the American Civil War, a former Confederate colonel hunts down a former Yankee officer with whom he has a grudge.",
+      "title": "Seraphim Falls",
+      "content": {
+        "duration": 6700,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2487105.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/forsaken.png?raw=true",
+      "releaseDate": "2016",
+      "shortDescription": "An embittered gunslinger attempts to make amends with his estranged reverend father while ruthless land-grabbers besiege their community.",
+      "title": "Forsaken",
+      "content": {
+        "duration": 5393,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://manifest.production-public.tubi.io/d7870a49-0e54-436e-b7d8-a705f3981143/ir8zhmmuv4.m3u8?token=",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "11: Animation/Family": [
+    {
+      "longDescription": "Arnold and company must recover a stolen document needed in order to prevent the neighborhood from being bulldozed.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hey_arnold.png?raw=true",
+      "releaseDate": "2002",
+      "shortDescription": "Arnold and company must recover a stolen document needed in order to prevent the neighborhood from being bulldozed.",
+      "title": "Hey Arnold! The Movie",
+      "content": {
+        "duration": 4560,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2513395.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Eliza (Lacey Chabert) and Debbie (Danielle Harris) are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/thornberrys.png?raw=true",
+      "releaseDate": "2002",
+      "shortDescription": "Eliza (Lacey Chabert) and Debbie (Danielle Harris) are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals.",
+      "title": "The Wild Thornberrys Movie",
+      "content": {
+        "duration": 5112,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2513534.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/rango.png?raw=true",
+      "releaseDate": "2011",
+      "shortDescription": "Rango is an ordinary chameleon who accidentally winds up in the town of Dirt, a lawless outpost in the Wild West in desperate need of a new sheriff.",
+      "title": "Rango",
+      "content": {
+        "duration": 6420,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505752.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/tintin.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "Intrepid reporter Tintin and Captain Haddock set off on a treasure hunt for a sunken ship commanded by Haddock's ancestor.",
+      "title": "The Adventures of Tintin",
+      "content": {
+        "duration": 6420,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2511732.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/stuart_little.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
+      "title": "Stuart Little",
+      "content": {
+        "duration": 5081,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506840.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/unfortunate-events.png?raw=true",
+      "releaseDate": "2004",
+      "shortDescription": "When a massive fire kills their parents, three children are delivered to the custody of cousin and stage actor Count Olaf, who is secretly plotting to steal their parents' vast fortune.",
+      "title": "A Series of Unfortunate Events",
+      "content": {
+        "duration": 6476,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2517372.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ferngully.png?raw=true",
+      "releaseDate": "1992",
+      "shortDescription": "The magical inhabitants of a rainforest fight to save their home, which is threatened by logging and a polluting force of destruction called Hexxus.",
+      "title": "FernGully: The Last Rainforest",
+      "content": {
+        "duration": 4550,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.zype.com/manifest/6320b26dbed8370001d771e3.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/finding_nemo.png?raw=true",
+      "releaseDate": "2003",
+      "shortDescription": "After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.",
+      "title": "Finding Nemo",
+      "content": {
+        "duration": 6054,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/FINDING%20NEMO%20%282003%29.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_tail.png?raw=true",
+      "releaseDate": "1986",
+      "shortDescription": "While emigrating to the United States, a young Russian mouse gets separated from his family and must relocate them while trying to survive in a new country.",
+      "title": "An American Tail",
+      "content": {
+        "duration": 4815,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/how-to-train-your-dragon-2010_202106/AN%20AMERICAN%20TAIL%20%281986%29.mp4",
             "quality": "HD"
           }
         ]
@@ -2568,7 +2653,7 @@
       }
     }
   ],
-  "13: Stand-Up": [
+  "14: Stand-Up": [
     {
       "longDescription": "The comedic stylings of four sort-of famous funnymen are brought to the big screen courtesy of this 2002 documentary.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blue_collar_movie.png",
@@ -2587,7 +2672,113 @@
       }
     }
   ],
-  "14: Spider-Man Trilogy": [
+  "15: Terminator": [
+    {
+      "title": "The Terminator",
+      "releaseDate": "1984",
+      "shortDescription": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+      "longDescription": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t1.png",
+      "content": {
+        "duration": 6420,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503896.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "releaseDate": "1991",
+      "shortDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+      "longDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t2.png",
+      "content": {
+        "duration": 8220,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504400.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "releaseDate": "2003",
+      "shortDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+      "longDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t3.png",
+      "content": {
+        "duration": 6540,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503829.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "16: The Matrix": [
+    {
+      "title": "The Matrix",
+      "releaseDate": "1999",
+      "shortDescription": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "longDescription": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/matrix.png",
+      "content": {
+        "duration": 8160,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504638.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Matrix Reloaded",
+      "releaseDate": "2003",
+      "shortDescription": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+      "longDescription": "Freedom fighters Neo, Trinity and Morpheus continue to lead the revolt against the Machine Army, unleashing their arsenal of extraordinary skills and weaponry against the systematic forces of repression and exploitation.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/matrix_reloaded.png",
+      "content": {
+        "duration": 8280,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504798.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "The Matrix Revolutions",
+      "releaseDate": "2003",
+      "shortDescription": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+      "longDescription": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/matrix_revolutions.png",
+      "content": {
+        "duration": 7740,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504797.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    }
+  ],
+  "17: Spider-Man": [
     {
       "title": "Spider-Man",
       "releaseDate": "2002",
@@ -2640,7 +2831,7 @@
       }
     }
   ],
-  "15: Hatfields & McCoys (TV Mini Series)": [
+  "18: Hatfields & McCoys (TV Mini Series)": [
     {
       "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
@@ -2693,7 +2884,7 @@
       }
     }
   ],
-  "16: The Karate Kid Film Series": [
+  "19: The Karate Kid": [
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
@@ -2746,7 +2937,7 @@
       }
     }
   ],
-  "16: Look Who's Talking Film Series": [
+  "20: Look Who's Talking": [
     {
       "longDescription": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt.png?raw=true",
@@ -2799,7 +2990,7 @@
       }
     }
   ],
-  "17: The Lord of the Rings Film Series": [
+  "21: The Lord of the Rings": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -2852,7 +3043,7 @@
       }
     }
   ],
-  "18: Harry Potter Film Series": [
+  "22: Harry Potter": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
