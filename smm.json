@@ -472,6 +472,23 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "After he finds out that his work superiors host a dinner celebrating the idiocy of their special guests, a rising executive questions the merits of his invitation just as he befriends a man who would be the perfect guest.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/dinner_for_schmucks.png?raw=true",
+      "releaseDate": "2010",
+      "shortDescription": "After he finds out that his work superiors host a dinner celebrating the idiocy of their special guests, a rising executive questions the merits of his invitation just as he befriends a man who would be the perfect guest.",
+      "title": "Dinner for Schmucks",
+      "content": {
+        "duration": 6840,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2508097.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A struggling dentist's life is turned upside down when a famous gangster moves in next door, and his wife convinces him to inform a notorious mob boss about the gangster's whereabouts.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_whole_nine_yards.png?raw=true",
       "releaseDate": "2000",
@@ -1050,60 +1067,7 @@
       }
     }
   ],
-  "03: Family Comedy": [
-    {
-      "longDescription": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_grinch.png",
-      "releaseDate": "2000",
-      "shortDescription": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
-      "title": "How the Grinch Stole Christmas",
-      "content": {
-        "duration": 6240,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503837.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A widowed Coast Guard Admiral and a widowed handbag designer fall in love and marry, much to the dismay of his 8 and her 10 children.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/yours_mine_ours.png?raw=true",
-      "releaseDate": "2005",
-      "shortDescription": "A widowed Coast Guard Admiral and a widowed handbag designer fall in love and marry, much to the dismay of his 8 and her 10 children.",
-      "title": "Yours, Mine & Ours",
-      "content": {
-        "duration": 5280,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505942.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/zookeeper.png?raw=true",
-      "releaseDate": "2011",
-      "shortDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
-      "title": "Zookeeper",
-      "content": {
-        "duration": 6120,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505106.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "04: Adventure": [
+  "03: Adventure": [
     {
       "longDescription": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/waterworld.png?raw=true",
@@ -1258,23 +1222,6 @@
       }
     },
     {
-      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
-      "releaseDate": "1995",
-      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
-      "title": "Jumanji",
-      "content": {
-        "duration": 6245,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2372118.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
       "longDescription": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/wilderpeople.png?raw=true",
       "releaseDate": "2016",
@@ -1286,23 +1233,6 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2527063.m3u8",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
-      "releaseDate": "1991",
-      "shortDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
-      "title": "Hook",
-      "content": {
-        "duration": 8503,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490637.m3u8",
             "quality": "HD"
           }
         ]
@@ -1326,7 +1256,7 @@
       }
     }
   ],
-  "05: Action": [
+  "04: Action": [
     {
       "longDescription": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/tmnt.png?raw=true",
@@ -1498,7 +1428,7 @@
       }
     }
   ],
-  "06: History/War": [
+  "05: History/War": [
     {
       "longDescription": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/braveheart.png?raw=true",
@@ -1585,7 +1515,7 @@
       }
     }
   ],
-  "07: Romantic Comedy": [
+  "06: Romantic Comedy": [
     {
       "longDescription": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/just_go_with_it.png",
@@ -1723,7 +1653,7 @@
       }
     }
   ],
-  "08: Drama": [
+  "07: Drama": [
     {
       "longDescription": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/field_of_dreams.png?raw=true",
@@ -1844,7 +1774,7 @@
       }
     }
   ],
-  "09: Sci-Fi": [
+  "08: Sci-Fi": [
     {
       "longDescription": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mars_attacks.png?raw=true",
@@ -2016,7 +1946,7 @@
       }
     }
   ],
-  "10: Crime/Mystery": [
+  "09: Crime/Mystery": [
     {
       "longDescription": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/phone_booth.png?raw=true",
@@ -2205,7 +2135,41 @@
       }
     }
   ],
-  "11: Westerns": [
+  "10: Westerns": [
+    {
+      "longDescription": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/young_guns.png?raw=true",
+      "releaseDate": "1988",
+      "shortDescription": "A group of young gunmen, led by Billy the Kid, become deputies to avenge the murder of the rancher who became their benefactor. But when Billy takes their authority too far, they become the hunted.",
+      "title": "Young Guns",
+      "content": {
+        "duration": 6420,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489475.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In 1881, cattle baron John Chisum pays a bounty to Patrick Floyd Garrett to kill outlaw Billy the Kid.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/young_guns2.png?raw=true",
+      "releaseDate": "1990",
+      "shortDescription": "In 1881, cattle baron John Chisum pays a bounty to Patrick Floyd Garrett to kill outlaw Billy the Kid.",
+      "title": "Young Guns II",
+      "content": {
+        "duration": 6240,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489772.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "5 Southern friends return home when the war ends 1865. But Yankee soldiers and Pinkerton are busy helping a railroad baron grab land from farmers along the planned railroad west. The 5 friends fight back.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/american_outlaws.png?raw=true",
@@ -2292,7 +2256,92 @@
       }
     }
   ],
-  "12: Animation/Family": [
+  "11: Family": [
+    {
+      "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
+      "releaseDate": "1991",
+      "shortDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
+      "title": "Hook",
+      "content": {
+        "duration": 8503,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490637.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/the_grinch.png",
+      "releaseDate": "2000",
+      "shortDescription": "On the outskirts of Whoville lives a green, revenge-seeking Grinch who plans to ruin Christmas for all of the citizens of the town.",
+      "title": "How the Grinch Stole Christmas",
+      "content": {
+        "duration": 6240,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503837.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A widowed Coast Guard Admiral and a widowed handbag designer fall in love and marry, much to the dismay of his 8 and her 10 children.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/yours_mine_ours.png?raw=true",
+      "releaseDate": "2005",
+      "shortDescription": "A widowed Coast Guard Admiral and a widowed handbag designer fall in love and marry, much to the dismay of his 8 and her 10 children.",
+      "title": "Yours, Mine & Ours",
+      "content": {
+        "duration": 5280,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505942.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/jumanji.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "When two kids find and play a magical board game, they release a man trapped in it for decades - and a host of dangers that can only be stopped by finishing the game.",
+      "title": "Jumanji",
+      "content": {
+        "duration": 6245,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2372118.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/zookeeper.png?raw=true",
+      "releaseDate": "2011",
+      "shortDescription": "A group of zoo animals decide to break their code of silence in order to help their lovable zookeeper find love, without opting to leave his current job for something more illustrious.",
+      "title": "Zookeeper",
+      "content": {
+        "duration": 6120,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505106.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "Arnold and company must recover a stolen document needed in order to prevent the neighborhood from being bulldozed.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hey_arnold.png?raw=true",
@@ -2447,7 +2496,7 @@
       }
     }
   ],
-  "13: Horror": [
+  "12: Horror": [
     {
       "longDescription": "A young woman is held in an underground bunker by a man who insists that a hostile event has left the surface of the Earth uninhabitable.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/10_cloverfield_lane.png?raw=true",
@@ -2670,7 +2719,7 @@
       }
     }
   ],
-  "14: Musical": [
+  "13: Musical": [
     {
       "longDescription": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/sweeney_todd.png",
@@ -2791,7 +2840,7 @@
       }
     }
   ],
-  "15: Stand-Up": [
+  "14: Stand-Up": [
     {
       "longDescription": "The comedic stylings of four sort-of famous funnymen are brought to the big screen courtesy of this 2002 documentary.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blue_collar_movie.png",
@@ -2810,7 +2859,7 @@
       }
     }
   ],
-  "16: Terminator": [
+  "15: Terminator": [
     {
       "title": "The Terminator",
       "releaseDate": "1984",
@@ -2863,7 +2912,7 @@
       }
     }
   ],
-  "17: The Matrix": [
+  "16: The Matrix": [
     {
       "title": "The Matrix",
       "releaseDate": "1999",
@@ -2916,7 +2965,7 @@
       }
     }
   ],
-  "18: Spider-Man": [
+  "17: Spider-Man": [
     {
       "title": "Spider-Man",
       "releaseDate": "2002",
@@ -2969,7 +3018,7 @@
       }
     }
   ],
-  "19: Hatfields & McCoys (TV Mini Series)": [
+  "18: Hatfields & McCoys (TV Mini Series)": [
     {
       "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
@@ -3022,7 +3071,7 @@
       }
     }
   ],
-  "20: The Karate Kid": [
+  "19: The Karate Kid": [
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
@@ -3075,7 +3124,7 @@
       }
     }
   ],
-  "21: Look Who's Talking": [
+  "20: Look Who's Talking": [
     {
       "longDescription": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt.png?raw=true",
@@ -3128,7 +3177,7 @@
       }
     }
   ],
-  "22: The Lord of the Rings": [
+  "21: The Lord of the Rings": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -3181,7 +3230,7 @@
       }
     }
   ],
-  "23: Harry Potter": [
+  "22: Harry Potter": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
