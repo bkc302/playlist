@@ -472,6 +472,23 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/grown_ups.png?raw=true",
+      "releaseDate": "2010",
+      "shortDescription": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
+      "title": "Grown Ups",
+      "content": {
+        "duration": 6120,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503264.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After he finds out that his work superiors host a dinner celebrating the idiocy of their special guests, a rising executive questions the merits of his invitation just as he befriends a man who would be the perfect guest.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/dinner_for_schmucks.png?raw=true",
       "releaseDate": "2010",
@@ -1069,6 +1086,23 @@
   ],
   "03: Adventure": [
     {
+      "longDescription": "A man tries to transport an ancient gun called The Mexican, believed to carry a curse, back across the border, while his girlfriend pressures him to give up his criminal ways.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_mexican.png?raw=true",
+      "releaseDate": "2001",
+      "shortDescription": "A man tries to transport an ancient gun called The Mexican, believed to carry a curse, back across the border, while his girlfriend pressures him to give up his criminal ways.",
+      "title": "The Mexican",
+      "content": {
+        "duration": 7380,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2506197.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "In a future where the polar ice-caps have melted and Earth is almost entirely submerged, a mutated mariner fights starvation and outlaw \"smokers,\" and reluctantly helps a woman and a young girl try to find dry land.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/waterworld.png?raw=true",
       "releaseDate": "1995",
@@ -1257,6 +1291,57 @@
     }
   ],
   "04: Action": [
+    {
+      "longDescription": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bad_boys.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
+      "title": "Bad Boys",
+      "content": {
+        "duration": 7140,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2483278.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bad_boys2.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "Two loose-cannon narcotics cops investigate the flow of Ecstasy into Florida from a Cuban drug cartel.",
+      "title": "Bad Boys II",
+      "content": {
+        "duration": 8820,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489139.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of paramilitary invaders.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/white_house_down.png?raw=true",
+      "releaseDate": "2013",
+      "shortDescription": "While on a tour of the White House with his young daughter, a Capitol policeman springs into action to save his child and protect the president from a heavily armed group of paramilitary invaders.",
+      "title": "White House Down",
+      "content": {
+        "duration": 7860,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2514347.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "When a kingpin threatens New York City, a group of mutated turtle warriors must emerge from the shadows to protect their home.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/tmnt.png?raw=true",
@@ -1517,6 +1602,74 @@
   ],
   "06: Romantic Comedy": [
     {
+      "longDescription": "Forty-something and single again, Bridget decides to focus on her job and surround herself with friends. Then she discovers that she is pregnant--but she is only 50% sure of the baby's father's identity.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/bridget_jones_baby.png",
+      "releaseDate": "2016",
+      "shortDescription": "Forty-something and single again, Bridget decides to focus on her job and surround herself with friends. Then she discovers that she is pregnant--but she is only 50% sure of the baby's father's identity.",
+      "title": "Bridget Jones's Baby",
+      "content": {
+        "duration": 7380,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2517369.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A girl's \"sweet\" sixteenth birthday is anything but special: her family forgets about it, and she suffers from every embarrassment possible.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/sixteen_candles.png",
+      "releaseDate": "1984",
+      "shortDescription": "A girl's \"sweet\" sixteenth birthday is anything but special: her family forgets about it, and she suffers from every embarrassment possible.",
+      "title": "Sixteen Candles",
+      "content": {
+        "duration": 5580,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2500012.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/easy_a.png",
+      "releaseDate": "2010",
+      "shortDescription": "A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.",
+      "title": "Easy A",
+      "content": {
+        "duration": 5520,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2505709.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Mary Fiore is San Francisco's most successful supplier of romance and glamor. She knows all the tricks. She knows all the rules. But then she breaks the most important rule of all: she falls in love with the groom.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/wedding_planner.png",
+      "releaseDate": "2001",
+      "shortDescription": "Mary Fiore is San Francisco's most successful supplier of romance and glamor. She knows all the tricks. She knows all the rules. But then she breaks the most important rule of all: she falls in love with the groom.",
+      "title": "The Wedding Planner",
+      "content": {
+        "duration": 6180,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2493088.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "On a weekend trip to Hawaii, a plastic surgeon convinces his loyal assistant to pose as his soon-to-be-divorced wife in order to cover up a careless lie he told to his much-younger girlfriend.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/just_go_with_it.png",
       "releaseDate": "2011",
@@ -1655,6 +1808,23 @@
   ],
   "07: Drama": [
     {
+      "longDescription": "The March sisters live and grow in post-Civil War America.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/little_women.png?raw=true",
+      "releaseDate": "1989",
+      "shortDescription": "The March sisters live and grow in post-Civil War America.",
+      "title": "Little Women",
+      "content": {
+        "duration": 6900,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2491703.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Iowa farmer Ray Kinsella is inspired by a voice he can't ignore to pursue a dream he can hardly believe. Supported by his wife, Ray begins the quest by turning his ordinary cornfield into a place where dreams can come true.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/field_of_dreams.png?raw=true",
       "releaseDate": "1989",
@@ -1775,6 +1945,23 @@
     }
   ],
   "08: Sci-Fi": [
+    {
+      "longDescription": "When Casey Connor, Herrington High School's newspaper photographer, witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_faculty.png?raw=true",
+      "releaseDate": "1998",
+      "shortDescription": "When Casey Connor, Herrington High School's newspaper photographer, witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings.",
+      "title": "The Faculty",
+      "content": {
+        "duration": 6240,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2498101.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/mars_attacks.png?raw=true",
@@ -1947,6 +2134,40 @@
     }
   ],
   "09: Crime/Mystery": [
+    {
+      "longDescription": "A quadriplegic ex-homicide detective and his partner try to track down a serial killer who is terrorizing New York City.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bone_collector.png?raw=true",
+      "releaseDate": "1999",
+      "shortDescription": "A quadriplegic ex-homicide detective and his partner try to track down a serial killer who is terrorizing New York City.",
+      "title": "The Bone Collector",
+      "content": {
+        "duration": 7080,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490650.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/true_romance.png?raw=true",
+      "releaseDate": "1993",
+      "shortDescription": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+      "title": "True Romance",
+      "content": {
+        "duration": 7140,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2489468.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "Publicist Stuart Shepard finds himself trapped in a phone booth, pinned down by an extortionist's sniper rifle. Unable to leave or receive outside help, Stuart's negotiation with the caller leads to a jaw-dropping climax.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/phone_booth.png?raw=true",
@@ -2721,6 +2942,23 @@
   ],
   "13: Musical": [
     {
+      "longDescription": "After being kicked out of his rock band, Dewey Finn becomes a substitute teacher of an uptight elementary private school, only to try and turn his class into a rock band.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/school_of_rock.png",
+      "releaseDate": "2003",
+      "shortDescription": "After being kicked out of his rock band, Dewey Finn becomes a substitute teacher of an uptight elementary private school, only to try and turn his class into a rock band.",
+      "title": "School of Rock",
+      "content": {
+        "duration": 6540,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502985.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "The legendary tale of a barber who returns from wrongful imprisonment to 1840s London, bent on revenge for the rape and death of his wife, and resumes his trade while forming a sinister partnership with his fellow tenant, Mrs. Lovett.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/sweeney_todd.png",
       "releaseDate": "2007",
@@ -3178,23 +3416,6 @@
     }
   ],
   "21: The Lord of the Rings": [
-    {
-      "title": "The Fellowship of the Ring",
-      "releaseDate": "2001",
-      "shortDescription": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-      "longDescription": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/lotr1.png",
-      "content": {
-        "duration": 13698,
-        "videos": [
-          {
-            "url": "https://archive.org/download/01939484/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29%20Extended%20%281080p%20BluRay%20x265%20HDR%20afm72%29.mkv",
-            "videoType": "MKV",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
