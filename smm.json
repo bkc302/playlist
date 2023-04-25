@@ -1326,6 +1326,23 @@
   ],
   "04: Action": [
     {
+      "longDescription": "When an expedition to the African Congo ends in disaster, a new team is assembled to find out what went wrong.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/congo.png?raw=true",
+      "releaseDate": "1995",
+      "shortDescription": "When an expedition to the African Congo ends in disaster, a new team is assembled to find out what went wrong.",
+      "title": "Congo",
+      "content": {
+        "duration": 6540,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2518068.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "A volcanologist arrives at a countryside town recently named the second-most desirable place to live in America, and discovers that the long-dormant volcano, Dante's Peak, may wake up at any moment.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/dantes_peak.png?raw=true",
       "releaseDate": "1997",
@@ -1388,6 +1405,40 @@
           {
             "videoType": "HLS",
             "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502194.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Terminator 2: Judgment Day",
+      "releaseDate": "1991",
+      "shortDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+      "longDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t2.png",
+      "content": {
+        "duration": 8220,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504400.m3u8",
+            "videoType": "HLS",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "title": "Terminator 3: Rise of the Machines",
+      "releaseDate": "2003",
+      "shortDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+      "longDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t3.png",
+      "content": {
+        "duration": 6540,
+        "videos": [
+          {
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503829.m3u8",
+            "videoType": "HLS",
             "quality": "HD"
           }
         ]
@@ -3284,60 +3335,7 @@
       }
     }
   ],
-  "15: Terminator": [
-    {
-      "title": "The Terminator",
-      "releaseDate": "1984",
-      "shortDescription": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
-      "longDescription": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t1.png",
-      "content": {
-        "duration": 6420,
-        "videos": [
-          {
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503896.m3u8",
-            "videoType": "HLS",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Terminator 2: Judgment Day",
-      "releaseDate": "1991",
-      "shortDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
-      "longDescription": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t2.png",
-      "content": {
-        "duration": 8220,
-        "videos": [
-          {
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2504400.m3u8",
-            "videoType": "HLS",
-            "quality": "HD"
-          }
-        ]
-      }
-    },
-    {
-      "title": "Terminator 3: Rise of the Machines",
-      "releaseDate": "2003",
-      "shortDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
-      "longDescription": "A machine from a post-apocalyptic future travels back in time to protect a man and a woman from an advanced robotic assassin to ensure they both survive a nuclear attack.",
-      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/t3.png",
-      "content": {
-        "duration": 6540,
-        "videos": [
-          {
-            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2503829.m3u8",
-            "videoType": "HLS",
-            "quality": "HD"
-          }
-        ]
-      }
-    }
-  ],
-  "16: The Matrix": [
+  "15: The Matrix": [
     {
       "title": "The Matrix",
       "releaseDate": "1999",
@@ -3390,7 +3388,7 @@
       }
     }
   ],
-  "17: Spider-Man": [
+  "16: Spider-Man": [
     {
       "title": "Spider-Man",
       "releaseDate": "2002",
@@ -3443,7 +3441,7 @@
       }
     }
   ],
-  "18: Hatfields & McCoys (TV Mini Series)": [
+  "17: Hatfields & McCoys (TV Mini Series)": [
     {
       "longDescription": "Dramatization of the bitter blood feud between the two families on the West Virginia/Kentucky border in the years after the Civil War.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/h_m.png?raw=true",
@@ -3496,7 +3494,7 @@
       }
     }
   ],
-  "19: The Karate Kid": [
+  "18: The Karate Kid": [
     {
       "longDescription": "A martial arts master agrees to teach karate to a bullied teenager.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/karatekid1.png?raw=true",
@@ -3549,7 +3547,7 @@
       }
     }
   ],
-  "20: Look Who's Talking": [
+  "19: Look Who's Talking": [
     {
       "longDescription": "After a single, career-minded woman is left on her own to give birth to the child of a married man, she finds a new romantic chance in a cab driver. Meanwhile, the point-of-view of the newborn baby is narrated through voice-over.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/lwt.png?raw=true",
@@ -3602,7 +3600,7 @@
       }
     }
   ],
-  "21: The Lord of the Rings": [
+  "20: The Lord of the Rings": [
     {
       "title": "The Fellowship of the Ring",
       "releaseDate": "2001",
@@ -3655,7 +3653,7 @@
       }
     }
   ],
-  "22: Harry Potter": [
+  "21: Harry Potter": [
     {
       "title": "Harry Potter and the Sorcerer's Stone",
       "releaseDate": "2001",
