@@ -472,6 +472,40 @@
   ],
   "02: Comedy": [
     {
+      "longDescription": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/tremors.png?raw=true",
+      "releaseDate": "1990",
+      "shortDescription": "Natives of a small isolated town defend themselves against strange underground creatures which are killing them one by one.",
+      "title": "Tremors",
+      "content": {
+        "duration": 5760,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/t/um/fceyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Earl Bassett, now a washed-up ex-celebrity, is hired by a Mexican oil company to eradicate a Graboid epidemic that's killing more people each day. However, the humans aren't the only one with a new battle plan.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/tremors2.png?raw=true",
+      "releaseDate": "1996",
+      "shortDescription": "Earl Bassett, now a washed-up ex-celebrity, is hired by a Mexican oil company to eradicate a Graboid epidemic that's killing more people each day. However, the humans aren't the only one with a new battle plan.",
+      "title": "Tremors II: Aftershocks",
+      "content": {
+        "duration": 5760,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "http://media-us-am.crackle.com/1/r/um/7beyb_480p_1mbps.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "After their high school basketball coach passes away, five good friends and former teammates reunite for a Fourth of July holiday weekend.",
       "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/grown_ups.png?raw=true",
       "releaseDate": "2010",
@@ -1292,6 +1326,74 @@
   ],
   "04: Action": [
     {
+      "longDescription": "A volcanologist arrives at a countryside town recently named the second-most desirable place to live in America, and discovers that the long-dormant volcano, Dante's Peak, may wake up at any moment.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/dantes_peak.png?raw=true",
+      "releaseDate": "1997",
+      "shortDescription": "A volcanologist arrives at a countryside town recently named the second-most desirable place to live in America, and discovers that the long-dormant volcano, Dante's Peak, may wake up at any moment.",
+      "title": "Dante's Peak",
+      "content": {
+        "duration": 6508,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/2500000/2500000.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/twister.png?raw=true",
+      "releaseDate": "1996",
+      "shortDescription": "Bill and Jo Harding, advanced storm chasers on the brink of divorce, must join together to create an advanced weather alert system by putting themselves in the cross-hairs of extremely violent tornadoes.",
+      "title": "Twister",
+      "content": {
+        "duration": 6780,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/2500000/2500004.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ghost_rider.png?raw=true",
+      "releaseDate": "2007",
+      "shortDescription": "When motorcycle rider Johnny Blaze sells his soul to the Devil to save his father's life, he is transformed into the Ghost Rider, the Devil's own bounty hunter, and is sent to hunt down sinners.",
+      "title": "Ghost Rider",
+      "content": {
+        "duration": 6600,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2482802.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption through protecting the Devil's son, whose father is pursuing him.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/ghost_rider2.png?raw=true",
+      "releaseDate": "2011",
+      "shortDescription": "Johnny Blaze, tortured by the Ghost Rider's curse, gets a chance of redemption through protecting the Devil's son, whose father is pursuing him.",
+      "title": "Ghost Rider: Spirit of Vengeance",
+      "content": {
+        "duration": 5760,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2502194.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
       "longDescription": "Two hip detectives protect a witness to a murder while investigating a case of stolen heroin from the evidence storage room from their police precinct.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bad_boys.png?raw=true",
       "releaseDate": "1995",
@@ -1919,8 +2021,8 @@
         "duration": 6141,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/h/em/rgdyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2490652.m3u8",
             "quality": "HD"
           }
         ]
@@ -1936,8 +2038,8 @@
         "duration": 5925,
         "videos": [
           {
-            "videoType": "MP4",
-            "url": "http://media-us-am.crackle.com/1/j/om/ucfyb_480p_1mbps.mp4",
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2492965.m3u8",
             "quality": "HD"
           }
         ]
@@ -2134,6 +2236,23 @@
     }
   ],
   "09: Crime/Mystery": [
+    {
+      "longDescription": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/clue.png?raw=true",
+      "releaseDate": "1985",
+      "shortDescription": "Six guests are anonymously invited to a strange mansion for dinner, but after their host is killed, they must cooperate with the staff to identify the murderer as the bodies pile up.",
+      "title": "Clue",
+      "content": {
+        "duration": 5640,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2511100.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "A quadriplegic ex-homicide detective and his partner try to track down a serial killer who is terrorizing New York City.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/bone_collector.png?raw=true",
@@ -2478,6 +2597,40 @@
     }
   ],
   "11: Family": [
+    {
+      "longDescription": "Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother Toby when her wish for him to be taken away is granted by the Goblin King Jareth.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/labyrinth.png?raw=true",
+      "releaseDate": "1986",
+      "shortDescription": "Sixteen-year-old Sarah is given thirteen hours to solve a labyrinth and rescue her baby brother Toby when her wish for him to be taken away is granted by the Goblin King Jareth.",
+      "title": "Labyrinth",
+      "content": {
+        "duration": 6060,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/2500000/2500001.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/the_goonies.png?raw=true",
+      "releaseDate": "1985",
+      "shortDescription": "A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.",
+      "title": "The Goonies",
+      "content": {
+        "duration": 6840,
+        "videos": [
+          {
+            "videoType": "MP4",
+            "url": "https://archive.org/download/2500000/2500003.mp4",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
     {
       "longDescription": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit in order to challenge his old enemy.",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/movie_posters/hook.png?raw=true",
@@ -3091,6 +3244,40 @@
           {
             "videoType": "HLS",
             "url": "https://player.zype.com/manifest/61fae95a13da040001b9d523.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Bill Engvall, Ron \"Tater Salad\" White, Jeff Foxworthy, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/blue_collar_rides_again.png",
+      "releaseDate": "2004",
+      "shortDescription": "Bill Engvall, Ron \"Tater Salad\" White, Jeff Foxworthy, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
+      "title": "Blue Collar Comedy Tour Rides Again",
+      "content": {
+        "duration": 6391,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.zype.com/manifest/626c3555043cb40001de3811.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "Bill Engvall, Ron \"Tater Salad\" White, Jeff Foxworthy, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
+      "thumbnail": "https://raw.githubusercontent.com/bkc302/playlist/master/movie_posters/one_for_the_road.png",
+      "releaseDate": "2006",
+      "shortDescription": "Bill Engvall, Ron \"Tater Salad\" White, Jeff Foxworthy, and Larry the Cable Guy return on-stage to give some funny redneck laughs and humorous spins on everyday affairs.",
+      "title": "Blue Collar Comedy Tour: One for the Road",
+      "content": {
+        "duration": 6461,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.zype.com/manifest/626c351f043cb40001de37d4.m3u8?api_key=3PASB80DgKOdJoEdFmyaWw",
             "quality": "HD"
           }
         ]
