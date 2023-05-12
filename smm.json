@@ -8,6 +8,23 @@
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/amc.png?raw=true",
       "releaseDate": "",
       "shortDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
+      "title": "Hallmark",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "http://crownmediaingest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/amc.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
       "title": "AMC",
       "content": {
         "duration": 0,
