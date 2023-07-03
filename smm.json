@@ -4,10 +4,10 @@
   "lastUpdated": "2023-02-03",
   "01: Live TV": [
     {
-      "longDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/amc.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "AMC is an American multinational basic cable television channel that is the flagship property of AMC Networks. The channel's programming primarily consists of theatrically released films, along with a limited amount of original programming.",
+      "shortDescription": "",
       "title": "AMC",
       "content": {
         "duration": 0,
@@ -21,10 +21,27 @@
       }
     },
     {
-      "longDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/animal_planet.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Animal Planet",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p8.teleuptv.net/a94b4d29-551e-4f08-867d-c0ab6e2610cc/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/bbc_america.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "BBC America is an American basic cable network that is jointly owned by BBC Studios and AMC Networks. The channel primarily airs sci-fi and action series and films, as well as selected programs from the BBC.",
+      "shortDescription": "",
       "title": "BBC America",
       "content": {
         "duration": 0,
@@ -38,10 +55,61 @@
       }
     },
     {
-      "longDescription": "IFC is an American basic cable channel owned by AMC Networks. Launched in 1994 as the Independent Film Channel, IFC originally operated as a commercial-free service, devoted to showing independent films without interruption.",
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hallmark.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Hallmark",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hallmark_drama.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Hallmark Drama",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl//playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hallmark_movies.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Hallmark Movies & Mysteries",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ifc.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "IFC is an American basic cable channel owned by AMC Networks. Launched in 1994 as the Independent Film Channel, IFC originally operated as a commercial-free service, devoted to showing independent films without interruption.",
+      "shortDescription": "",
       "title": "IFC",
       "content": {
         "duration": 0,
@@ -55,10 +123,10 @@
       }
     },
     {
-      "longDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/reelz.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "Reelz is an American digital cable and satellite television network owned by Hubbard Broadcasting. The network's programming was formerly devoted to entertainment-oriented programming focusing on the Hollywood film and entertainment industry, with programs featuring information on theatrical film releases as well as information on movies released on DVD and airing on cable television.",
+      "shortDescription": "",
       "title": "Reelz",
       "content": {
         "duration": 0,
@@ -72,10 +140,10 @@
       }
     },
     {
-      "longDescription": "TBS is an American television network owned by Warner Bros. It carries a variety of programming, with a focus on comedy, along with some sports events, including Major League Baseball, Stanley Cup playoffs, NCAA men's basketball tournament and professional wrestling show AEW Dynamite.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbs.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "TBS is an American television network owned by Warner Bros. It carries a variety of programming, with a focus on comedy, along with some sports events, including Major League Baseball, Stanley Cup playoffs, NCAA men's basketball tournament and professional wrestling show AEW Dynamite.",
+      "shortDescription": "",
       "title": "TBS",
       "content": {
         "duration": 0,
@@ -89,10 +157,10 @@
       }
     },
     {
-      "longDescription": "TNT is an American basic cable television channel owned by Warner Bros. that launched on October 3, 1988. TNT's original purpose was to air classic films and television series to which Turner Broadcasting maintained spillover rights through its sister station TBS. Since June 2001, the network has shifted its focus to dramatic television series and feature films, along with some sporting events (including NBA, NHL, the NCAA Division I men's basketball tournament and professional wrestling show AEW Rampage), as TBS shifted its focus to comedic programming.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tnt.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "TNT is an American basic cable television channel owned by Warner Bros. that launched on October 3, 1988. TNT's original purpose was to air classic films and television series to which Turner Broadcasting maintained spillover rights through its sister station TBS. Since June 2001, the network has shifted its focus to dramatic television series and feature films, along with some sporting events (including NBA, NHL, the NCAA Division I men's basketball tournament and professional wrestling show AEW Rampage), as TBS shifted its focus to comedic programming.",
+      "shortDescription": "",
       "title": "TNT",
       "content": {
         "duration": 0,
@@ -106,7 +174,7 @@
       }
     },
     {
-      "longDescription": "TruTV is an American basic cable channel owned by Warner Bros. Discovery. The channel primarily broadcasts comedy, docusoaps and reality shows.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/trutv.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -116,7 +184,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "TruTV is an American basic cable channel owned by Warner Bros. Discovery. The channel primarily broadcasts comedy, docusoaps and reality shows.",
+      "shortDescription": "",
       "title": "TruTV",
       "content": {
         "duration": 0,
@@ -132,7 +200,7 @@
       }
     },
     {
-      "longDescription": "HLN is an American basic cable network. Owned by Warner Bros. Discovery U.S. Networks, the network primarily carries true-crime programming, as well as limited live news programming.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hln.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -142,7 +210,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "HLN is an American basic cable network. Owned by Warner Bros. Discovery U.S. Networks, the network primarily carries true-crime programming, as well as limited live news programming.",
+      "shortDescription": "",
       "title": "HLN",
       "content": {
         "duration": 0,
@@ -158,7 +226,7 @@
       }
     },
     {
-      "longDescription": "Sundance TV is an American pay television channel owned by AMC Networks that launched on February 1, 1996.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sundance.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -168,7 +236,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "Sundance TV is an American pay television channel owned by AMC Networks that launched on February 1, 1996.",
+      "shortDescription": "",
       "title": "Sundance TV",
       "content": {
         "duration": 0,
@@ -184,7 +252,7 @@
       }
     },
     {
-      "longDescription": "Turner Classic Movies presents the greatest classic films of all time from one of the largest film libraries in the world.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tcm.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -194,7 +262,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "Turner Classic Movies presents the greatest classic films of all time from one of the largest film libraries in the world.",
+      "shortDescription": "",
       "title": "TCM",
       "content": {
         "duration": 0,
@@ -210,7 +278,7 @@
       }
     },
     {
-      "longDescription": "The TV channel from VICE. Transparent, visceral and unfiltered, VICE’s original, immersive docu-style content is the definitive guide to an uncertain world.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/vice.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -220,7 +288,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "The TV channel from VICE. Transparent, visceral and unfiltered, VICE’s original, immersive docu-style content is the definitive guide to an uncertain world.",
+      "shortDescription": "",
       "title": "Vice TV",
       "content": {
         "duration": 0,
@@ -236,7 +304,7 @@
       }
     },
     {
-      "longDescription": "TBD is an American digital multicast television network owned by the Sinclair Television Group subsidiary of the Sinclair Broadcast Group and operated by Jukin Media. Targeting millennial audiences, the network focuses on viral video and reality shows.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbd.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -246,7 +314,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "TBD is an American digital multicast television network owned by the Sinclair Television Group subsidiary of the Sinclair Broadcast Group and operated by Jukin Media. Targeting millennial audiences, the network focuses on viral video and reality shows.",
+      "shortDescription": "",
       "title": "TBD",
       "content": {
         "duration": 0,
@@ -262,7 +330,7 @@
       }
     },
     {
-      "longDescription": "Broadcasts animated television series, mostly children's programming, ranging from action to animated comedy. It currently runs from 6 a.m. - 8 p.m. ET/PT Mondays - Saturdays and 6 a.m. - 9 p.m. ET/PT on Sundays.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/cn.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -272,7 +340,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "Broadcasts animated television series, mostly children's programming, ranging from action to animated comedy. It currently runs from 6 a.m. - 8 p.m. ET/PT Mondays - Saturdays and 6 a.m. - 9 p.m. ET/PT on Sundays.",
+      "shortDescription": "",
       "title": "Cartoon Network",
       "content": {
         "duration": 0,
@@ -288,7 +356,7 @@
       }
     },
     {
-      "longDescription": "Adult Swim runs Monday - Saturday nights from 8 p.m. - 6 a.m. ET/PT and Sunday nights from 9 p.m. - 6 a.m. ET/PT.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/as.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -298,7 +366,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "Adult Swim runs Monday - Saturday nights from 8 p.m. - 6 a.m. ET/PT and Sunday nights from 9 p.m. - 6 a.m. ET/PT.",
+      "shortDescription": "",
       "title": "Adult Swim",
       "content": {
         "duration": 0,
@@ -314,7 +382,7 @@
       }
     },
     {
-      "longDescription": "Anchored by a collection of television’s most-watched dramas, ION caters to its loyal binge-watching audience nationwide.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ion.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -324,7 +392,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "Anchored by a collection of television’s most-watched dramas, ION caters to its loyal binge-watching audience nationwide.",
+      "shortDescription": "",
       "title": "ION",
       "content": {
         "duration": 0,
@@ -334,13 +402,11 @@
             "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
-      "longDescription": "ION Mystery is home to television's most binge-worthy, edge-of-your-seat thrillers, docuseries and originals. With top-rated shows including \"NCIS: New Orleans\" and the \"CSI\" franchise, plus real-life investigative series, ION Mystery invites viewers to put on their detectives hat and join the investigation.",
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionmystery.png?raw=true",
       "releaseDate": "",
       "genres": [
@@ -350,7 +416,7 @@
         ""
       ],
       "id": "",
-      "shortDescription": "ION Mystery is home to television's most binge-worthy, edge-of-your-seat thrillers, docuseries and originals. With top-rated shows including \"NCIS: New Orleans\" and the \"CSI\" franchise, plus real-life investigative series, ION Mystery invites viewers to put on their detectives hat and join the investigation.",
+      "shortDescription": "",
       "title": "ION Mystery",
       "content": {
         "duration": 0,
@@ -384,32 +450,6 @@
           {
             "videoType": "HLS",
             "url": "https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
-      "longDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/skills.png?raw=true",
-      "releaseDate": "",
-      "genres": [
-        ""
-      ],
-      "tags": [
-        ""
-      ],
-      "id": "",
-      "shortDescription": "Skills + Thrills celebrates the American spirit of grit and adventure.",
-      "title": "Skills + Thrills",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6000a6f4c3f8550008fc9b91/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
             "quality": "HD"
           }
         ],
