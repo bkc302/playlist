@@ -14,7 +14,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8",
+            "url": "https://cdn1-9p.teleuptv.net/a5810620-6915-406c-8be1-bba2b5845ae3/index.m3u8",
             "quality": "HD"
           }
         ]
@@ -82,7 +82,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
         ]
@@ -99,7 +99,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
         ]
@@ -123,7 +123,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
         ],
@@ -149,7 +149,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
         ],
@@ -201,7 +201,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8",
             "quality": "HD"
           }
         ],
@@ -279,7 +279,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
         ],
@@ -305,7 +305,7 @@
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://tve-live-lln.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
             "quality": "HD"
           }
         ],
