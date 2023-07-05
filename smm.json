@@ -230,6 +230,159 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/espn.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "ESPN",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/51845f95-aa92-4dbc-9357-d9efd5243396/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/espn2.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "ESPN2",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/91c031e0-ac52-40d0-b305-b3398ef4c338/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fetv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "FETV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p6.teleuptv.net/806c57bb-85bc-4773-becc-e24433711d14/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fox.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "FOX",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/2d2444c3-eb31-4168-8670-d590d860b0a6/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/freeform.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Freeform",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/03067123-de29-4f43-9d65-0a65a8aa43f4/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fx.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "FX",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/9358b6f4-3177-4fd5-8bd7-72d50025ad83/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gsn.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "GSN",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gettv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "getTV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p6.teleuptv.net/c8a3e6f2-9cef-4b4c-8d1b-9589ee064432/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/grit.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Grit",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/56702c71-6343-4474-b93e-02c2c50eeadc/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hallmark.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -281,6 +434,42 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hdnet.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "HDNet Movies",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p8.teleuptv.net/8bc81987-8a9b-41bc-ab8e-178c06fe5570/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hln.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "HLN",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ifc.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -291,6 +480,212 @@
           {
             "videoType": "HLS",
             "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ion.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "ION",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionmystery.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "ION Mystery",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/laff.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "LAFF",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p8.teleuptv.net/0b1c9b10-cd0f-49db-b062-71c498cee2fb/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/lex18.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "LEX18 (News Only)",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://content.uplynk.com/channel/94ab0fcd1b304176a28dbf64521aa6a4.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/mynettv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "MyNetworkTV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/b2d4e647-0a95-4f63-bb6c-e811bbf06dd1/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/natgeo.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "National Geographic",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://gcdn-p8.teleuptv.net/feba6738-a2a5-4819-8eb4-b32012b99539/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/nbc.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "NBC",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pbs_ketky.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PBS KET KY",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pbs_ket.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PBS KET",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pbs_ket_world.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PBS KET World",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pbs_ket2.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PBS KET2",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pbs_kids.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PBS Kids",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
             "quality": "HD"
           }
         ]
@@ -315,6 +710,110 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/revn.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Rev'n",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://hls-live-web-media.cdn01.net/default/stream_49983_1.m3u8?bz1dKRX5hPfl8tRZEVtibCEAOspEznlCx4hiqKOD3WdasUbepgjwppwiJVU3_Vk1FPQCQISdZVI5R0ptqUlovgF5IH95GRCL9K8ZqErvo8NiKoJ06CKmOv2tRcPYBjBQCsUImvPwff4wfC45SXI1D5AXyuQM-XLcGilWPBM7nLdKE6M_xYRsRlmUr_DtE_HQaR3c3fhdE3fB&channel_id=49983&source=othersites&device_id=6144477363-d3785f286434ffb3646f1c6d285b50ff&lcp=2&client_id=876040827121854566&play_id=1688567598705879",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/rfdtv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "RFD-TV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sony_movies.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Sony Movie Channel",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sundance.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Sundance TV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/syfy.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "SYFY",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbd.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "TBD",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbs.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -325,6 +824,40 @@
           {
             "videoType": "HLS",
             "url": "https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/the_cw.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "The CW Network",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/26b133af-4436-48b3-802a-aff73cefc41e/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tlc.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "TLC",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/5dbf1663-f431-461c-a93c-8db85e0ca55f/index.m3u8",
             "quality": "HD"
           }
         ]
@@ -368,44 +901,6 @@
     },
     {
       "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hln.png?raw=true",
-      "releaseDate": "",
-      "shortDescription": "",
-      "title": "HLN",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
-      "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sundance.png?raw=true",
-      "releaseDate": "",
-      "shortDescription": "",
-      "title": "Sundance TV",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://bcovlive-a.akamaihd.net/4d972ec6f41241f2b4286f8bdcc8dae9/us-east-1/6240731308001/playlist.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
-      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tcm.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -421,6 +916,23 @@
         ],
         "language": "en-us",
         "dateAdded": ""
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/usa.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "USA Network",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://cdn1-9p.teleuptv.net/c5c246cd-2ae5-4916-9b3c-1440bd79a8df/index.m3u8",
+            "quality": "HD"
+          }
+        ]
       }
     },
     {
@@ -444,35 +956,16 @@
     },
     {
       "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbd.png?raw=true",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/weathernation.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
-      "title": "TBD",
+      "title": "WeatherNation",
       "content": {
         "duration": 0,
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8",
-            "quality": "HD"
-          }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
-      }
-    },
-    {
-      "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ion.png?raw=true",
-      "releaseDate": "",
-      "shortDescription": "",
-      "title": "ION",
-      "content": {
-        "duration": 0,
-        "videos": [
-          {
-            "videoType": "HLS",
-            "url": "https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8",
+            "url": "https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8",
             "quality": "HD"
           }
         ]
@@ -480,40 +973,53 @@
     },
     {
       "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionmystery.png?raw=true",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/wgn.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
-      "title": "ION Mystery",
+      "title": "WGN",
       "content": {
         "duration": 0,
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8",
+            "url": "https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
       }
     },
     {
       "longDescription": "",
-      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ionmystery.png?raw=true",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/wkyt.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
-      "title": "MeTV",
+      "title": "WKYT",
       "content": {
         "duration": 0,
         "videos": [
           {
             "videoType": "HLS",
-            "url": "https://i.mjh.nz/metv",
+            "url": "https://ad-playlistserver.aws.syncbak.com/playlist/893556/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkwNjQsImlzcyI6IldMUyIsIm1kNSI6ImMyOTVlNDZkNGUyYWU4NDNhMTg0ODMwYzBlYTFiYWY3IiwibWlkIjoiODkzNTU2In0.mrkzqb4TAU7_6cjDy4ZPmsdg6597feRb-rAPUxgS4U0",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/wymt.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "WYMT",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://ad-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ",
+            "quality": "HD"
+          }
+        ]
       }
     }
   ],
