@@ -5,6 +5,23 @@
   "01: Live TV": [
     {
       "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/ae.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "A&E",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/99e11b3751a14cbbabd49f941ddfb375/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/abc.png?raw=true",
       "releaseDate": "",
       "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
@@ -143,6 +160,23 @@
     },
     {
       "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/byutv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "BYUtv",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live4-frndly.akamaized.net/out/v1/b6eb0f3931044d808b8f1b9095d4f130/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/cartoon_network.png?raw=true",
       "releaseDate": "",
       "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
@@ -155,9 +189,24 @@
             "url": "https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8",
             "quality": "HD"
           }
-        ],
-        "language": "en-us",
-        "dateAdded": ""
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/catchy.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "Catchy Comedy",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_movies_nr_rt/6809b2d7c3794ca49f4e4075caec8a41/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
       }
     },
     {
@@ -189,6 +238,23 @@
           {
             "videoType": "HLS",
             "url": "http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/circle.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "Circle",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/f9896103cd9c41a1a2c62da272779dd2/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
             "quality": "HD"
           }
         ]
@@ -263,10 +329,27 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fmc.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "Family Movie Classics",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/51c69251bfcc4fcc93cd67e87f0bc7ec/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fetv.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "FETV",
       "content": {
         "duration": 0,
@@ -280,10 +363,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fox.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "FOX",
       "content": {
         "duration": 0,
@@ -297,10 +380,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/freeform.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "Freeform",
       "content": {
         "duration": 0,
@@ -314,10 +397,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fx.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "FX",
       "content": {
         "duration": 0,
@@ -331,10 +414,27 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/fyi.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "FYI",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/8b37fb68894a497d96eea591eecea052/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gsn.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "GSN",
       "content": {
         "duration": 0,
@@ -348,10 +448,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gettv.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "getTV",
       "content": {
         "duration": 0,
@@ -365,10 +465,44 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gaf.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "Great American Family",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_nr_gac_rt/477953897c9f46d3a3008693a8e2e964/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/gal.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "Great American Living",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_nr_gac_rt/f35dd556f06a4bc387e94a95d3aee209/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/grit.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "Grit",
       "content": {
         "duration": 0,
@@ -382,10 +516,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hallmark.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "Hallmark",
       "content": {
         "duration": 0,
@@ -451,6 +585,40 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hi.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Heroes & Icons",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/hero_live_nr_rt/84dff9180aa44bc697e7da10abd4fe6e/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/history.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "History",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/0969bf2f1cde48f484f15c42e0f8a975/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/hln.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -480,6 +648,23 @@
           {
             "videoType": "HLS",
             "url": "https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/insp.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "INSP",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/19fe6b3f39b54f4a921b697319ad2b2b/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
             "quality": "HD"
           }
         ]
@@ -557,6 +742,91 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/lifetime.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Lifetime",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/e5211599d8104870b4d6a6cbf3bd95a0/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/lmn.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Lifetime Movie Network",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/d854267c35a24cf29b3ea01f651b5448/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/metv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "MeTV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_nr_metv_rt/23685237ffbb4047a8143ac2166ead44/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/mh.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Military History",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/d811e51304bc4240b6e06f00dadb0238/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/movies.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "MOVIES!",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_movies_nr_rt/d4f423f95255498aa79228e1799f313a/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/mynettv.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -601,6 +871,23 @@
           {
             "videoType": "HLS",
             "url": "https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/index.m3u8",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/outdoor.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Outdoor Channel",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/8d58b5f849374df681874567068e739c/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
             "quality": "HD"
           }
         ]
@@ -693,6 +980,23 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/pixl.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "PixL",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live4-frndly.akamaized.net/out/v1/667027ada66f48aebde9f2ec1565150e/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/reelz.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -744,6 +1048,57 @@
     },
     {
       "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sportsman.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Sportsman Channel",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/eca47df65ebb45c7bf2cdfa0b4268d46/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/starttv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Start TV",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_movies_nr_rt/f02516f8c79c4769aca739bb938898ca/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/storytv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "",
+      "title": "Story Television",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_movies_nr_rt/c476b62ed5d048dc8e37e9dc3ac3398d/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/sundance.png?raw=true",
       "releaseDate": "",
       "shortDescription": "",
@@ -777,10 +1132,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbd.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TBD",
       "content": {
         "duration": 0,
@@ -796,10 +1151,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tbs.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TBS",
       "content": {
         "duration": 0,
@@ -813,10 +1168,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/the_cw.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "The CW Network",
       "content": {
         "duration": 0,
@@ -830,10 +1185,27 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/twc.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "The Weather Channel",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/0d7c6ad0208f44c0b687057feceeaeb4/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tlc.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TLC",
       "content": {
         "duration": 0,
@@ -847,10 +1219,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tnt.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TNT",
       "content": {
         "duration": 0,
@@ -864,10 +1236,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/trutv.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TruTV",
       "content": {
         "duration": 0,
@@ -883,10 +1255,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/tcm.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "TCM",
       "content": {
         "duration": 0,
@@ -902,10 +1274,27 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/uptv.png?raw=true",
+      "releaseDate": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
+      "title": "UPtv",
+      "content": {
+        "duration": 0,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/af5c489b4976462b909c79c42c9614d1/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07",
+            "quality": "HD"
+          }
+        ]
+      }
+    },
+    {
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/usa.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "USA Network",
       "content": {
         "duration": 0,
@@ -919,10 +1308,10 @@
       }
     },
     {
-      "longDescription": "",
+      "longDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "thumbnail": "https://github.com/bkc302/playlist/blob/master/channel_posters/vice.png?raw=true",
       "releaseDate": "",
-      "shortDescription": "",
+      "shortDescription": "For a TV listings guide visit https://tinyurl.com/xtvguide",
       "title": "Vice TV",
       "content": {
         "duration": 0,
