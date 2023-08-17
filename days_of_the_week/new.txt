@@ -120,7 +120,7 @@ https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/52453
 #EXTINF:-1 group-title="Live",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 group-title="Live",Sony Movie Channel
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+https://gcdn-p6.teleuptv.net/ec28b745-2e9b-473b-8655-470affb35e4d/index.m3u8
 #EXTINF:-1 group-title="Live",Sportsman Channel
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/eca47df65ebb45c7bf2cdfa0b4268d46/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",Start TV
