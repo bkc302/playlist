@@ -111,8 +111,6 @@ https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/weigel_movies_nr_rt/d4f423f95255498aa79228e1799f313a/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",MSNBC
 https://cdn1-9p.teleuptv.net/695d95d1-7118-4488-98d5-f95f048fc4f1/index.m3u8
-#EXTINF:-1 group-title="Live",MTV 97
-http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8
 #EXTINF:-1 group-title="Live",MyNetworkTV
 https://cdn1-9p.teleuptv.net/b2d4e647-0a95-4f63-bb6c-e811bbf06dd1/index.m3u8
 #EXTINF:-1 group-title="Live",National Geographic
@@ -137,8 +135,6 @@ https://sr-live4-frndly.akamaized.net/out/v1/667027ada66f48aebde9f2ec1565150e/in
 https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
 #EXTINF:-1 group-title="Live",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
-#EXTINF:-1 group-title="Live",Snickelodeon
-http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8
 #EXTINF:-1 group-title="Live",Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live",Sportsman Channel
