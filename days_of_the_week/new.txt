@@ -36,7 +36,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="Live",Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 group-title="Live",Crime + Investigation
-https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/ea87350fc99443efa4ced54685a77730/index.m3u8
+https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_ae/ea87350fc99443efa4ced54685a77730/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",Curiosity Channel
 https://sr-live4-frndly.akamaized.net/out/v1/31a8f6cb5d9e45ad855483bde45f4370/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",Discovery Channel
@@ -112,7 +112,7 @@ https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 #EXTINF:-1 group-title="Live",MSNBC
 https://cdn1-9p.teleuptv.net/695d95d1-7118-4488-98d5-f95f048fc4f1/index.m3u8
 #EXTINF:-1 group-title="Live",MTV 97
-https://asp6.toonamiaftermath.com/livehttporigin/mtv97/HZbjix-qsHpos-playlist.m3u8
+http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8
 #EXTINF:-1 group-title="Live",MyNetworkTV
 https://cdn1-9p.teleuptv.net/b2d4e647-0a95-4f63-bb6c-e811bbf06dd1/index.m3u8
 #EXTINF:-1 group-title="Live",National Geographic
@@ -138,7 +138,7 @@ https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/52453
 #EXTINF:-1 group-title="Live",RFD-TV
 https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8
 #EXTINF:-1 group-title="Live",Snickelodeon
-https://asp6.toonamiaftermath.com/livehttporigin/snick-est/HZbjix-qsHpos-playlist.m3u8
+http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8
 #EXTINF:-1 group-title="Live",Sony Movie Channel
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 group-title="Live",Sportsman Channel
@@ -166,9 +166,9 @@ https://cdn1-9p.teleuptv.net/5dbf1663-f431-461c-a93c-8db85e0ca55f/index.m3u8
 #EXTINF:-1 group-title="Live",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live",Toonami Aftermath
-https://asp6.toonamiaftermath.com/livehttporigin/est/HZbjix-qsHpos-playlist.m3u8
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Live",Toonami Aftermath Movies
-https://asp6.toonamiaftermath.com/livehttporigin/movies/HZbjix-qsHpos-playlist.m3u8
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="Live",truTV
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live",Turner Classic Movies
