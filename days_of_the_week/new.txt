@@ -92,7 +92,7 @@ https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/62407
 #EXTINF:-1 group-title="Live",INSP
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/19fe6b3f39b54f4a921b697319ad2b2b/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=YhzbbgUxWjTPRYVzzmXA
 #EXTINF:-1 group-title="Live",ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Live",LAFF
@@ -183,6 +183,48 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 https://ad-playlistserver.aws.syncbak.com/playlist/893556/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkwNjQsImlzcyI6IldMUyIsIm1kNSI6ImMyOTVlNDZkNGUyYWU4NDNhMTg0ODMwYzBlYTFiYWY3IiwibWlkIjoiODkzNTU2In0.mrkzqb4TAU7_6cjDy4ZPmsdg6597feRb-rAPUxgS4U0
 #EXTINF:-1 group-title="Live",WYMT (News Only)
 https://ad-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ
+#EXTINF:-1 group-title="24/7 Channels",CSI
+https://i.mjh.nz/PlutoTV/5efbd29e4aa26700076c0d06-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",CSI: Miami
+https://i.mjh.nz/PlutoTV/62f54c11b3af68000702c304-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",CSI: NY
+https://i.mjh.nz/PlutoTV/62f54c6439183b000769fb8f-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",48 Hours
+https://i.mjh.nz/PlutoTV/6176f39e709f160007ec61c3-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",COPS
+https://i.mjh.nz/PlutoTV/5e1f7e089f23700009d66303-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Forensic Files
+https://i.mjh.nz/PlutoTV/5bb1af6a268cae539bcedb0a-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Cold Case Files
+https://i.mjh.nz/PlutoTV/5c37d6712de254456f7ec340-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Unsolved Mysteries
+https://i.mjh.nz/PlutoTV/5b4e96a0423e067bd6df6901-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",TV Land Sitcoms
+https://i.mjh.nz/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Dog the Bounty Hunter
+https://i.mjh.nz/PlutoTV/5bee1a7359ee03633e780238-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Blue Bloods
+https://i.mjh.nz/PlutoTV/61b3b8c645b45d0007a9bb8d-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",I Love Lucy
+https://i.mjh.nz/PlutoTV/634f3011f4fff20007431641-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Andy Griffith Show
+https://i.mjh.nz/PlutoTV/60f75178e7f8aa0007e9c259-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Beverly Hillbillies
+https://i.mjh.nz/PlutoTV/5f7796e470510900070d4e3d-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Matlock
+https://i.mjh.nz/PlutoTV/60f754f98185580007eb0754-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Gunsmoke
+https://i.mjh.nz/PlutoTV/60f75771dfc72a00071fd0e0-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Rifleman
+https://i.mjh.nz/PlutoTV/5e825550e758c700077b0aef-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Addams Family
+https://i.mjh.nz/PlutoTV/5d81607ab737153ea3c1c80e-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Nick Pluto TV
+https://i.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Garfield and Friends
+https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",TOTALLY TURTLES
+https://i.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
 #EXTINF:-1 group-title="Movies",10 Cloverfield Lane (2016)
 https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2512505.m3u8
 #EXTINF:-1 group-title="Movies",12 Monkeys (1995)
@@ -491,8 +533,6 @@ https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2510723.m3u8
 https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2510722.m3u8
 #EXTINF:-1 group-title="Movies",Friday the 13th Part VIII: Jason Takes Manhattan (1989)
 https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2510724.m3u8
-#EXTINF:-1 group-title="Movies",Friends with Benefits (2011)
-https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2501685.m3u8
 #EXTINF:-1 group-title="Movies",Friends with Benefits (2011)
 https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2507590.m3u8
 #EXTINF:-1 group-title="Movies",From Dusk Till Dawn (1996)
