@@ -183,6 +183,56 @@ https://cdn1-8p.teleuptv.net/3773db6d-881b-4096-b9cc-b4fe99ab68ac/index.m3u8
 https://ad-playlistserver.aws.syncbak.com/playlist/893556/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkwNjQsImlzcyI6IldMUyIsIm1kNSI6ImMyOTVlNDZkNGUyYWU4NDNhMTg0ODMwYzBlYTFiYWY3IiwibWlkIjoiODkzNTU2In0.mrkzqb4TAU7_6cjDy4ZPmsdg6597feRb-rAPUxgS4U0
 #EXTINF:-1 group-title="Live",WYMT (News Only)
 https://ad-playlistserver.aws.syncbak.com/playlist/893557/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAwMDc1MDQsImlzcyI6IldMUyIsIm1kNSI6IjMyMjE4MzNhYzRiOTJkOTRiMDBjMDFjZjY5MDM2NmY1IiwibWlkIjoiODkzNTU3In0.arYOsp9fiM8UzYcTRIxI7GlDdA3RAgQUCX6JRb88wxQ
+#EXTINF:-1 group-title="24/7 Channels",Romance Movies
+https://f5804858608b4fb7a9a831a7b2572a79.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3288&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=bf4381ff-c19c-4a29-9851-b2295596ed0c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=888
+#EXTINF:-1 group-title="24/7 Channels",Thrillers
+https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=3329&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=4987ffd4-0b5b-4af1-8123-fedf09182f9f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=883
+#EXTINF:-1 group-title="24/7 Channels",British Films
+https://e1c61ff393ae4a4d93f1f12e3fdae43d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=2931&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=a4def5bf-9767-4029-8099-b8d07987bf52&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=793
+#EXTINF:-1 group-title="24/7 Channels",Drama Movies
+https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=2514&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=4237641c-a817-4380-a7a7-69ad34117752&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=425
+#EXTINF:-1 group-title="24/7 Channels",Comedy Movies
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=2511&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=d5f36bbd-ace7-447f-ab49-1a047849371a&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=424
+#EXTINF:-1 group-title="24/7 Channels",Action Movies
+https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=15&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.gdpr_consent=&ads.market=uk&ads.os_language=&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.rtv_content_id=2512&ads.rtv_content_language=eng&ads.rtvid=271858&ads.streaming_id=a2682936-681a-4a84-8d91-385f50e42ffe&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=423
+#EXTINF:-1 group-title="24/7 Channels",Paramount Movie Channel
+https://i.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Paramount+ Picks
+https://i.mjh.nz/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Showtime Selects
+https://i.mjh.nz/PlutoTV/5f988934a507de00075d9ae7-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Stories by AMC
+https://i.mjh.nz/PlutoTV/62f2ce24f328e00007e7f55a-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Nick Pluto TV
+https://i.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Nick Jr. Pluto TV
+https://i.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Pop Kids
+https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8?ads_amagi_channel=850&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4880&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=6134a39f-b713-4d7f-b5be-4c49f0de5f63&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 group-title="24/7 Channels",Garfield and Friends
+https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Totally Turtles
+https://i.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Star Trek
+https://i.mjh.nz/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",More Star Trek
+https://i.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Stargate
+https://i.mjh.nz/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Xtreme Outdoor
+https://i.mjh.nz/PlutoTV/6000a6f4c3f8550008fc9b91-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Spike Outdoors
+https://i.mjh.nz/PlutoTV/5c393cad2de254456f7ef8c2-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Jersey Shore
+https://i.mjh.nz/PlutoTV/609bfa51fbecc1000733152e-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Teen Mom
+https://i.mjh.nz/PlutoTV/6127e12ed140e900077e7b6f-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Survivor
+https://i.mjh.nz/PlutoTV/5f21e7b24744c60007c1f6fc-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Fear Factor
+https://i.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Stand-Up TV
+https://i.mjh.nz/PlutoTV/5637d31f319573e26b64040b-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",CSI
 https://i.mjh.nz/PlutoTV/5efbd29e4aa26700076c0d06-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",CSI: Miami
@@ -201,6 +251,8 @@ https://i.mjh.nz/PlutoTV/5c37d6712de254456f7ec340-alt.m3u8
 https://i.mjh.nz/PlutoTV/5b4e96a0423e067bd6df6901-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",TV Land Sitcoms
 https://i.mjh.nz/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",TV Land Drama
+https://i.mjh.nz/PlutoTV/5d40bebc5e3d2750a2239d7e-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",Dog the Bounty Hunter
 https://i.mjh.nz/PlutoTV/5bee1a7359ee03633e780238-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",Blue Bloods
@@ -219,12 +271,50 @@ https://i.mjh.nz/PlutoTV/60f75771dfc72a00071fd0e0-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e825550e758c700077b0aef-alt.m3u8
 #EXTINF:-1 group-title="24/7 Channels",The Addams Family
 https://i.mjh.nz/PlutoTV/5d81607ab737153ea3c1c80e-alt.m3u8
-#EXTINF:-1 group-title="24/7 Channels",Nick Pluto TV
-https://i.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
-#EXTINF:-1 group-title="24/7 Channels",Garfield and Friends
-https://i.mjh.nz/PlutoTV/60faf9ddfcc1f200070a5932-alt.m3u8
-#EXTINF:-1 group-title="24/7 Channels",TOTALLY TURTLES
-https://i.mjh.nz/PlutoTV/5d0c16d686454ead733d08f8-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Rawhide
+https://i.mjh.nz/PlutoTV/634f307c7a068e00072c9982-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Dick Van Dyke Show
+https://i.mjh.nz/PlutoTV/63d9674b2e477400081b9858-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Happy Days
+https://i.mjh.nz/PlutoTV/5f7794162a4559000781fc12-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Three's Company
+https://i.mjh.nz/PlutoTV/5ef3977e5d773400077de284-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Classic TV Comedy
+https://i.mjh.nz/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Classic TV Drama
+https://i.mjh.nz/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Classic TV Crime Drama
+https://i.mjh.nz/PlutoTV/61325c4f982acd000723287e-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Johnny Carson TV
+https://i.mjh.nz/PlutoTV/5e66928133461100077dfd73-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Carol Burnett Show
+https://i.mjh.nz/PlutoTV/5ef396d1be50a3000722808b-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",The Ed Sullivan Show
+https://i.mjh.nz/PlutoTV/62a8e433fbf5460007698214-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Mission Impossible
+https://i.mjh.nz/PlutoTV/5f77977bd924d80007eee60c-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Perry Mason
+https://i.mjh.nz/PlutoTV/6197086891ddd4000739941a-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Western TV
+https://i.mjh.nz/PlutoTV/5e8df4bc16e34700077e77d3-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",This Old House
+https://i.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Tiny House Nation
+https://i.mjh.nz/PlutoTV/601a0342dcf4370007566891-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",PBS Antiques Roadshow
+https://i.mjh.nz/PlutoTV/636c2b3c55d2e700074105c4-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",America's Test Kitchen
+https://i.mjh.nz/PlutoTV/5e84f54a82f05300080e6746-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Food TV
+https://i.mjh.nz/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Gordon Ramsay's Hell's Kitchen
+https://i.mjh.nz/PlutoTV/5b4e99f4423e067bd6df6903-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Iron Chef
+https://i.mjh.nz/PlutoTV/6148c756ce8091000748d113-alt.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Screambox TV
+https://live759.delivery.roku.com/t2-origin/out/v1/25d83fb3-d088-460d-9ad2-8491516b5e5b/live.m3u8
+#EXTINF:-1 group-title="24/7 Channels",Haunt TV
+https://bamcahaunttvrakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamcahaunttvrakuten/CDN/playlist.m3u8?ads_amagi_channel=814&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4367&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=e26033d8-8631-4205-8e85-2a90a801da59&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 group-title="Movies",10 Cloverfield Lane (2016)
 https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2512505.m3u8
 #EXTINF:-1 group-title="Movies",12 Monkeys (1995)
