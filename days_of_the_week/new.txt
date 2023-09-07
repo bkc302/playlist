@@ -13,8 +13,6 @@ https://gcdn-p8.teleuptv.net/a94b4d29-551e-4f08-867d-c0ab6e2610cc/index.m3u8
 https://gcdn-p8.teleuptv.net/81243d99-9271-4d97-9304-54544da63f98/index.m3u8
 #EXTINF:-1 group-title="Live",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 group-title="Live",Boomerang
-https://livecdn-iptv001.rumsport.com/stream/2281/index.m3u8
 #EXTINF:-1 group-title="Live",Bounce TV
 https://gcdn-p8.teleuptv.net/3e392f52-86ee-4c31-a5ab-fb1782943928/index.m3u8
 #EXTINF:-1 group-title="Live",Bravo
@@ -43,6 +41,8 @@ https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 https://sr-live4-frndly.akamaized.net/out/v1/31a8f6cb5d9e45ad855483bde45f4370/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",Discovery Channel
 https://cdn1-9p.teleuptv.net/5dd8accc-dc30-40a8-91ef-ab0cc7d4b741/index.m3u8
+#EXTINF:-1 group-title="Live",Disney
+https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8
 #EXTINF:-1 group-title="Live",DMAX
 https://raw.githubusercontent.com/bkc302/playlist/master/days_of_the_week/dm.m3u
 #EXTINF:-1 group-title="Live",Dove
