@@ -125,6 +125,8 @@ https://cdn1-9p.teleuptv.net/b2d4e647-0a95-4f63-bb6c-e811bbf06dd1/index.m3u8
 https://gcdn-p8.teleuptv.net/feba6738-a2a5-4819-8eb4-b32012b99539/index.m3u8
 #EXTINF:-1 group-title="Live",NBC
 https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/index.m3u8
+#EXTINF:-1 group-title="Live",Nicktoons
+https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8
 #EXTINF:-1 group-title="Live",Outdoor Channel
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/8d58b5f849374df681874567068e739c/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",PBS KET
@@ -181,6 +183,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="Live",Tvland
+https://livecdn-iptv001.rumsport.com/stream/2364/index.m3u8
 #EXTINF:-1 group-title="Live",UPtv
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/af5c489b4976462b909c79c42c9614d1/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",USA Network
