@@ -33,6 +33,8 @@ https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 https://cdn1-9p.teleuptv.net/29681c85-5fc3-4b52-9a41-af05b3ef362d/index.m3u8
 #EXTINF:-1 group-title="Live",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Live",Comedy Central
+https://livecdn-iptv001.rumsport.com/stream/754/index.m3u8
 #EXTINF:-1 group-title="Live",Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 group-title="Live",Crime + Investigation
@@ -41,8 +43,12 @@ https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c
 https://sr-live4-frndly.akamaized.net/out/v1/31a8f6cb5d9e45ad855483bde45f4370/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 group-title="Live",Discovery Channel
 https://cdn1-9p.teleuptv.net/5dd8accc-dc30-40a8-91ef-ab0cc7d4b741/index.m3u8
+#EXTINF:-1 group-title="Live",Discovery Science
+https://raw.githubusercontent.com/bkc302/playlist/master/days_of_the_week/ds.m3u
 #EXTINF:-1 group-title="Live",Disney
 https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8
+#EXTINF:-1 group-title="Live",Disney XD
+https://livecdn-iptv001.rumsport.com/stream/6395/index.m3u8
 #EXTINF:-1 group-title="Live",DMAX
 https://raw.githubusercontent.com/bkc302/playlist/master/days_of_the_week/dm.m3u
 #EXTINF:-1 group-title="Live",Dove
@@ -99,6 +105,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="Live",INSP
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/19fe6b3f39b54f4a921b697319ad2b2b/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 group-title="Live",Investigation Discovery
+https://raw.githubusercontent.com/bkc302/playlist/master/days_of_the_week/id.m3u
 #EXTINF:-1 group-title="Live",ION
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=YhzbbgUxWjTPRYVzzmXA
 #EXTINF:-1 group-title="Live",ION Mystery
@@ -125,10 +133,14 @@ https://cdn1-9p.teleuptv.net/b2d4e647-0a95-4f63-bb6c-e811bbf06dd1/index.m3u8
 https://gcdn-p8.teleuptv.net/feba6738-a2a5-4819-8eb4-b32012b99539/index.m3u8
 #EXTINF:-1 group-title="Live",NBC
 https://cdn1-9p.teleuptv.net/53d2c41f-912b-4590-8a70-1bf12fb083a9/index.m3u8
+#EXTINF:-1 group-title="Live",Nickelodeon
+https://livecdn-iptv001.rumsport.com/stream/764/index.m3u8
 #EXTINF:-1 group-title="Live",Nicktoons
 https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8
 #EXTINF:-1 group-title="Live",Outdoor Channel
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/8d58b5f849374df681874567068e739c/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
+#EXTINF:-1 group-title="Live",Paramount Network
+https://livecdn-iptv001.rumsport.com/stream/14839/index.m3u8
 #EXTINF:-1 group-title="Live",PBS KET
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 group-title="Live",PBS KET KY
@@ -161,6 +173,8 @@ https://cdn1-9p.teleuptv.net/f0bf4f78-e3fc-409d-bbd5-fda2948d2b05/index.m3u8
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
 #EXTINF:-1 group-title="Live",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Live",TeenNick
+https://livecdn-iptv001.rumsport.com/stream/15058/index.m3u8
 #EXTINF:-1 group-title="Live",The Cowboy Channel
 https://rfdtv-jw.cdn.vustreams.com/live/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf/live.isml/e72bcb8b-2e76-49d6-99e9-c09d224e8bdf.m3u8
 #EXTINF:-1 group-title="Live",The CW Network
@@ -183,7 +197,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Live",Turner Classic Movies
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="Live",Tvland
+#EXTINF:-1 group-title="Live",TV Land
 https://livecdn-iptv001.rumsport.com/stream/2364/index.m3u8
 #EXTINF:-1 group-title="Live",UPtv
 https://sr-live5-frndly.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/live_v2_nr_new/af5c489b4976462b909c79c42c9614d1/index.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
